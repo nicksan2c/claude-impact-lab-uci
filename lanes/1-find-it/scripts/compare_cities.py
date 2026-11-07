@@ -11,9 +11,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, '..', 'data')
 MARKET = os.path.join(DATA, 'market')
 
-# The team's shortlist (2026-11-07): lower-priced OC cities. Laguna Woods left out on purpose:
-# it is a retirement community. Stanton added by the team (no price data in the market file).
-CITIES = ['Santa Ana', 'Anaheim', 'Garden Grove', 'Stanton']
+from cities import CITIES  # same 30 cities as the main page dropdown; Laguna Woods not included
 
 
 def main():
@@ -43,8 +41,10 @@ def main():
             'ab2011_possible': c['ab2011']['Possible'],
             'sb4_proxy_sites': sum(bool(r['sb4_proxy_use']) and r['sb4'] != 'Not likely' for r in rows),
             'zone_unknown': sum(r['zone_type'] in ('unknown', 'specific plan') for r in rows),
-            'flood_zone': sum(bool(r['flood_zone']) for r in rows),
-            'fire_zone': sum(bool(r['fire_zone']) for r in rows),
+            'flood_zone': (sum(bool(r['flood_zone']) for r in rows)
+                           if rows[0]['flood_zone'] != 'not checked' else 'not checked'),
+            'fire_zone': (sum(bool(r['fire_zone']) for r in rows)
+                          if rows[0]['fire_zone'] != 'not checked' else 'not checked'),
             'historic': (f"{sum(bool(r['historic_district']) for r in rows):,}"
                          if rows and rows[0]['historic_district'] != 'not checked' else 'not checked'),
             'shortlist_note': notes.get(name, {}).get('Main distinction', ''),
@@ -58,11 +58,11 @@ def main():
 
     fmt = lambda v: f'{v:,}' if isinstance(v, int) else v
     lines = [
-        '# City comparison: four-law screen in lower-priced OC cities', '',
+        '# City comparison: which housing law might apply, by city', '',
         '**Prototype only. Not legal advice.** "Possible" = passed the tests free data can run. '
         'See each city folder README for the tests and limits.', '',
-        'Cities: the team\'s shortlist (2026-11-07). Laguna Woods is left out on purpose (retirement '
-        'community). Stanton was added by the team and has no price data.',
+        'Cities: the same 30 as the main page dropdown (SCAG housing-element sites or HCD surplus '
+        'notices). Laguna Woods is not included (retirement community). "no data" = not in the price file.',
         'Price and listing counts come from `market/city-median-asking-price.csv` (team-provided; '
         '**original source and date unknown**).', '',
         '| City | Median asking price | Homes listed | Parcels | SB 9 Possible (splittable lot) | '
@@ -76,7 +76,13 @@ def main():
                      f"{fmt(r['sb1123_vacant_sf_lots'])} | {fmt(r['ab2011_possible'])} | {fmt(r['sb4_proxy_sites'])} | "
                      f"{fmt(r['zone_unknown'])} | {fmt(r['flood_zone'])} | {fmt(r['fire_zone'])} | {r['historic']} |")
     lines += ['', 'Historic districts are mapped for Anaheim only; elsewhere that SB 9 test is not checked.',
-              'The fire column covers local responsibility areas (LRA) only.']
+              'The fire column covers local responsibility areas (LRA) only.',
+              'Fire and flood show "not checked" where the county map server (ocgis.com) was down on '
+              '2026-11-07; rerun fetch_city.py without --no-hazards when it is back.',
+              'Irvine SB 4: about 1,150 of its sites are college land in city zone 6.1, likely public '
+              'university land. Public colleges do not qualify for SB 4.',
+              'Newport Beach and Tustin: city zone "PC" (planned community) with a generic SCAG code is '
+              'counted as zone unknown; the rules are in each planned-community text.']
     open(os.path.join(DATA, 'CITY-COMPARISON.md'), 'w').write('\n'.join(lines) + '\n')
     print('\n'.join(lines))
 

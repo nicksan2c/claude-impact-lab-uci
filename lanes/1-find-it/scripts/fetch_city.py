@@ -29,10 +29,12 @@ LAYERS = {
                      'PID24,LU24,LU24_2ND,YEAR', False),
     'scag_genplan': (f'{SCAG}/GeneralPlan_poly_OR/MapServer/0', CITY,
                      'PID24,GP24_CITY,GP24_SCAG,DEN_MAX,FAR_MAX,YEAR_GP', False),
-    # County parcels have site addresses but no city field; the address ends with the city name.
-    'oc_addresses': (f'{OCGIS}/Parcels/FeatureServer/0', f"SITE_ADDRESS LIKE '% {CITY_NAME.upper()}'",
-                     'ASSESSMENT_NO,SITE_ADDRESS', False),
 }
+# County parcels have site addresses but no city field, so this is a slow text search on the county
+# server. Opt in with --addresses; otherwise rank_sites.py looks up addresses for ranked sites only.
+if '--addresses' in sys.argv:
+    LAYERS['oc_addresses'] = (f'{OCGIS}/Parcels/FeatureServer/0', f"SITE_ADDRESS LIKE '% {CITY_NAME.upper()}'",
+                              'ASSESSMENT_NO,SITE_ADDRESS', False)
 if CITY_NAME == 'Anaheim':  # only Anaheim publishes a historic-district layer
     LAYERS['anaheim_historic'] = (f'{ANA}/14', '1=1', 'DISTRICTNAME,STATUS,DISTRICTTYPE', True)
 # Hazard layers clipped to the Anaheim bounding box (filled in after zoning downloads).
@@ -69,8 +71,9 @@ def fetch(name, url, where, fields, geom, extra=None):
     ids = sorted(get(url, {**base, 'returnIdsOnly': 'true'})['objectIds'] or [])
     print(name, len(ids), 'rows')
     feats = []
-    for i in range(0, len(ids), 1000):
-        chunk = ids[i:i + 1000]
+    step = 2000 if url.startswith(SCAG) else 1000  # SCAG allows 2,000 per request; OC 1,000
+    for i in range(0, len(ids), step):
+        chunk = ids[i:i + step]
         params = {'objectIds': ','.join(map(str, chunk)), 'outFields': fields,
                   'returnGeometry': 'true' if geom else 'false'}
         if geom:
@@ -97,6 +100,8 @@ def main():
                 ys.append(y)
     env = {'geometry': f'{min(xs)},{min(ys)},{max(xs)},{max(ys)}', 'geometryType': 'esriGeometryEnvelope',
            'inSR': 4326, 'spatialRel': 'esriSpatialRelIntersects'}
+    if '--no-hazards' in sys.argv:  # county server down: screen marks fire/flood "not checked"
+        return
     for n, (url, where, fields) in HAZARDS.items():
         fetch(n, url, where, fields, True, env)
 

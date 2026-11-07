@@ -1,5 +1,31 @@
 city,median_asking_price,homes_listed,parcels,sb9_possible,sb9_possible_splittable,sb684_possible,sb1123_vacant_sf_lots,ab2011_possible,sb4_proxy_sites,zone_unknown,flood_zone,fire_zone,historic,shortlist_note
-Santa Ana,"$849,444",435,42536,26135,25925,5564,97,1838,152,3734,3474,0,not checked,Broad mix of housing types at different price points.
+Aliso Viejo,no data,no data,7401,4532,4482,1480,0,593,33,116,not checked,not checked,not checked,
 Anaheim,"$943,675",579,56478,33382,33203,6311,84,1513,142,5941,351,7015,"4,165",Strong candidate when you want more inventory to choose from.
+Brea,no data,no data,12058,5978,5940,1654,0,695,16,2028,not checked,not checked,not checked,
+Buena Park,no data,no data,17877,13261,13195,2580,40,629,62,63,not checked,not checked,not checked,Expand here alongside La Habra and Anaheim.
+Cypress,no data,no data,12696,8281,8266,764,9,141,53,1445,not checked,not checked,not checked,
+Dana Point,no data,no data,10962,7816,7594,1761,241,243,10,900,not checked,not checked,not checked,
+Fountain Valley,no data,no data,15985,13323,12932,1862,18,234,35,247,not checked,not checked,not checked,
+Fullerton,no data,no data,29526,19483,19422,2447,28,4926,73,1532,not checked,not checked,not checked,
 Garden Grove,"$992,250",236,32745,22741,22614,4279,76,1554,69,515,3639,0,not checked,Important comparison city for detached-home searches.
+Irvine,"$1,625,000","1,006",56355,43953,41100,4122,258,2015,1228,3624,not checked,not checked,not checked,
+La Habra,no data,no data,12795,9339,9320,1654,4,379,23,1119,not checked,not checked,not checked,Useful alternative to the larger central-OC cities.
+La Palma,no data,no data,4113,3659,3650,285,3,83,2,27,not checked,not checked,not checked,
+Laguna Beach,no data,no data,11029,9196,8491,15,647,1197,29,228,not checked,not checked,not checked,
+Laguna Hills,no data,no data,7648,6608,6112,2,29,240,0,645,not checked,not checked,not checked,
+Laguna Niguel,no data,no data,17940,13069,13032,264,16,208,8,832,not checked,not checked,not checked,
+Lake Forest,"$1,224,500",300,21210,11779,11577,449,3,759,16,18,not checked,not checked,not checked,
+Los Alamitos,no data,no data,2598,1529,1528,287,1,166,6,13,not checked,not checked,not checked,
+Mission Viejo,no data,no data,28016,27168,26464,9,2,457,22,9,not checked,not checked,not checked,
+Newport Beach,no data,no data,28418,10765,9417,5676,0,806,28,10733,not checked,not checked,not checked,
+Orange,"$1,205,950",268,31554,23659,23417,4198,243,1367,127,380,not checked,not checked,not checked,
+Placentia,no data,no data,12903,10460,9485,761,22,1194,9,244,not checked,not checked,not checked,
+San Clemente,no data,no data,20573,7020,6692,3327,117,670,18,9285,not checked,not checked,not checked,
+San Juan Capistrano,no data,no data,9699,3910,3890,367,59,253,12,3177,not checked,not checked,not checked,
+Santa Ana,"$849,444",435,42536,26135,25925,5564,97,1838,152,3734,3474,0,not checked,Broad mix of housing types at different price points.
+Seal Beach,no data,no data,5499,3597,3339,1370,21,103,8,182,not checked,not checked,not checked,
 Stanton,no data,no data,5276,2808,2764,1447,9,307,10,90,9,0,not checked,Worth including even though it is a smaller market.
+Tustin,no data,no data,13722,2853,2822,1506,11,377,29,2228,not checked,not checked,not checked,
+Villa Park,no data,no data,2068,2042,2039,0,0,13,0,0,not checked,not checked,not checked,
+Westminster,no data,no data,18649,13582,13557,3850,6,756,61,60,not checked,not checked,not checked,Compare individual properties rather than assuming every neighborhood is inexpensive.
+Yorba Linda,no data,no data,20513,11186,11133,382,17,148,27,8357,not checked,not checked,not checked,

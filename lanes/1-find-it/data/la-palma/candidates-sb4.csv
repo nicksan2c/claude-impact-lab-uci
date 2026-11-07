@@ -1,0 +1,3 @@
+city,apn,address,lat,lon,acres,lot_sqft,zone_city,zone_type,general_plan_city,existing_use,fire_zone,flood_zone,historic_district,surplus_notice,sb4,sb4_proxy_use,sb4_why
+La Palma,26207617,,33.843214,-118.046694,0.898,39127,PI,other,PI,Religious Facilities,not checked,not checked,not checked,,Unknown,religious facility,PROXY: land use is religious facility; confirm owner with the Assessor; fire and flood zones not checked (county server down)
+La Palma,26207614,,33.843504,-118.046594,0.323,14089,PI,other,PI,Religious Facilities,not checked,not checked,not checked,,Unknown,religious facility,PROXY: land use is religious facility; confirm owner with the Assessor; fire and flood zones not checked (county server down)

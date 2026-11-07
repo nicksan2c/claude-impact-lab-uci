@@ -65,6 +65,7 @@ async function init() {
     return;
   }
   $('cl-city').innerHTML = DATA.cities.map((c) => `<option>${esc(c)}</option>`).join('');
+  if (DATA.cities.includes('Anaheim')) $('cl-city').value = 'Anaheim'; // same default as the main page
   $('cl-law').innerHTML = Object.keys(DATA.laws).map((l) => `<option>${esc(l)}</option>`).join('');
   $('cl-city').addEventListener('change', render);
   $('cl-law').addEventListener('change', render);

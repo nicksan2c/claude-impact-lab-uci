@@ -13,7 +13,7 @@ import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, '..', 'data')
-CITIES = ['Santa Ana', 'Anaheim', 'Garden Grove', 'Stanton']
+from cities import CITIES  # same 30 cities as the main page dropdown
 TOP_CSV, TOP_MD = 20, 10
 
 
@@ -43,12 +43,12 @@ LAWS = {
         'Commercial corridor frontage; industrial neighbors; affordability and prevailing-wage terms; '
         'city "exempt and replace" list; tenants on site'),
     'SB 684': (
-        lambda r: r['sb684_1123'] == 'Possible' and r['sb684_1123_path'] == 'SB 684' and not r['flood_zone'],
+        lambda r: r['sb684_1123'] == 'Possible' and r['sb684_1123_path'] == 'SB 684' and r['flood_zone'] in ('', 'not checked'),
         lambda r: (tier(r['use_code'])[0], -acres(r)),
         'Ten or fewer homes and lots; no tenant or rent-controlled housing removed; utilities; '
         'urban lot'),
     'SB 1123': (
-        lambda r: r['sb684_1123_path'] == 'SB 1123' and r['sb684_1123'] == 'Unknown' and not r['flood_zone'],
+        lambda r: r['sb684_1123_path'] == 'SB 1123' and r['sb684_1123'] == 'Unknown' and r['flood_zone'] in ('', 'not checked'),
         lambda r: -acres(r),
         'Confirm the lot is vacant; SB 1123 lot-size limit (read the statute); ten or fewer homes'),
     'SB 4': (
@@ -85,7 +85,10 @@ def main():
                     'city': city, 'law': law, 'rank': i, 'apn': r['apn'], 'address': r['address'] or 'unknown',
                     'acres': r['acres'], 'zone_city': r['zone_city'], 'existing_use': r['existing_use'] or 'unknown',
                     'use_group': tier(r['use_code'])[1], 'public_owner_notice': r['surplus_notice'] or 'no',
-                    'flags': '; '.join(f for f in [f"fire {r['fire_zone']}" if r['fire_zone'] else '',
+                    'flags': '; '.join(f for f in ['likely public university land: does not qualify if so'
+                                                   if law == 'SB 4' and city == 'Irvine'
+                                                   and r['sb4_proxy_use'] == 'college or university' else '','fire/flood not checked' if r['fire_zone'] == 'not checked' else
+                                                   f"fire {r['fire_zone']}" if r['fire_zone'] else '',
                                                    f"historic {r['historic_district']}"
                                                    if r['historic_district'] not in ('', 'not checked') else '']
                                        if f),

@@ -131,3 +131,19 @@ attached by constrained to these cities and thresholds" (Laguna Woods, Santa Ana
 **Prompt:** "so that changed the title of the web page itself but not the button"
 - Changed the main button from "Find 10 sites" to "Find sites" (`html/index.html`). The results
   summary still says how many are shown. Committed and pushed to main.
+
+**Prompt:** "how many cities are in the sites to call drop down list? the call list by law only has 4
+cities? it should be updated to the same exact cities as the sites to call page. Please fix"
+- Main page dropdown = 30 cities (SCAG housing-element sites or HCD surplus notices, minus
+  unincorporated). Added the 26 missing cities; shared list in `lanes/1-find-it/scripts/cities.py`.
+- Bigger SCAG pages (2,000) for speed. Full parcel CSVs and SB 9 lists now git-ignored (size).
+- The county map server (ocgis.com) began returning errors during the address downloads; stopped
+  all county requests. New cities: fire/flood marked "not checked" (flag, never "no hazard"),
+  addresses unknown (map link works). `fetch_city.py` now has `--no-hazards` and opt-in `--addresses`.
+- Data fixes: city zone "PC" with a generic SCAG code counts as zone unknown (Newport Beach AB 2011
+  went from 10,278 to 806); Irvine SB 4 college sites flagged as likely public university land.
+- Call list: 2,558 leads in 30 cities; page tested. Committed and pushed to main.
+
+**Prompts in between:** "how big are the CVS per city?", "would I be able to use git-lfs on a free
+github account" (yes: 10 GiB storage and 10 GiB bandwidth per month; not used today), "understood",
+"how are we doing so far?"

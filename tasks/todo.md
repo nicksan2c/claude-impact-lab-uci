@@ -224,3 +224,15 @@ written as `unknown`, never left blank.
 
 - New page works offline from one JSON file (190 KB); no live service calls.
 - Goes live on GitHub Pages once this branch is merged to main.
+
+# Plan 8: Call list for all 30 dropdown cities
+
+- [x] Shared 30-city list; download 26 more cities from SCAG
+- [x] Big CSVs out of git; county server outage handled ("not checked" flags)
+- [x] Fix PC zones and flag Irvine SB 4 college land
+- [x] Rebuild call list (2,558 leads) and comparison; page tested
+
+## Review (Plan 8)
+
+- When ocgis.com is back: rerun `fetch_city.py "<city>"` (no `--no-hazards`) one city at a time,
+  then `screen_city.py`, `rank_sites.py`, `compare_cities.py`.

@@ -19,3 +19,6 @@ build/
 .DS_Store
 *.zip
 lanes/1-find-it/data/*/raw/
+# Large per-city outputs: rebuild with lanes/1-find-it/scripts/screen_city.py
+lanes/1-find-it/data/*/*-parcels-screened.csv
+lanes/1-find-it/data/*/candidates-sb9.csv

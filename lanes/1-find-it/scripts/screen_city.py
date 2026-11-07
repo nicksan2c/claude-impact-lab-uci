@@ -88,8 +88,12 @@ class Polys:
         return ''
 
 
-def zone_type(code):  # same buckets as html/laws.js zoneType()
+def zone_type(code, city_zone=''):  # same buckets as html/laws.js zoneType()
     c = code or ''
+    # City zone "PC" (planned community) with only a generic SCAG code: the rules are in the
+    # planned-community text, like a specific plan (Newport Beach, Tustin). Seen 2026-11-07.
+    if (city_zone or '').strip().upper() == 'PC' and c in ('1600', '1100'):
+        return 'specific plan'
     if not c or c == '9999':
         return 'unknown'
     if c == '7777':
@@ -116,7 +120,12 @@ def verdict(results):
 def screen(p):
     zt, acres, sqft = p['zone_type'], p['acres'], p['lot_sqft']
     zone_unknown = zt in ('unknown', 'specific plan')
-    fire, flood, hist = p['fire_zone'], p['flood_zone'], p['historic_district']
+    # "not checked" (layer missing) is not a hit, but it is never read as "no hazard" either.
+    nc = 'not checked'
+    fire = '' if p['fire_zone'] == nc else p['fire_zone']
+    flood = '' if p['flood_zone'] == nc else p['flood_zone']
+    hist = p['historic_district']
+    hazards_nc = p['fire_zone'] == nc
     lu = {p['use_code'], p['use_code_2nd']}
     out = {}
 
@@ -132,6 +141,8 @@ def screen(p):
         t.append('unknown'); why.append(f'in {hist} historic district: check for contributing structure')
     if fire or flood:
         t.append('unknown'); why.append('in fire or flood zone: check 65913.4(a)(6) exceptions')
+    if hazards_nc:
+        why.append('fire and flood zones not checked (county server down)')
     out['sb9'] = verdict(t)
     out['sb9_lot_split_size'] = 'unknown' if not sqft else ('pass' if sqft >= SB9_MIN_SPLIT_SQFT else 'fail')
     out['sb9_why'] = '; '.join(why)
@@ -160,6 +171,8 @@ def screen(p):
             t.append('fail'); why.append(f'{acres:.2f} acres (5+)')
     if fire:
         t.append('fail'); why.append(f'{fire} fire hazard zone')
+    if hazards_nc:
+        why.append('fire zones not checked (county server down)')
     out['sb684_1123'] = verdict(t)
     out['sb684_1123_path'] = path
     out['sb684_1123_why'] = '; '.join(why)
@@ -172,6 +185,8 @@ def screen(p):
         t.append('fail'); why.append(f'zone is {zt}')
     if fire or flood:
         t.append('unknown'); why.append('in fire or flood zone: check environmental criteria')
+    if hazards_nc:
+        why.append('fire and flood zones not checked (county server down)')
     out['ab2011'] = verdict(t)
     out['ab2011_why'] = '; '.join(why)
 
@@ -189,6 +204,8 @@ def screen(p):
         t.append('fail'); why.append('very high fire hazard zone')
     if flood:
         t.append('fail'); why.append(f'FEMA flood zone {flood}')
+    if hazards_nc:
+        why.append('fire and flood zones not checked (county server down)')
     out['sb4'] = verdict(t)
     out['sb4_proxy_use'] = use
     out['sb4_why'] = '; '.join(why)
@@ -200,14 +217,15 @@ def main():
     lu = {f['attributes']['PID24']: f['attributes'] for f in load('scag_landuse')}
     gp = {f['attributes']['PID24']: f['attributes'] for f in load('scag_genplan')}
     addr = {}
-    for f in load('oc_addresses'):
+    for f in load('oc_addresses') or []:  # optional: see fetch_city.py --addresses
         a = f['attributes']
         site = (a['SITE_ADDRESS'] or '').strip()
         if site.upper().endswith(' ' + CITY_NAME.upper()):
             site = site[:-len(CITY_NAME)].strip()
         addr.setdefault((a['ASSESSMENT_NO'] or '').replace('-', ''), site)
-    fire = Polys(load('oc_fire_lra'), lambda a: a['HAZ_CLASS'])
-    flood = Polys(load('oc_flood_sfha'), lambda a: a['FLD_ZONE'])
+    fire_f, flood_f = load('oc_fire_lra'), load('oc_flood_sfha')
+    fire = Polys(fire_f, lambda a: a['HAZ_CLASS']) if fire_f is not None else None
+    flood = Polys(flood_f, lambda a: a['FLD_ZONE']) if flood_f is not None else None
     hist_feats = load('anaheim_historic')
     hist = Polys(hist_feats, lambda a: a['DISTRICTNAME']) if hist_feats else None
     surplus = {r['apn'].replace('-', '') for r in json.load(open(SURPLUS))['rows']
@@ -229,11 +247,12 @@ def main():
             'slope': z['SLOPE'],
             'parent_parcel': 'yes' if z['PARENT_INDEX'] else '',  # outline of other parcels
             'zone_city': z['ZN24_CITY'], 'zone_scag': z['ZN24_SCAG'],
-            'zone_type': zone_type(z['ZN24_SCAG']),
+            'zone_type': zone_type(z['ZN24_SCAG'], z['ZN24_CITY']),
             'general_plan_city': g.get('GP24_CITY', ''), 'gp_max_density': g.get('DEN_MAX'),
             'use_code': l.get('LU24') or '', 'use_code_2nd': l.get('LU24_2ND') or '',
             'existing_use': names.get(l.get('LU24') or '', ''),
-            'fire_zone': fire.find(x, y), 'flood_zone': flood.find(x, y),
+            'fire_zone': fire.find(x, y) if fire else 'not checked',
+            'flood_zone': flood.find(x, y) if flood else 'not checked',
             'historic_district': hist.find(x, y) if hist else 'not checked',
             'surplus_notice': 'yes' if z['APN24'] in surplus else '',
         }
@@ -256,6 +275,33 @@ def main():
         sel = sorted((r for r in rows if keep(r)), key=lambda r: -(r['acres'] or 0))
         write(os.path.join(OUT, f'candidates-{name}.csv'), sel, base + extra)
     summary(rows)
+    readme(rows[0]['historic_district'] != 'not checked')
+
+
+def readme(has_historic):
+    path = os.path.join(OUT, 'README.md')
+    if os.path.exists(path):
+        return
+    hist = ('' if has_historic else f'\nThe one difference: **{CITY_NAME} has no historic-district layer**, so that SB 9 test is '
+            '"not checked" (it does not change the verdict). Confirm historic status with the city.\n')
+    open(path, 'w').write(f'''# {CITY_NAME}: every parcel checked for SB 9, SB 684/1123, AB 2011 and SB 4
+
+**Prototype only. Not legal advice.** Counts are in [SUMMARY.md](SUMMARY.md); all cities side by side
+are in [../CITY-COMPARISON.md](../CITY-COMPARISON.md); top sites are in [../CALL-LIST.md](../CALL-LIST.md).
+
+Sources, tests and limits are the same as Anaheim's: see [../anaheim/README.md](../anaheim/README.md).
+{hist}
+Files: one `candidates-*.csv` per law. The full parcel CSV and the SB 9 list are not in git because of
+size. Rebuild them:
+
+```bash
+python3 lanes/1-find-it/scripts/fetch_city.py "{CITY_NAME}"
+```
+
+```bash
+python3 lanes/1-find-it/scripts/screen_city.py "{CITY_NAME}"
+```
+''')
 
 
 def write(path, rows, cols):
@@ -284,8 +330,9 @@ def summary(rows):
               f"SB 4 proxy sites (religious or college land use): {sum(bool(r['sb4_proxy_use']) for r in rows):,}; "
               f"not ruled out by flood or fire: {sum(bool(r['sb4_proxy_use']) and r['sb4'] != 'Not likely' for r in rows):,}.",
               f"Zone unknown (specific plan or no code): {sum(r['zone_type'] in ('unknown', 'specific plan') for r in rows):,}.",
-              f"In a FEMA flood zone: {sum(bool(r['flood_zone']) for r in rows):,}. "
-              f"In a very high fire zone (LRA): {sum(bool(r['fire_zone']) for r in rows):,}. "
+              (f"In a FEMA flood zone: {sum(bool(r['flood_zone']) for r in rows):,}. "
+               f"In a very high fire zone (LRA): {sum(bool(r['fire_zone']) for r in rows):,}. "
+               if rows[0]['fire_zone'] != 'not checked' else 'Fire and flood zones: not checked (county server down). ') +
               f"In a historic district: " + (f"{sum(bool(r['historic_district']) for r in rows):,}."
                                               if rows[0]['historic_district'] != 'not checked'
                                               else "not checked (no city layer)."),

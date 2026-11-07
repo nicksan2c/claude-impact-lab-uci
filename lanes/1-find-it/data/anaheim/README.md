@@ -21,8 +21,8 @@ Counts are in [SUMMARY.md](SUMMARY.md). Other cities use the same scripts and te
 
 | File | What it is |
 |---|---|
-| `anaheim-parcels-screened.csv` | All 56,478 Anaheim parcels, with zoning, land use, hazards and a verdict per law |
-| `candidates-sb9.csv` | Parcels where SB 9 is Possible or Unknown, largest first |
+| `anaheim-parcels-screened.csv` | Not in git (size); rebuild with the scripts. All 56,478 Anaheim parcels, with zoning, land use, hazards and a verdict per law |
+| `candidates-sb9.csv` | Not in git (size). Parcels where SB 9 is Possible or Unknown, largest first |
 | `candidates-sb684-sb1123.csv` | Multifamily-zoned lots under 5 acres (SB 684), plus vacant single-family lots (SB 1123) |
 | `candidates-ab2011.csv` | Commercially zoned parcels (AB 2011) |
 | `candidates-sb4.csv` | 142 parcels mapped as religious facilities or colleges (SB 4 **proxy**) |
