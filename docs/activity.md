@@ -115,3 +115,9 @@ attached by constrained to these cities and thresholds" (Laguna Woods, Santa Ana
   `rank_sites.py` now writes. Linked from the main page header. Every div has an id.
 - Tested in the browser preview: switching city and law, row click to map popup, no console errors.
 - Updated the README ("What we built" item 8). Committed and pushed.
+
+**Prompt:** "Yes, merge it" / "Yes, switch it on"
+- Merged PR nicksan2c/claude-impact-lab-uci#1 into main. The Pages deploy failed: Pages was not enabled.
+- With approval, enabled GitHub Pages (source: GitHub Actions) via the API and re-ran the deploy.
+  It succeeded. Live: https://nicksan2c.github.io/claude-impact-lab-uci/ and `/call-list.html`
+  (checked: 20 rows and 20 map markers load).
