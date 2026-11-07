@@ -33,6 +33,12 @@ from the 2026-11-07 build (568,842 parcels checked across 30 OC cities).
 - Do one practice run first. If the room is loud, record the screen silently and add the voiceover
   afterwards in QuickTime or iMovie.
 
+**Ready-made draft:** `docs/demo-video.mp4` (30 s, 1280 × 800, 1 MB). Built from five
+screenshots of the Call List page (headless Chrome), the macOS "Samantha" voice reading the lines
+above, and a caption bar (ffmpeg). Replace the voice with a team member's if there is time.
+Shareable page links used for the shots: `call-list.html?city=Santa%20Ana&law=AB%202011&row=2` and
+`call-list.html?city=Anaheim&law=SB%204&row=1`.
+
 **Backup (main page):** pick Anaheim, click **Find sites**, open a card's **Show tests**. That page
 calls the county map services live, so check it loads before recording.
 

@@ -157,3 +157,10 @@ github account" (yes: 10 GiB storage and 10 GiB bandwidth per month; not used to
   video section of `docs/demo-script.md` around the Call List page (live numbers: 568,842 parcels,
   30 cities; Santa Ana AB 2011 #2 parking lot; Anaheim SB 4 #1 at 1111 N Brookhurst St), with Mac
   recording steps (Cmd + Shift + 5). Committed and pushed.
+
+**Prompt:** "I am doing this in my shell right now" (sudo port install ffmpeg)
+- With ffmpeg available, built a 30-second draft video: five headless-Chrome screenshots of the
+  Call List page, macOS "Samantha" voiceover of the script lines, caption bar. Saved as
+  `docs/demo-video.mp4` (1 MB).
+- Added shareable links to the Call List page: `?city=…&law=…&row=…` opens that view.
+- Committed and pushed to main.

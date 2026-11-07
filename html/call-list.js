@@ -67,9 +67,14 @@ async function init() {
   $('cl-city').innerHTML = DATA.cities.map((c) => `<option>${esc(c)}</option>`).join('');
   if (DATA.cities.includes('Anaheim')) $('cl-city').value = 'Anaheim'; // same default as the main page
   $('cl-law').innerHTML = Object.keys(DATA.laws).map((l) => `<option>${esc(l)}</option>`).join('');
+  // Shareable links: call-list.html?city=Santa Ana&law=AB 2011&row=2
+  const q = new URLSearchParams(location.search);
+  if (DATA.cities.includes(q.get('city'))) $('cl-city').value = q.get('city');
+  if (q.get('law') in DATA.laws) $('cl-law').value = q.get('law');
   $('cl-city').addEventListener('change', render);
   $('cl-law').addEventListener('change', render);
   render();
+  if (q.get('row')) highlight(Number(q.get('row')), true);
 }
 
 init();
