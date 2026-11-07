@@ -1,4 +1,4 @@
-// Ten Sites to Call: ranks affordable-housing site leads for one Orange County city.
+// Sites to Call: ranks affordable-housing site leads for one Orange County city.
 // All data comes live from public map services, plus a cached copy of the HCD surplus-land CSV.
 
 const CHECKED = '2026-11-07';
@@ -416,7 +416,7 @@ function downloadCsv() {
   });
 
   const notes = [
-    ['Ten Sites to Call: prototype from the Claude Impact Lab. Not legal, financial or lending advice. Every site is a lead to check, not a confirmed opportunity.'],
+    ['Sites to Call: prototype from the Claude Impact Lab. Not legal, financial or lending advice. Every site is a lead to check, not a confirmed opportunity.'],
     [`City: ${titleCase(city)}. Data checked live ${checked.toISOString()}. Surplus notices from a copy downloaded ${surplusData.downloaded}.`],
     ['Scores are ASSUMPTION (team-chosen points). Law columns are a first screen from HCD fact sheets (April 2026), not a legal determination. "unknown" means the source does not say.'],
     [`Sources: ${Object.values(SRC).map((s) => `${s.name} ${s.url}`).join(' | ')} | ${LAW_SOURCES.facts} | ${LAW_SOURCES.sb9}`],

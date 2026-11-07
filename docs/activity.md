@@ -121,3 +121,9 @@ attached by constrained to these cities and thresholds" (Laguna Woods, Santa Ana
 - With approval, enabled GitHub Pages (source: GitHub Actions) via the API and re-ran the deploy.
   It succeeded. Live: https://nicksan2c.github.io/claude-impact-lab-uci/ and `/call-list.html`
   (checked: 20 rows and 20 map markers load).
+
+**Prompt:** "it seems that the title Ten Sites to Call is misleading since there are more than 10 cities?" / "Yes, rename it"
+- Renamed the app "Sites to Call": page title and heading (`html/index.html`), back link
+  (`html/call-list.html`), `app.js` header comment and CSV caveat line, README and demo script
+  titles. Kept the scenario quote ("ten sites…"), the "Find 10 sites" button and the CSV line (the
+  main page still returns 10). Checked in the preview. Committed and pushed to main.

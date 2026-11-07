@@ -1,4 +1,4 @@
-# Demo script: Ten Sites to Call
+# Demo script: Sites to Call
 
 Two versions: the **30-second video** for the submission (due 2:30 PM) and the **live demo** if
 we are a finalist (3:00 PM). Every number below came from a real run on 2026-11-07. Re-run before

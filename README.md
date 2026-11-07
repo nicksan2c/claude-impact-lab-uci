@@ -1,4 +1,4 @@
-# Ten Sites to Call
+# Sites to Call
 
 > For a one-person acquisitions lead at a small housing nonprofit: pick an Orange County city and
 > get the ten best affordable-housing site leads to call about this month, with the reasons, the
