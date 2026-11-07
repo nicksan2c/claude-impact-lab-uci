@@ -151,3 +151,9 @@ github account" (yes: 10 GiB storage and 10 GiB bandwidth per month; not used to
   (2 small requests each), re-screened and re-ranked. No site is "not checked" for hazards now;
   the call list has 2,482 leads (flood-zone parcels drop out). Addresses for new cities are still
   unknown (the bulk address search is heavy; skipped). Committed and pushed to main.
+
+**Prompt:** "what about creating the 30 second video"
+- No ffmpeg on this Mac and the screen must be recorded by the team, so rewrote the 30-second
+  video section of `docs/demo-script.md` around the Call List page (live numbers: 568,842 parcels,
+  30 cities; Santa Ana AB 2011 #2 parking lot; Anaheim SB 4 #1 at 1111 N Brookhurst St), with Mac
+  recording steps (Cmd + Shift + 5). Committed and pushed.

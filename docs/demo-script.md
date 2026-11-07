@@ -12,21 +12,29 @@ month, and why each one."*
 
 ## 1. The 30-second video
 
-Screen recording of the browser, with voiceover. About 75 words total.
+Screen recording of the browser, with voiceover, about 75 words. It uses the **Call List by Law**
+page, which reads one saved file, so it works even if a county map server is slow. Numbers are
+from the 2026-11-07 build (568,842 parcels checked across 30 OC cities).
 
 | Time | On screen | Voiceover |
 |---|---|---|
-| 0–5 s | Page title and the yellow "Prototype" banner | "A small nonprofit's acquisitions lead has no GIS team. Finding land comes down to luck." |
-| 5–10 s | Pick **Anaheim**, click **Find 10 sites**; the map fills with numbered pins | "Pick a city. We pull the city's own housing plan and state surplus-land notices, live." |
-| 10–20 s | Card #1, 1515 W North St: 86 lower-income homes planned, hazard badges, transit | "Each site is checked for flood, fire, landslide and transit. Here: 86 lower-income homes planned, near a major bus stop." |
-| 20–26 s | Open **Show tests**: SB 684 Possible, SB 4 Unknown | "Which law might open it, with every test shown. If the data doesn't say, it says unknown." |
-| 26–30 s | Click **Download CSV** | "Ten calls to make, with sources, in one click." |
+| 0–5 s | Main page title, yellow "Prototype" banner, then click **Call List by Law →** | "A small nonprofit's acquisitions lead has no GIS team. Finding land comes down to luck." |
+| 5–12 s | Call List page. City: **Santa Ana**, Law: **AB 2011**. Table and numbered pins appear | "We checked every parcel in 30 Orange County cities, about 570,000, against four new state housing laws." |
+| 12–20 s | Click row **#2** (3.3-acre public parking, zone C4); the pin opens on the map. Point at the blue **Check before calling** box | "Vacant land and parking lots rank first, so no one is displaced. Each law shows what to check before you call." |
+| 20–26 s | Switch Law to **SB 4**, City to **Anaheim**: #1 is a 10-acre church site, 1111 N Brookhurst St | "Church land for SB 4, with the gaps said plainly: owner unknown, confirm with the Assessor." |
+| 26–30 s | Scroll to **Sources**, then the prototype disclaimer | "Every source is cited. Twenty calls to make, in any city, this month." |
 
-**Recording tips**
-- Set the browser to about 1280 × 800 and zoom to 110% so text is readable.
-- Run the Anaheim search once before recording, so the live services are warm (about 15 seconds
-  the first time).
-- Record the voiceover separately if the room is loud.
+**How to record (Mac)**
+- Open https://nicksan2c.github.io/claude-impact-lab-uci/ in Chrome. Set the window to about
+  1280 × 800 and zoom to 110%.
+- Press **Cmd + Shift + 5** and choose "Record Selected Portion". Draw the box around the browser,
+  click Record, and talk through the table above. Click the stop button in the menu bar when done.
+- The file is saved to the Desktop as a .mov. The form takes MP4 or MOV, up to 2 minutes.
+- Do one practice run first. If the room is loud, record the screen silently and add the voiceover
+  afterwards in QuickTime or iMovie.
+
+**Backup (main page):** pick Anaheim, click **Find sites**, open a card's **Show tests**. That page
+calls the county map services live, so check it loads before recording.
 
 ---
 
