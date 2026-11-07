@@ -1,23 +1,25 @@
-"""Download public parcel, zoning, land-use and hazard data for Anaheim.
+"""Download public parcel, zoning, land-use and hazard data for one Orange County city.
 
-Run:  python3 lanes/1-find-it/scripts/fetch_anaheim.py
-Writes raw JSON to lanes/1-find-it/data/anaheim/raw/ (git-ignored; about 50 MB).
+Run:  python3 lanes/1-find-it/scripts/fetch_city.py "Santa Ana"
+Writes raw JSON to lanes/1-find-it/data/<city>/raw/ (git-ignored; up to about 50 MB).
 Pages slowly (one request at a time, with a pause) so we do not load the servers.
 Sources are listed in lanes/1-find-it/data/anaheim/README.md.
 """
 import json
 import os
+import sys
 import time
 import urllib.parse
 import urllib.request
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-RAW = os.path.join(HERE, '..', 'data', 'anaheim', 'raw')
+CITY_NAME = sys.argv[1] if len(sys.argv) > 1 else 'Anaheim'
+RAW = os.path.join(HERE, '..', 'data', CITY_NAME.lower().replace(' ', '-'), 'raw')
 SCAG = 'https://maps.scag.ca.gov/scaggis/rest/services/LDX'
 ANA = 'https://gis.anaheim.net/map/rest/services/PropertyInfo/MapServer'
 OCGIS = 'https://www.ocgis.com/arcpub/rest/services/Map_Layers'
 PAUSE = 0.7  # seconds between requests
-CITY = "CITY='Anaheim'"
+CITY = f"CITY='{CITY_NAME}'"
 
 # name: (layer url, where, fields, with geometry)
 LAYERS = {
@@ -27,10 +29,12 @@ LAYERS = {
                      'PID24,LU24,LU24_2ND,YEAR', False),
     'scag_genplan': (f'{SCAG}/GeneralPlan_poly_OR/MapServer/0', CITY,
                      'PID24,GP24_CITY,GP24_SCAG,DEN_MAX,FAR_MAX,YEAR_GP', False),
-    'anaheim_parcels': (f'{ANA}/0', '1=1',
-                        'APN,HSENO,DIR,STR,SFX,ZIP,CITY,LOTAREA,UNITS,BLDGAREA,STORIES,USETYPE', False),
-    'anaheim_historic': (f'{ANA}/14', '1=1', 'DISTRICTNAME,STATUS,DISTRICTTYPE', True),
+    # County parcels have site addresses but no city field; the address ends with the city name.
+    'oc_addresses': (f'{OCGIS}/Parcels/FeatureServer/0', f"SITE_ADDRESS LIKE '% {CITY_NAME.upper()}'",
+                     'ASSESSMENT_NO,SITE_ADDRESS', False),
 }
+if CITY_NAME == 'Anaheim':  # only Anaheim publishes a historic-district layer
+    LAYERS['anaheim_historic'] = (f'{ANA}/14', '1=1', 'DISTRICTNAME,STATUS,DISTRICTTYPE', True)
 # Hazard layers clipped to the Anaheim bounding box (filled in after zoning downloads).
 HAZARDS = {
     'oc_fire_lra': (f'{OCGIS}/Fire_Hazard_Severity_Zones_LRA/MapServer/0', '1=1', 'HAZ_CLASS,HAZ_CODE,SRA'),

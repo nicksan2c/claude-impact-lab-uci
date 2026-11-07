@@ -1,7 +1,7 @@
-"""Screen every Anaheim parcel against four state housing laws (a first screen, not legal advice).
+"""Screen every parcel in one city against four state housing laws (a first screen, not legal advice).
 
-Run after fetch_anaheim.py:  python3 lanes/1-find-it/scripts/screen_anaheim.py
-Writes CSVs and SUMMARY.md to lanes/1-find-it/data/anaheim/.
+Run after fetch_city.py:  python3 lanes/1-find-it/scripts/screen_city.py "Santa Ana"
+Writes CSVs and SUMMARY.md to lanes/1-find-it/data/<city>/.
 
 Tests follow html/laws.js and the HCD Housing Law Fact Sheets (April 2026, read 2026-11-07).
 Each law gets one verdict per parcel:
@@ -13,10 +13,13 @@ import csv
 import json
 import os
 import re
+import sys
 from collections import Counter
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-OUT = os.path.join(HERE, '..', 'data', 'anaheim')
+CITY_NAME = sys.argv[1] if len(sys.argv) > 1 else 'Anaheim'
+SLUG = CITY_NAME.lower().replace(' ', '-')
+OUT = os.path.join(HERE, '..', 'data', SLUG)
 RAW = os.path.join(OUT, 'raw')
 SURPLUS = os.path.join(HERE, '..', '..', '..', 'html', 'data', 'surplus-oc.json')
 
@@ -27,6 +30,8 @@ SB4_USES = {'1245': 'religious facility', '1265': 'college or university'}
 
 
 def load(name):
+    if not os.path.exists(os.path.join(RAW, name + '.json')):
+        return None
     return json.load(open(os.path.join(RAW, name + '.json')))['features']
 
 
@@ -121,7 +126,9 @@ def screen(p):
         t.append('unknown'); why.append(f'zone {zt}')
     elif zt != 'single-family':
         t.append('fail'); why.append(f'zone is {zt}')
-    if hist:
+    if hist == 'not checked':  # like laws.js: a test we cannot run is "not checked", not "unknown"
+        why.append('historic districts not checked (no city layer)')
+    elif hist:
         t.append('unknown'); why.append(f'in {hist} historic district: check for contributing structure')
     if fire or flood:
         t.append('unknown'); why.append('in fire or flood zone: check 65913.4(a)(6) exceptions')
@@ -192,15 +199,19 @@ def main():
     names = legend()
     lu = {f['attributes']['PID24']: f['attributes'] for f in load('scag_landuse')}
     gp = {f['attributes']['PID24']: f['attributes'] for f in load('scag_genplan')}
-    city = {}
-    for f in load('anaheim_parcels'):
+    addr = {}
+    for f in load('oc_addresses'):
         a = f['attributes']
-        city.setdefault((a['APN'] or '').strip(), a)
+        site = (a['SITE_ADDRESS'] or '').strip()
+        if site.upper().endswith(' ' + CITY_NAME.upper()):
+            site = site[:-len(CITY_NAME)].strip()
+        addr.setdefault((a['ASSESSMENT_NO'] or '').replace('-', ''), site)
     fire = Polys(load('oc_fire_lra'), lambda a: a['HAZ_CLASS'])
     flood = Polys(load('oc_flood_sfha'), lambda a: a['FLD_ZONE'])
-    hist = Polys(load('anaheim_historic'), lambda a: a['DISTRICTNAME'])
+    hist_feats = load('anaheim_historic')
+    hist = Polys(hist_feats, lambda a: a['DISTRICTNAME']) if hist_feats else None
     surplus = {r['apn'].replace('-', '') for r in json.load(open(SURPLUS))['rows']
-               if r['city'].upper() == 'ANAHEIM' or r['agency'].lower() == 'anaheim'}
+               if r['city'].upper() == CITY_NAME.upper() or r['agency'].lower() == CITY_NAME.lower()}
 
     rows = []
     for f in load('scag_zoning'):
@@ -209,32 +220,28 @@ def main():
         if z['STACK'] and z['STACK'] > 1 and not z['PARENT_INDEX']:
             continue  # condo-style unit stacked on a shared footprint; the parent parcel is kept
         x, y = centroid(f['geometry'])
-        l, g, c = lu.get(pid, {}), gp.get(pid, {}), city.get(z['APN24'] or '', {})
-        addr = ' '.join(s.strip() for s in [c.get('HSENO') or '', c.get('DIR') or '', c.get('STR') or '',
-                                            c.get('SFX') or ''] if s and s.strip())
+        l, g = lu.get(pid, {}), gp.get(pid, {})
         p = {
-            'apn': z['APN24'], 'pid24': pid, 'address': addr,
+            'city': CITY_NAME, 'apn': z['APN24'], 'pid24': pid, 'address': addr.get(z['APN24'] or '', ''),
             'lat': round(y, 6), 'lon': round(x, 6),
             'acres': round(z['ACRES'], 3) if z['ACRES'] is not None else None,
             'lot_sqft': round(z['ACRES'] * SQFT_PER_ACRE) if z['ACRES'] else None,
-            'city_lot_sqft': (c.get('LOTAREA') or '').strip(),
             'slope': z['SLOPE'],
             'zone_city': z['ZN24_CITY'], 'zone_scag': z['ZN24_SCAG'],
             'zone_type': zone_type(z['ZN24_SCAG']),
             'general_plan_city': g.get('GP24_CITY', ''), 'gp_max_density': g.get('DEN_MAX'),
             'use_code': l.get('LU24') or '', 'use_code_2nd': l.get('LU24_2ND') or '',
             'existing_use': names.get(l.get('LU24') or '', ''),
-            'units_city': (c.get('UNITS') or '').strip(),
             'fire_zone': fire.find(x, y), 'flood_zone': flood.find(x, y),
-            'historic_district': hist.find(x, y),
+            'historic_district': hist.find(x, y) if hist else 'not checked',
             'surplus_notice': 'yes' if z['APN24'] in surplus else '',
         }
         p.update(screen(p))
         rows.append(p)
 
     cols = list(rows[0].keys())
-    write(os.path.join(OUT, 'anaheim-parcels-screened.csv'), rows, cols)
-    base = ['apn', 'address', 'lat', 'lon', 'acres', 'lot_sqft', 'zone_city', 'zone_type',
+    write(os.path.join(OUT, f'{SLUG}-parcels-screened.csv'), rows, cols)
+    base = ['city', 'apn', 'address', 'lat', 'lon', 'acres', 'lot_sqft', 'zone_city', 'zone_type',
             'general_plan_city', 'existing_use', 'fire_zone', 'flood_zone', 'historic_district',
             'surplus_notice']
     lists = {
@@ -261,8 +268,8 @@ def write(path, rows, cols):
 
 def summary(rows):
     n = len(rows)
-    lines = ['# Anaheim screen: counts', '',
-             f'Parcels screened: {n:,} (SCAG 2024 parcels in Anaheim, condo-unit duplicates removed).', '',
+    lines = [f'# {CITY_NAME} screen: counts', '',
+             f'Parcels screened: {n:,} (SCAG 2024 parcels in {CITY_NAME}, condo-unit duplicates removed).', '',
              '| Law | Possible | Unknown | Not likely |', '|---|---|---|---|']
     for key, label in [('sb9', 'SB 9'), ('sb684_1123', 'SB 684 / SB 1123'), ('ab2011', 'AB 2011'), ('sb4', 'SB 4')]:
         c = Counter(r[key] for r in rows)
@@ -278,7 +285,9 @@ def summary(rows):
               f"Zone unknown (specific plan or no code): {sum(r['zone_type'] in ('unknown', 'specific plan') for r in rows):,}.",
               f"In a FEMA flood zone: {sum(bool(r['flood_zone']) for r in rows):,}. "
               f"In a very high fire zone (LRA): {sum(bool(r['fire_zone']) for r in rows):,}. "
-              f"In a historic district: {sum(bool(r['historic_district']) for r in rows):,}.",
+              f"In a historic district: " + (f"{sum(bool(r['historic_district']) for r in rows):,}."
+                                              if rows[0]['historic_district'] != 'not checked'
+                                              else "not checked (no city layer)."),
               '', '"Possible" means it passed the tests free data can run. Many tests are not checked. '
                   'Prototype only; not legal advice.']
     open(os.path.join(OUT, 'SUMMARY.md'), 'w').write('\n'.join(lines) + '\n')

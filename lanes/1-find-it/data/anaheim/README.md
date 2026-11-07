@@ -7,14 +7,15 @@ contributing status, utilities). Confirm every site with the city and a land-use
 Downloaded and screened 2026-11-07. Rebuild with:
 
 ```bash
-python3 lanes/1-find-it/scripts/fetch_anaheim.py
+python3 lanes/1-find-it/scripts/fetch_city.py Anaheim
 ```
 
 ```bash
-python3 lanes/1-find-it/scripts/screen_anaheim.py
+python3 lanes/1-find-it/scripts/screen_city.py Anaheim
 ```
 
-Counts are in [SUMMARY.md](SUMMARY.md).
+Counts are in [SUMMARY.md](SUMMARY.md). Other cities use the same scripts and tests; see
+[../CITY-COMPARISON.md](../CITY-COMPARISON.md).
 
 ## Files
 
@@ -34,7 +35,7 @@ Counts are in [SUMMARY.md](SUMMARY.md).
 | Parcels, acres, slope, zoning (city code + SCAG code) | SCAG Zoning_poly_OR, `CITY='Anaheim'`: https://maps.scag.ca.gov/scaggis/rest/services/LDX/Zoning_poly_OR/MapServer/0 |
 | Existing land use (2024) and code legend | SCAG Existinglanduse_poly_OR: https://maps.scag.ca.gov/scaggis/rest/services/LDX/Existinglanduse_poly_OR/MapServer/0 |
 | General plan land use, max density | SCAG GeneralPlan_poly_OR: https://maps.scag.ca.gov/scaggis/rest/services/LDX/GeneralPlan_poly_OR/MapServer/0 |
-| Street address, city lot area, units | City of Anaheim PropertyInfo layer 0: https://gis.anaheim.net/map/rest/services/PropertyInfo/MapServer/0 |
+| Street address | OC Parcels (county), `SITE_ADDRESS` ending in the city name: https://www.ocgis.com/arcpub/rest/services/Map_Layers/Parcels/FeatureServer/0 |
 | Historic districts (6) | City of Anaheim PropertyInfo layer 14: https://gis.anaheim.net/map/rest/services/PropertyInfo/MapServer/14 |
 | Very high fire hazard zones (local responsibility areas only) | OC Fire_Hazard_Severity_Zones_LRA: https://www.ocgis.com/arcpub/rest/services/Map_Layers/Fire_Hazard_Severity_Zones_LRA/MapServer/0 |
 | FEMA special flood hazard areas (`SFHA_TF='T'`) | OC Floodplains: https://www.ocgis.com/arcpub/rest/services/Map_Layers/Floodplains/MapServer/0 |
@@ -76,6 +77,6 @@ The tests are the same as `html/laws.js`, run on every parcel. The verdicts are 
 - Hazards and historic districts are checked at the parcel's center point. A parcel that only
   touches a zone is not flagged.
 - Condo units that share one footprint (SCAG `STACK` > 1) are dropped. The parent parcel is kept.
-- The city's `USETYPE` codes are not documented in the service, so they are not used.
+- About 3,500 parcels have no county site address (blank `address`); use the APN.
 - SCAG data is "for planning purposes only" (SCAG layer description). Zoning may be older than the
   city's current map.

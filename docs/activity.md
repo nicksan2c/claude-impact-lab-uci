@@ -81,3 +81,21 @@ college land"
 - Checked the HCD SB 9 sheet (April 2026): two 1,200 sq ft lots; historic exclusion is for
   contributing structures (AB 1061). SB 4 uses SCAG land use 1245/1265 as a labeled PROXY.
 - Wrote the data README (sources, tests, limits). Committed and pushed.
+
+**Prompt:** (two CSVs: median asking price and shortlist notes) "also consider the cities in the
+attached by constrained to these cities and thresholds" (Laguna Woods, Santa Ana, Anaheim, Garden Grove)
+- Made the scripts work for any city (`fetch_city.py`, `screen_city.py`); addresses now come from
+  the county parcel layer for every city. Copied the two CSVs to `lanes/1-find-it/data/market/`
+  (source and date unknown; labeled). Added `compare_cities.py`.
+
+**Prompt:** "did you already gather the data for all those cities? if not do that next"
+- Downloads were still running; waited for them.
+
+**Prompt:** "skip Laguna Woods since it's a retirement community / add stanton if not on the list"
+- Stopped the job before Laguna Woods; added Stanton. Comparison now uses a fixed list: Santa
+  Ana, Anaheim, Garden Grove, Stanton (Stanton has no price data).
+- Fixed: a missing historic layer made every SB 9 parcel "Unknown"; now "not checked", as in laws.js.
+
+**Prompt:** "what's the current status and what should be next on this list to analyze?"
+- Reported status; recommended a ranked call list per law per city next.
+- Screened Garden Grove and Stanton, built `lanes/1-find-it/data/CITY-COMPARISON.md`. Committed and pushed.

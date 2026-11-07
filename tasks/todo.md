@@ -186,3 +186,18 @@ written as `unknown`, never left blank.
   lots, Unknown); AB 2011 Possible 1,513; SB 4 proxy sites 142 (owner unconfirmed).
 - Biggest gaps: 5,941 parcels in specific plans or with no SCAG zone code; owner data for SB 4;
   state-responsibility fire areas; tenant and historic contributing status.
+
+# Plan 5: Four-city screen (Santa Ana, Anaheim, Garden Grove, Stanton)
+
+- [x] Make fetch and screen scripts take a city name
+- [x] Download and screen Santa Ana, Garden Grove, Stanton (Laguna Woods skipped: retirement community)
+- [x] Add team market CSVs (source unknown) and `compare_cities.py`
+- [x] Build `CITY-COMPARISON.md`
+
+## Review (Plan 5)
+
+- SB 9 / SB 684 / AB 2011 "Possible": Santa Ana 26,135 / 5,564 / 1,838; Anaheim 33,382 / 6,311 /
+  1,513; Garden Grove 22,741 / 4,279 / 1,554; Stanton 2,808 / 1,447 / 307. SB 4 proxy sites:
+  152 / 142 / 69 / 10.
+- Santa Ana and Garden Grove have about 3,500 parcels each in FEMA flood zones.
+- Next suggested: a ranked call list per law per city (vacant, parking, strip retail first).
