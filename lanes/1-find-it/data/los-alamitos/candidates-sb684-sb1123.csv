@@ -1,302 +1,302 @@
 city,apn,address,lat,lon,acres,lot_sqft,zone_city,zone_type,general_plan_city,existing_use,fire_zone,flood_zone,historic_district,surplus_notice,sb684_1123,sb684_1123_path,sb684_1123_why
-Los Alamitos,,,33.788783,-118.091182,3.824,166554,,unknown,OA,Improved Flood Waterways and Structures,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,24222211,,33.809345,-118.073951,3.718,161961,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24124130,,33.806699,-118.058831,3.578,155863, ,unknown,,Vacant,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,21724001,,33.782156,-118.043291,3.499,152412,R-2,multifamily,LMFR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24222217,,33.809399,-118.07477,2.442,106379,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,,,33.796432,-118.034063,1.573,68522,,unknown,FC,Military Installations,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,24222206,,33.809798,-118.07357,1.133,49353,R-3,multifamily,MFR,"Manufacturing, Assembly, and Industrial Services",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220117,,33.803984,-118.07542,0.956,41631,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,,,33.802935,-118.078407,0.867,37778, ,unknown,,Mobile Homes and Trailer Parks,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,,,33.802937,-118.075788,0.8,34858, ,unknown,,Mobile Homes and Trailer Parks,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,24224284,,33.80924,-118.068098,0.775,33767, ,unknown,PI,"Manufacturing, Assembly, and Industrial Services",not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,24219307,,33.805302,-118.07281,0.637,27736,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219330,,33.806493,-118.072841,0.454,19767,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219332,,33.806122,-118.072766,0.413,17994,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219227,,33.806531,-118.073605,0.378,16462,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223132,,33.806982,-118.074834,0.371,16155,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223134,,33.808334,-118.07483,0.367,15986,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,,,33.802941,-118.080357,0.351,15279, ,unknown,,Mobile Homes and Trailer Parks,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,24219306,,33.805664,-118.072705,0.344,14988,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220216,,33.80403,-118.073564,0.344,15006,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218323,,33.805647,-118.068252,0.339,14746,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219218,,33.806208,-118.073456,0.327,14241,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220101,,33.804721,-118.075458,0.326,14212,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220116,,33.804463,-118.075414,0.32,13921,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219224,,33.805168,-118.073549,0.31,13495,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218320,,33.806065,-118.068861,0.304,13225,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218123,,33.805188,-118.07104,0.301,13125,R-2,multifamily,LMFR,Public Facilities,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219226,,33.805157,-118.074037,0.299,13037,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219222,,33.805605,-118.073608,0.258,11245,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220228,,33.804719,-118.07363,0.248,10804,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219213,,33.805385,-118.073541,0.245,10670,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219101,,33.806585,-118.075406,0.235,10240,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,,,33.814411,-118.071125,0.232,10087, ,unknown,OA,Educational Institutions,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,,,33.782713,-118.043883,0.229,9957,R-2,multifamily,LMFR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,,,33.781726,-118.043169,0.228,9947,R-2,multifamily,LMFR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,,,33.78165,-118.043638,0.225,9815,R-2,multifamily,LMFR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219124,,33.806549,-118.074731,0.224,9779,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219230,,33.806589,-118.074118,0.219,9536,R-3,multifamily,MFR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,,,33.782084,-118.044098,0.207,9026,R-2,multifamily,LMFR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,,,33.782115,-118.042125,0.207,9021,R-2,multifamily,LMFR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223102,,33.808288,-118.075466,0.202,8787,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223105,,33.80782,-118.075422,0.202,8791,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223106,,33.807678,-118.075454,0.202,8806,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223109,,33.807239,-118.075506,0.202,8795,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223104,,33.807909,-118.075207,0.199,8651,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223124,,33.807039,-118.075338,0.199,8659,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223128,,33.807521,-118.075438,0.199,8656,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223129,,33.808159,-118.07555,0.199,8651,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223123,,33.807361,-118.075406,0.198,8644,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223101,,33.808393,-118.075316,0.191,8332,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223111,,33.806879,-118.075282,0.191,8328,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223210,,33.80705,-118.074073,0.19,8269,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223213,,33.807033,-118.073476,0.19,8265,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223114,,33.807221,-118.074887,0.189,8247,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223115,,33.807355,-118.074828,0.189,8246,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223119,,33.807994,-118.074944,0.189,8248,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223120,,33.808119,-118.074852,0.189,8247,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223204,,33.807953,-118.074054,0.189,8246,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223205,,33.807841,-118.074189,0.189,8246,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223207,,33.807512,-118.074098,0.189,8245,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223208,,33.807335,-118.074009,0.189,8246,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223214,,33.807251,-118.073707,0.189,8246,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223215,,33.807283,-118.073289,0.189,8245,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223216,,33.807498,-118.073513,0.189,8245,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223217,,33.807703,-118.073698,0.189,8246,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223219,,33.807922,-118.073405,0.189,8245,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223221,,33.808232,-118.073431,0.189,8245,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223230,,33.807819,-118.073578,0.189,8245,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223303,,33.8081,-118.072753,0.189,8244,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223304,,33.807915,-118.072634,0.189,8244,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223305,,33.807821,-118.072835,0.189,8245,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223306,,33.807659,-118.072797,0.189,8244,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223310,,33.807096,-118.072944,0.189,8244,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223126,,33.80781,-118.074827,0.186,8109,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223127,,33.807643,-118.074772,0.186,8111,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223130,,33.807527,-118.074895,0.186,8110,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223223,,33.807256,-118.074266,0.186,8109,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223224,,33.808304,-118.074224,0.186,8109,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223225,,33.808129,-118.074143,0.186,8108,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223226,,33.807669,-118.074121,0.186,8109,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223227,,33.808129,-118.073598,0.186,8109,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223327,,33.807479,-118.0727,0.186,8107,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223328,,33.807167,-118.072668,0.186,8107,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223330,,33.807406,-118.072975,0.186,8107,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223335,,33.808265,-118.072802,0.186,8107,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,08652125,,33.80291,-118.073947,0.184,8006, ,unknown,,Religious Facilities,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,24219105,,33.805992,-118.075237,0.183,7963,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219107,,33.805755,-118.075373,0.183,7978,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223211,,33.806925,-118.074153,0.181,7875,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223212,,33.806918,-118.073592,0.181,7876,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219106,,33.805943,-118.075549,0.18,7837,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219129,,33.805613,-118.075358,0.18,7820,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219130,,33.805495,-118.075425,0.18,7835,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219132,,33.806148,-118.075304,0.18,7838,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223311,,33.806916,-118.072834,0.18,7845,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223228,,33.808438,-118.073632,0.178,7744,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,,,33.782688,-118.042863,0.178,7744,R-2,multifamily,LMFR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24223229,,33.808464,-118.074262,0.177,7696,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218113,,33.805644,-118.071053,0.172,7495,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218116,,33.80615,-118.070999,0.172,7497,R-2,multifamily,LMFR,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218203,,33.805887,-118.07019,0.172,7496,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218204,,33.805762,-118.070235,0.172,7496,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218205,,33.80562,-118.07022,0.172,7496,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218302,,33.805863,-118.068826,0.172,7499,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218304,,33.805631,-118.068976,0.172,7499,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218305,,33.805464,-118.068875,0.172,7499,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218325,,33.805467,-118.068348,0.172,7498,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219116,,33.805501,-118.074895,0.172,7496,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219134,,33.805664,-118.074982,0.172,7497,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219215,,33.805697,-118.073329,0.172,7497,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219216,,33.805916,-118.073612,0.172,7497,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220105,,33.803532,-118.074793,0.172,7496,R-3,multifamily,RB,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220110,,33.804239,-118.07486,0.172,7496,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220112,,33.804551,-118.074988,0.172,7496,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220203,,33.804549,-118.074231,0.172,7497,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220205,,33.804199,-118.073972,0.172,7495,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220206,,33.804136,-118.074233,0.172,7498,R-3,multifamily,MFR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220207,,33.80398,-118.074166,0.172,7498,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220208,,33.803824,-118.074103,0.172,7499,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220209,,33.803679,-118.074079,0.172,7499,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220214,,33.803685,-118.07356,0.172,7505,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220215,,33.803785,-118.073428,0.172,7504,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220217,,33.804235,-118.073557,0.172,7503,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220218,,33.804372,-118.073556,0.172,7498,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218112,,33.80552,-118.071099,0.169,7371,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218120,,33.805767,-118.070999,0.169,7370,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218221,,33.805346,-118.06964,0.169,7371,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218222,,33.805493,-118.069673,0.169,7371,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218224,,33.805779,-118.069708,0.169,7371,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218303,,33.805781,-118.069023,0.169,7374,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218324,,33.805847,-118.068227,0.169,7373,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219121,,33.806194,-118.074908,0.169,7372,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219126,,33.80592,-118.074909,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219127,,33.806027,-118.074802,0.169,7372,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219128,,33.805769,-118.074865,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219204,,33.806154,-118.074025,0.169,7373,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219205,,33.806063,-118.074188,0.169,7374,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219207,,33.80577,-118.074126,0.169,7374,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219208,,33.805604,-118.074027,0.169,7375,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219228,,33.805505,-118.074162,0.169,7375,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219229,,33.80604,-118.073563,0.169,7374,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219333,,33.805943,-118.072959,0.169,7376,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220109,,33.804107,-118.074874,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220115,,33.803944,-118.074786,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220119,,33.804392,-118.074909,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220120,,33.803842,-118.074911,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220121,,33.803707,-118.074921,0.169,7372,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220226,,33.80354,-118.074076,0.169,7375,R-3,multifamily,RB,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220231,,33.804392,-118.074169,0.169,7380,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220232,,33.80449,-118.073482,0.169,7381,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,93959175,,33.804392,-118.074169,0.169,7380,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219221,,33.805921,-118.074176,0.166,7250,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219102,,33.806438,-118.075425,0.165,7169,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219103,,33.806275,-118.075288,0.165,7168,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219111,,33.805243,-118.075431,0.164,7163,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218216,,33.805905,-118.069686,0.163,7121,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219112,,33.805081,-118.075296,0.163,7088,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219133,,33.80538,-118.075483,0.162,7051,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218220,,33.805177,-118.070045,0.156,6791,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218117,,33.805886,-118.070962,0.155,6746,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218118,,33.805986,-118.070879,0.155,6747,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218201,,33.806149,-118.070216,0.155,6746,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218207,,33.805433,-118.070503,0.155,6746,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218217,,33.806047,-118.069736,0.155,6747,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218219,,33.805142,-118.070356,0.155,6746,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218306,,33.805322,-118.068836,0.155,6749,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218307,,33.805236,-118.068967,0.155,6749,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218310,,33.80518,-118.068236,0.155,6749,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218311,,33.805317,-118.068282,0.155,6749,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218318,,33.805972,-118.068213,0.155,6748,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218319,,33.806017,-118.067937,0.155,6747,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219113,,33.805112,-118.074854,0.155,6747,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219115,,33.805326,-118.074737,0.155,6747,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219122,,33.806352,-118.075007,0.155,6746,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220113,,33.804611,-118.074742,0.155,6746,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220114,,33.80479,-118.074934,0.155,6746,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220202,,33.804646,-118.074113,0.155,6741,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218209,,33.805034,-118.06945,0.154,6698,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218308,,33.805112,-118.068959,0.154,6700,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218309,,33.805137,-118.068524,0.154,6700,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219202,,33.806479,-118.074271,0.153,6668,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218119,,33.805301,-118.07079,0.152,6634,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218223,,33.80525,-118.069758,0.152,6634,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218225,,33.806004,-118.070145,0.152,6634,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219125,,33.806493,-118.075061,0.152,6634,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219131,,33.805275,-118.07499,0.152,6634,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219203,,33.806297,-118.074067,0.152,6636,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24219220,,33.805342,-118.074054,0.15,6525,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220230,,33.804772,-118.074125,0.15,6529,R-3,multifamily,MFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218218,,33.806119,-118.069565,0.147,6413,R-2,multifamily,LMFR,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,08652135,,33.802887,-118.072826,0.118,5121, ,unknown,,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,08652137,,33.802903,-118.073465,0.094,4080, ,unknown,,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,24218213,,33.805604,-118.069703,0.086,3749,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24218214,,33.805673,-118.069704,0.086,3748,R-2,multifamily,LMFR,Multi-Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,08652133,,33.802982,-118.072634,0.078,3395, ,unknown,,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Los Alamitos,21724118,,33.782846,-118.044473,0.07,3044,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724113,,33.78308,-118.044426,0.069,2987,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724140,,33.781364,-118.043677,0.069,2986,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724212,,33.782992,-118.0431,0.069,2988,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724227,,33.781951,-118.04242,0.069,2987,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724239,,33.781295,-118.042418,0.069,2986,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724125,,33.782246,-118.043791,0.068,2972,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724135,,33.781345,-118.04419,0.068,2955,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724101,,33.782911,-118.043495,0.067,2916,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724121,,33.782435,-118.045054,0.067,2913,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724132,,33.781958,-118.044331,0.067,2915,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724152,,33.781435,-118.043599,0.067,2917,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724201,,33.78291,-118.043133,0.067,2917,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724220,,33.782268,-118.041986,0.067,2902,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724231,,33.782004,-118.042016,0.067,2897,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724234,,33.781631,-118.04263,0.067,2923,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724251,,33.781405,-118.043136,0.067,2916,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724122,,33.782223,-118.04407,0.064,2769,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724217,,33.782949,-118.042357,0.064,2796,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724221,,33.782316,-118.042154,0.064,2771,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724224,,33.782293,-118.042549,0.064,2792,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724230,,33.781981,-118.042167,0.064,2775,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724111,,33.782569,-118.043404,0.063,2740,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724128,,33.78206,-118.044202,0.063,2756,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724241,,33.781542,-118.042506,0.063,2755,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24220221,,33.804763,-118.073697,0.062,2699,R-3,multifamily,MFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724106,,33.782483,-118.043983,0.06,2599,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724108,,33.782357,-118.043947,0.06,2618,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724131,,33.781998,-118.044434,0.06,2593,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724205,,33.782377,-118.042903,0.06,2599,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724208,,33.782448,-118.042557,0.06,2606,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724228,,33.781832,-118.04193,0.06,2593,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724229,,33.782005,-118.042417,0.06,2593,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724245,,33.781914,-118.042643,0.06,2595,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724246,,33.78197,-118.043122,0.06,2600,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724102,,33.782813,-118.043531,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724103,,33.782803,-118.043823,0.059,2548,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724109,,33.782369,-118.043446,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724110,,33.782662,-118.044115,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724112,,33.78272,-118.043528,0.059,2574,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724114,,33.782811,-118.043824,0.059,2584,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724115,,33.782943,-118.044414,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724116,,33.783011,-118.044771,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724117,,33.782903,-118.044512,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724123,,33.782343,-118.044324,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724124,,33.782204,-118.043718,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724129,,33.781894,-118.043904,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724130,,33.781981,-118.044326,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724133,,33.781935,-118.045126,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724134,,33.781544,-118.044114,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724136,,33.781468,-118.044524,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724137,,33.781359,-118.044021,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724138,,33.781463,-118.044269,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724141,,33.7815,-118.043769,0.059,2560,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724143,,33.781765,-118.044085,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724151,,33.781685,-118.044114,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724202,,33.782769,-118.042986,0.059,2587,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724209,,33.78255,-118.042556,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724210,,33.782721,-118.042843,0.059,2550,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724211,,33.782724,-118.042512,0.059,2565,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724213,,33.782963,-118.042851,0.059,2576,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724214,,33.782952,-118.042699,0.059,2584,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724215,,33.782843,-118.042199,0.059,2585,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724216,,33.782786,-118.041879,0.059,2585,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724218,,33.782489,-118.041524,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724219,,33.782492,-118.041891,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724222,,33.782141,-118.041622,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724223,,33.78236,-118.042506,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724232,,33.781821,-118.042327,0.059,2587,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724233,,33.78161,-118.041944,0.059,2587,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724235,,33.781374,-118.041959,0.059,2567,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724236,,33.781351,-118.042009,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724237,,33.78157,-118.042893,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724238,,33.781379,-118.042356,0.059,2581,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724240,,33.781634,-118.043236,0.059,2573,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724242,,33.781659,-118.042531,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724243,,33.781848,-118.042838,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724244,,33.782104,-118.043167,0.059,2584,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724249,,33.781646,-118.043263,0.059,2548,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724250,,33.781436,-118.042872,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724139,,33.781576,-118.044557,0.058,2510,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724146,,33.781945,-118.043354,0.058,2532,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724150,,33.781647,-118.043606,0.058,2547,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724203,,33.782665,-118.043002,0.058,2520,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724147,,33.78202,-118.043659,0.057,2468,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724127,,33.782123,-118.044057,0.056,2427,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724104,,33.782587,-118.043421,0.055,2403,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724105,,33.782391,-118.043091,0.055,2404,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724107,,33.782377,-118.043894,0.055,2410,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724126,,33.782298,-118.04431,0.055,2407,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724144,,33.781746,-118.043654,0.055,2384,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724145,,33.782175,-118.04428,0.055,2396,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724148,,33.781907,-118.04379,0.055,2401,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724149,,33.781569,-118.042964,0.055,2402,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724204,,33.782538,-118.042927,0.055,2404,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724206,,33.782409,-118.043073,0.055,2411,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724207,,33.782372,-118.042807,0.055,2408,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724225,,33.782307,-118.042978,0.055,2386,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724226,,33.782123,-118.042675,0.055,2386,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724247,,33.781857,-118.0433,0.055,2404,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724248,,33.781686,-118.043058,0.055,2404,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724142,,33.781784,-118.044472,0.054,2357,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724119,,33.782757,-118.044878,0.051,2219,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,21724120,,33.782578,-118.044607,0.051,2219,R-2,multifamily,LMFR,Single Family Residential,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Los Alamitos,24235118,,33.812274,-118.073447,0.005,201,R-1,single-family,SFR,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,SB 1123,vacant single-family lot: SB 1123 size limit not in HCD sheet; fire zones not checked (county server down)
-Los Alamitos,24224243,,33.799347,-118.034336,0.0,14, ,unknown,PI,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
+Los Alamitos,,,33.788783,-118.091182,3.824,166554,,unknown,OA,Improved Flood Waterways and Structures,,,not checked,,Unknown,,zone unknown
+Los Alamitos,24222211,,33.809345,-118.073951,3.718,161961,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24124130,,33.806699,-118.058831,3.578,155863, ,unknown,,Vacant,,,not checked,,Unknown,,zone unknown
+Los Alamitos,21724001,,33.782156,-118.043291,3.499,152412,R-2,multifamily,LMFR,Vacant Undifferentiated,,,not checked,,Possible,SB 684,
+Los Alamitos,24222217,,33.809399,-118.07477,2.442,106379,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,,,33.796432,-118.034063,1.573,68522,,unknown,FC,Military Installations,,,not checked,,Unknown,,zone unknown
+Los Alamitos,24222206,,33.809798,-118.07357,1.133,49353,R-3,multifamily,MFR,"Manufacturing, Assembly, and Industrial Services",,,not checked,,Possible,SB 684,
+Los Alamitos,24220117,,33.803984,-118.07542,0.956,41631,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,,,33.802935,-118.078407,0.867,37778, ,unknown,,Mobile Homes and Trailer Parks,,,not checked,,Unknown,,zone unknown
+Los Alamitos,,,33.802937,-118.075788,0.8,34858, ,unknown,,Mobile Homes and Trailer Parks,,,not checked,,Unknown,,zone unknown
+Los Alamitos,24224284,,33.80924,-118.068098,0.775,33767, ,unknown,PI,"Manufacturing, Assembly, and Industrial Services",,,not checked,,Unknown,,zone unknown
+Los Alamitos,24219307,,33.805302,-118.07281,0.637,27736,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219330,,33.806493,-118.072841,0.454,19767,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219332,,33.806122,-118.072766,0.413,17994,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219227,,33.806531,-118.073605,0.378,16462,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223132,,33.806982,-118.074834,0.371,16155,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223134,,33.808334,-118.07483,0.367,15986,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,,,33.802941,-118.080357,0.351,15279, ,unknown,,Mobile Homes and Trailer Parks,,,not checked,,Unknown,,zone unknown
+Los Alamitos,24219306,,33.805664,-118.072705,0.344,14988,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220216,,33.80403,-118.073564,0.344,15006,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218323,,33.805647,-118.068252,0.339,14746,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219218,,33.806208,-118.073456,0.327,14241,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220101,,33.804721,-118.075458,0.326,14212,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220116,,33.804463,-118.075414,0.32,13921,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219224,,33.805168,-118.073549,0.31,13495,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218320,,33.806065,-118.068861,0.304,13225,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218123,,33.805188,-118.07104,0.301,13125,R-2,multifamily,LMFR,Public Facilities,,,not checked,,Possible,SB 684,
+Los Alamitos,24219226,,33.805157,-118.074037,0.299,13037,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219222,,33.805605,-118.073608,0.258,11245,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24220228,,33.804719,-118.07363,0.248,10804,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219213,,33.805385,-118.073541,0.245,10670,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219101,,33.806585,-118.075406,0.235,10240,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,,,33.814411,-118.071125,0.232,10087, ,unknown,OA,Educational Institutions,,,not checked,,Unknown,,zone unknown
+Los Alamitos,,,33.782713,-118.043883,0.229,9957,R-2,multifamily,LMFR,Vacant Undifferentiated,,,not checked,,Possible,SB 684,
+Los Alamitos,,,33.781726,-118.043169,0.228,9947,R-2,multifamily,LMFR,Vacant Undifferentiated,,,not checked,,Possible,SB 684,
+Los Alamitos,,,33.78165,-118.043638,0.225,9815,R-2,multifamily,LMFR,Vacant Undifferentiated,,,not checked,,Possible,SB 684,
+Los Alamitos,24219124,,33.806549,-118.074731,0.224,9779,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219230,,33.806589,-118.074118,0.219,9536,R-3,multifamily,MFR,Vacant Undifferentiated,,,not checked,,Possible,SB 684,
+Los Alamitos,,,33.782084,-118.044098,0.207,9026,R-2,multifamily,LMFR,Vacant Undifferentiated,,,not checked,,Possible,SB 684,
+Los Alamitos,,,33.782115,-118.042125,0.207,9021,R-2,multifamily,LMFR,Vacant Undifferentiated,,,not checked,,Possible,SB 684,
+Los Alamitos,24223102,,33.808288,-118.075466,0.202,8787,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223105,,33.80782,-118.075422,0.202,8791,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223106,,33.807678,-118.075454,0.202,8806,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223109,,33.807239,-118.075506,0.202,8795,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223104,,33.807909,-118.075207,0.199,8651,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223124,,33.807039,-118.075338,0.199,8659,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223128,,33.807521,-118.075438,0.199,8656,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223129,,33.808159,-118.07555,0.199,8651,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223123,,33.807361,-118.075406,0.198,8644,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223101,,33.808393,-118.075316,0.191,8332,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223111,,33.806879,-118.075282,0.191,8328,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223210,,33.80705,-118.074073,0.19,8269,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223213,,33.807033,-118.073476,0.19,8265,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223114,,33.807221,-118.074887,0.189,8247,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223115,,33.807355,-118.074828,0.189,8246,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223119,,33.807994,-118.074944,0.189,8248,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223120,,33.808119,-118.074852,0.189,8247,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223204,,33.807953,-118.074054,0.189,8246,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223205,,33.807841,-118.074189,0.189,8246,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223207,,33.807512,-118.074098,0.189,8245,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223208,,33.807335,-118.074009,0.189,8246,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223214,,33.807251,-118.073707,0.189,8246,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223215,,33.807283,-118.073289,0.189,8245,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223216,,33.807498,-118.073513,0.189,8245,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223217,,33.807703,-118.073698,0.189,8246,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223219,,33.807922,-118.073405,0.189,8245,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223221,,33.808232,-118.073431,0.189,8245,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223230,,33.807819,-118.073578,0.189,8245,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223303,,33.8081,-118.072753,0.189,8244,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223304,,33.807915,-118.072634,0.189,8244,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223305,,33.807821,-118.072835,0.189,8245,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223306,,33.807659,-118.072797,0.189,8244,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223310,,33.807096,-118.072944,0.189,8244,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223126,,33.80781,-118.074827,0.186,8109,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223127,,33.807643,-118.074772,0.186,8111,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223130,,33.807527,-118.074895,0.186,8110,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223223,,33.807256,-118.074266,0.186,8109,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223224,,33.808304,-118.074224,0.186,8109,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223225,,33.808129,-118.074143,0.186,8108,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223226,,33.807669,-118.074121,0.186,8109,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223227,,33.808129,-118.073598,0.186,8109,R-3,multifamily,MFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223327,,33.807479,-118.0727,0.186,8107,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223328,,33.807167,-118.072668,0.186,8107,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223330,,33.807406,-118.072975,0.186,8107,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223335,,33.808265,-118.072802,0.186,8107,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,08652125,,33.80291,-118.073947,0.184,8006, ,unknown,,Religious Facilities,,,not checked,,Unknown,,zone unknown
+Los Alamitos,24219105,,33.805992,-118.075237,0.183,7963,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219107,,33.805755,-118.075373,0.183,7978,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24223211,,33.806925,-118.074153,0.181,7875,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223212,,33.806918,-118.073592,0.181,7876,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219106,,33.805943,-118.075549,0.18,7837,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219129,,33.805613,-118.075358,0.18,7820,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219130,,33.805495,-118.075425,0.18,7835,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219132,,33.806148,-118.075304,0.18,7838,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223311,,33.806916,-118.072834,0.18,7845,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24223228,,33.808438,-118.073632,0.178,7744,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,,,33.782688,-118.042863,0.178,7744,R-2,multifamily,LMFR,Vacant Undifferentiated,,,not checked,,Possible,SB 684,
+Los Alamitos,24223229,,33.808464,-118.074262,0.177,7696,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218113,,33.805644,-118.071053,0.172,7495,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218116,,33.80615,-118.070999,0.172,7497,R-2,multifamily,LMFR,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218203,,33.805887,-118.07019,0.172,7496,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218204,,33.805762,-118.070235,0.172,7496,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218205,,33.80562,-118.07022,0.172,7496,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218302,,33.805863,-118.068826,0.172,7499,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218304,,33.805631,-118.068976,0.172,7499,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218305,,33.805464,-118.068875,0.172,7499,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218325,,33.805467,-118.068348,0.172,7498,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219116,,33.805501,-118.074895,0.172,7496,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219134,,33.805664,-118.074982,0.172,7497,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219215,,33.805697,-118.073329,0.172,7497,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219216,,33.805916,-118.073612,0.172,7497,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220105,,33.803532,-118.074793,0.172,7496,R-3,multifamily,RB,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220110,,33.804239,-118.07486,0.172,7496,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220112,,33.804551,-118.074988,0.172,7496,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220203,,33.804549,-118.074231,0.172,7497,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220205,,33.804199,-118.073972,0.172,7495,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220206,,33.804136,-118.074233,0.172,7498,R-3,multifamily,MFR,Vacant Undifferentiated,,,not checked,,Possible,SB 684,
+Los Alamitos,24220207,,33.80398,-118.074166,0.172,7498,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220208,,33.803824,-118.074103,0.172,7499,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24220209,,33.803679,-118.074079,0.172,7499,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24220214,,33.803685,-118.07356,0.172,7505,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24220215,,33.803785,-118.073428,0.172,7504,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220217,,33.804235,-118.073557,0.172,7503,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220218,,33.804372,-118.073556,0.172,7498,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218112,,33.80552,-118.071099,0.169,7371,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218120,,33.805767,-118.070999,0.169,7370,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218221,,33.805346,-118.06964,0.169,7371,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218222,,33.805493,-118.069673,0.169,7371,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218224,,33.805779,-118.069708,0.169,7371,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218303,,33.805781,-118.069023,0.169,7374,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218324,,33.805847,-118.068227,0.169,7373,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219121,,33.806194,-118.074908,0.169,7372,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219126,,33.80592,-118.074909,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219127,,33.806027,-118.074802,0.169,7372,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219128,,33.805769,-118.074865,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219204,,33.806154,-118.074025,0.169,7373,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219205,,33.806063,-118.074188,0.169,7374,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219207,,33.80577,-118.074126,0.169,7374,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219208,,33.805604,-118.074027,0.169,7375,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219228,,33.805505,-118.074162,0.169,7375,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219229,,33.80604,-118.073563,0.169,7374,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219333,,33.805943,-118.072959,0.169,7376,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220109,,33.804107,-118.074874,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24220115,,33.803944,-118.074786,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24220119,,33.804392,-118.074909,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24220120,,33.803842,-118.074911,0.169,7371,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24220121,,33.803707,-118.074921,0.169,7372,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220226,,33.80354,-118.074076,0.169,7375,R-3,multifamily,RB,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220231,,33.804392,-118.074169,0.169,7380,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220232,,33.80449,-118.073482,0.169,7381,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,93959175,,33.804392,-118.074169,0.169,7380,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219221,,33.805921,-118.074176,0.166,7250,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219102,,33.806438,-118.075425,0.165,7169,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219103,,33.806275,-118.075288,0.165,7168,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219111,,33.805243,-118.075431,0.164,7163,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218216,,33.805905,-118.069686,0.163,7121,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219112,,33.805081,-118.075296,0.163,7088,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219133,,33.80538,-118.075483,0.162,7051,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218220,,33.805177,-118.070045,0.156,6791,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218117,,33.805886,-118.070962,0.155,6746,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218118,,33.805986,-118.070879,0.155,6747,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218201,,33.806149,-118.070216,0.155,6746,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218207,,33.805433,-118.070503,0.155,6746,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218217,,33.806047,-118.069736,0.155,6747,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218219,,33.805142,-118.070356,0.155,6746,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218306,,33.805322,-118.068836,0.155,6749,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218307,,33.805236,-118.068967,0.155,6749,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218310,,33.80518,-118.068236,0.155,6749,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218311,,33.805317,-118.068282,0.155,6749,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218318,,33.805972,-118.068213,0.155,6748,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218319,,33.806017,-118.067937,0.155,6747,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219113,,33.805112,-118.074854,0.155,6747,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219115,,33.805326,-118.074737,0.155,6747,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219122,,33.806352,-118.075007,0.155,6746,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220113,,33.804611,-118.074742,0.155,6746,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220114,,33.80479,-118.074934,0.155,6746,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220202,,33.804646,-118.074113,0.155,6741,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218209,,33.805034,-118.06945,0.154,6698,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218308,,33.805112,-118.068959,0.154,6700,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218309,,33.805137,-118.068524,0.154,6700,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219202,,33.806479,-118.074271,0.153,6668,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218119,,33.805301,-118.07079,0.152,6634,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218223,,33.80525,-118.069758,0.152,6634,R-2,multifamily,LMFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24218225,,33.806004,-118.070145,0.152,6634,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219125,,33.806493,-118.075061,0.152,6634,R-3,multifamily,MFR,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,SB 684,
+Los Alamitos,24219131,,33.805275,-118.07499,0.152,6634,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219203,,33.806297,-118.074067,0.152,6636,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24219220,,33.805342,-118.074054,0.15,6525,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220230,,33.804772,-118.074125,0.15,6529,R-3,multifamily,MFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218218,,33.806119,-118.069565,0.147,6413,R-2,multifamily,LMFR,Retail Stores and Commercial Services,,,not checked,,Possible,SB 684,
+Los Alamitos,08652135,,33.802887,-118.072826,0.118,5121, ,unknown,,Retail Stores and Commercial Services,,,not checked,,Unknown,,zone unknown
+Los Alamitos,08652137,,33.802903,-118.073465,0.094,4080, ,unknown,,Retail Stores and Commercial Services,,,not checked,,Unknown,,zone unknown
+Los Alamitos,24218213,,33.805604,-118.069703,0.086,3749,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24218214,,33.805673,-118.069704,0.086,3748,R-2,multifamily,LMFR,Multi-Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,08652133,,33.802982,-118.072634,0.078,3395, ,unknown,,Retail Stores and Commercial Services,,,not checked,,Unknown,,zone unknown
+Los Alamitos,21724118,,33.782846,-118.044473,0.07,3044,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724113,,33.78308,-118.044426,0.069,2987,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724140,,33.781364,-118.043677,0.069,2986,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724212,,33.782992,-118.0431,0.069,2988,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724227,,33.781951,-118.04242,0.069,2987,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724239,,33.781295,-118.042418,0.069,2986,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724125,,33.782246,-118.043791,0.068,2972,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724135,,33.781345,-118.04419,0.068,2955,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724101,,33.782911,-118.043495,0.067,2916,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724121,,33.782435,-118.045054,0.067,2913,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724132,,33.781958,-118.044331,0.067,2915,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724152,,33.781435,-118.043599,0.067,2917,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724201,,33.78291,-118.043133,0.067,2917,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724220,,33.782268,-118.041986,0.067,2902,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724231,,33.782004,-118.042016,0.067,2897,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724234,,33.781631,-118.04263,0.067,2923,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724251,,33.781405,-118.043136,0.067,2916,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724122,,33.782223,-118.04407,0.064,2769,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724217,,33.782949,-118.042357,0.064,2796,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724221,,33.782316,-118.042154,0.064,2771,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724224,,33.782293,-118.042549,0.064,2792,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724230,,33.781981,-118.042167,0.064,2775,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724111,,33.782569,-118.043404,0.063,2740,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724128,,33.78206,-118.044202,0.063,2756,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724241,,33.781542,-118.042506,0.063,2755,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24220221,,33.804763,-118.073697,0.062,2699,R-3,multifamily,MFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724106,,33.782483,-118.043983,0.06,2599,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724108,,33.782357,-118.043947,0.06,2618,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724131,,33.781998,-118.044434,0.06,2593,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724205,,33.782377,-118.042903,0.06,2599,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724208,,33.782448,-118.042557,0.06,2606,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724228,,33.781832,-118.04193,0.06,2593,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724229,,33.782005,-118.042417,0.06,2593,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724245,,33.781914,-118.042643,0.06,2595,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724246,,33.78197,-118.043122,0.06,2600,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724102,,33.782813,-118.043531,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724103,,33.782803,-118.043823,0.059,2548,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724109,,33.782369,-118.043446,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724110,,33.782662,-118.044115,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724112,,33.78272,-118.043528,0.059,2574,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724114,,33.782811,-118.043824,0.059,2584,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724115,,33.782943,-118.044414,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724116,,33.783011,-118.044771,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724117,,33.782903,-118.044512,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724123,,33.782343,-118.044324,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724124,,33.782204,-118.043718,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724129,,33.781894,-118.043904,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724130,,33.781981,-118.044326,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724133,,33.781935,-118.045126,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724134,,33.781544,-118.044114,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724136,,33.781468,-118.044524,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724137,,33.781359,-118.044021,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724138,,33.781463,-118.044269,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724141,,33.7815,-118.043769,0.059,2560,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724143,,33.781765,-118.044085,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724151,,33.781685,-118.044114,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724202,,33.782769,-118.042986,0.059,2587,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724209,,33.78255,-118.042556,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724210,,33.782721,-118.042843,0.059,2550,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724211,,33.782724,-118.042512,0.059,2565,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724213,,33.782963,-118.042851,0.059,2576,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724214,,33.782952,-118.042699,0.059,2584,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724215,,33.782843,-118.042199,0.059,2585,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724216,,33.782786,-118.041879,0.059,2585,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724218,,33.782489,-118.041524,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724219,,33.782492,-118.041891,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724222,,33.782141,-118.041622,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724223,,33.78236,-118.042506,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724232,,33.781821,-118.042327,0.059,2587,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724233,,33.78161,-118.041944,0.059,2587,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724235,,33.781374,-118.041959,0.059,2567,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724236,,33.781351,-118.042009,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724237,,33.78157,-118.042893,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724238,,33.781379,-118.042356,0.059,2581,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724240,,33.781634,-118.043236,0.059,2573,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724242,,33.781659,-118.042531,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724243,,33.781848,-118.042838,0.059,2589,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724244,,33.782104,-118.043167,0.059,2584,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724249,,33.781646,-118.043263,0.059,2548,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724250,,33.781436,-118.042872,0.059,2588,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724139,,33.781576,-118.044557,0.058,2510,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724146,,33.781945,-118.043354,0.058,2532,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724150,,33.781647,-118.043606,0.058,2547,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724203,,33.782665,-118.043002,0.058,2520,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724147,,33.78202,-118.043659,0.057,2468,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724127,,33.782123,-118.044057,0.056,2427,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724104,,33.782587,-118.043421,0.055,2403,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724105,,33.782391,-118.043091,0.055,2404,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724107,,33.782377,-118.043894,0.055,2410,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724126,,33.782298,-118.04431,0.055,2407,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724144,,33.781746,-118.043654,0.055,2384,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724145,,33.782175,-118.04428,0.055,2396,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724148,,33.781907,-118.04379,0.055,2401,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724149,,33.781569,-118.042964,0.055,2402,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724204,,33.782538,-118.042927,0.055,2404,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724206,,33.782409,-118.043073,0.055,2411,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724207,,33.782372,-118.042807,0.055,2408,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724225,,33.782307,-118.042978,0.055,2386,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724226,,33.782123,-118.042675,0.055,2386,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724247,,33.781857,-118.0433,0.055,2404,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724248,,33.781686,-118.043058,0.055,2404,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724142,,33.781784,-118.044472,0.054,2357,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724119,,33.782757,-118.044878,0.051,2219,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,21724120,,33.782578,-118.044607,0.051,2219,R-2,multifamily,LMFR,Single Family Residential,,,not checked,,Possible,SB 684,
+Los Alamitos,24235118,,33.812274,-118.073447,0.005,201,R-1,single-family,SFR,Vacant Undifferentiated,,,not checked,,Unknown,SB 1123,vacant single-family lot: SB 1123 size limit not in HCD sheet
+Los Alamitos,24224243,,33.799347,-118.034336,0.0,14, ,unknown,PI,Vacant Undifferentiated,,,not checked,,Unknown,,zone unknown

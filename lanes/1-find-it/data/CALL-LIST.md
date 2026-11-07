@@ -46,14 +46,14 @@ Check before calling: Commercial corridor frontage; industrial neighbors; afford
 |---|---|---|---|---|---|---|
 | 1 | unknown | 29636327 | 1.977 | MU-I | Public Parking Facilities | [map](https://www.google.com/maps?q=33.919642,-117.899442) |
 | 2 | unknown | 28423102 | 0.129 | MU-III | Public Parking Facilities | [map](https://www.google.com/maps?q=33.916951,-117.902203) |
-| 3 | unknown | 31509108 | 25.38 | C-RC | Commercial Recreation | [map](https://www.google.com/maps?q=33.934145,-117.79511) |
-| 4 | unknown | 33654130 | 16.566 | C-G | Retail Stores and Commercial Services | [map](https://www.google.com/maps?q=33.910246,-117.866456) |
-| 5 | unknown | 31910137 | 13.213 | MU-I | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.913881,-117.887979) |
-| 6 | unknown | 31939101 | 12.823 | C-G | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.912084,-117.881652) |
-| 7 | unknown | 31509107 | 9.271 | C-RC | Commercial Recreation | [map](https://www.google.com/maps?q=33.936525,-117.793655) |
-| 8 | unknown | 32030112 | 7.422 | MU-II | General Office Use | [map](https://www.google.com/maps?q=33.913732,-117.851025) |
-| 9 | unknown | 32009165 | 6.669 | C-M | General Office Use | [map](https://www.google.com/maps?q=33.911939,-117.862628) |
-| 10 | unknown | 29624108 | 6.197 | MU-II | General Office Use | [map](https://www.google.com/maps?q=33.930701,-117.904679) |
+| 3 | unknown | 33654130 | 16.566 | C-G | Retail Stores and Commercial Services | [map](https://www.google.com/maps?q=33.910246,-117.866456) |
+| 4 | unknown | 31910137 | 13.213 | MU-I | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.913881,-117.887979) |
+| 5 | unknown | 31939101 | 12.823 | C-G | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.912084,-117.881652) |
+| 6 | unknown | 32030112 | 7.422 | MU-II | General Office Use | [map](https://www.google.com/maps?q=33.913732,-117.851025) |
+| 7 | unknown | 32009165 | 6.669 | C-M | General Office Use | [map](https://www.google.com/maps?q=33.911939,-117.862628) |
+| 8 | unknown | 29624108 | 6.197 | MU-II | General Office Use | [map](https://www.google.com/maps?q=33.930701,-117.904679) |
+| 9 | unknown | 31933116 | 5.752 | MU-I | General Office Use | [map](https://www.google.com/maps?q=33.91865,-117.8841) |
+| 10 | unknown | 32010118 | 5.56 | C-P | Retail Stores and Commercial Services | [map](https://www.google.com/maps?q=33.924551,-117.876252) |
 
 **Buena Park**
 
@@ -93,12 +93,12 @@ Check before calling: Commercial corridor frontage; industrial neighbors; afford
 | 2 | unknown | 69141121 | 0.319 | V/RC | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.459455,-117.673613) |
 | 3 | unknown | 66827115 | 0.312 | RC 18 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.46497,-117.686258) |
 | 4 | unknown | 66835107 | 0.234 | C/R | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.466612,-117.675899) |
-| 5 | unknown | 66834146 | 0.224 | C C/V | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.465609,-117.679435) |
-| 6 | unknown | 66837313 | 0.163 | C/R | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.464325,-117.672797) |
-| 7 | unknown | 66827117 | 0.161 | RC 18 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.464429,-117.683923) |
-| 8 | unknown | 12335515 | 0.157 | P/R | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.454241,-117.661211) |
-| 9 | unknown | 66834126 | 0.149 | C C/V | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.465408,-117.679027) |
-| 10 | unknown | 66834132 | 0.149 | C C/V | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.465765,-117.678805) |
+| 5 | unknown | 66837313 | 0.163 | C/R | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.464325,-117.672797) |
+| 6 | unknown | 12335515 | 0.157 | P/R | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.454241,-117.661211) |
+| 7 | unknown | 12335433 | 0.146 | P/R | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.455087,-117.660764) |
+| 8 | unknown | 66835109 | 0.119 | C C/P | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.466139,-117.676197) |
+| 9 | unknown | 66835110 | 0.119 | C C/P | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.466254,-117.676497) |
+| 10 | unknown | 66835117 | 0.116 | C C/P | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.466375,-117.676876) |
 
 **Fountain Valley**
 
@@ -172,8 +172,8 @@ Check before calling: Commercial corridor frontage; industrial neighbors; afford
 | 6 | unknown | 01911189 | 0.74 | PC-I | Vacant | [map](https://www.google.com/maps?q=33.917706,-117.937019) |
 | 7 | unknown | 01814203 | 0.528 | C-3 | Vacant | [map](https://www.google.com/maps?q=33.925782,-117.967016) |
 | 8 | unknown | 01911190 | 0.476 | PC-I | Vacant | [map](https://www.google.com/maps?q=33.918127,-117.937047) |
-| 9 | unknown | 01837136 | 0.47 | C-2sH | Vacant | [map](https://www.google.com/maps?q=33.917782,-117.968529) |
-| 10 | unknown | 01704410 | 0.286 | C-2 | Vacant | [map](https://www.google.com/maps?q=33.940276,-117.970994) |
+| 9 | unknown | 01704410 | 0.286 | C-2 | Vacant | [map](https://www.google.com/maps?q=33.940276,-117.970994) |
+| 10 | unknown | 02217408 | 0.097 | C-2 | Vacant | [map](https://www.google.com/maps?q=33.93008,-117.946018) |
 
 **La Palma**
 
@@ -194,16 +194,16 @@ Check before calling: Commercial corridor frontage; industrial neighbors; afford
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 64124105 | 3.64 | AD | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.548248,-117.780708) |
-| 2 | unknown | 65619139 | 0.533 | CN | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.518084,-117.75863) |
-| 3 | unknown | 64123103 | 0.447 | AD | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.549194,-117.779143) |
-| 4 | unknown | 05313424 | 0.419 | CN | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.548438,-117.801088) |
-| 5 | unknown | 64124104 | 0.347 | AD | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.549006,-117.780548) |
-| 6 | unknown | 65644124 | 0.297 | RD | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.516559,-117.758129) |
-| 7 | unknown | 65644118 | 0.296 | RD | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.514837,-117.75825) |
-| 8 | unknown | 64128107 | 0.278 | AD | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.545463,-117.780701) |
-| 9 | unknown | 65645104 | 0.261 | RD | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.513845,-117.757135) |
-| 10 | unknown | 64427110 | 0.257 | C1 | Public Parking Facilities | [map](https://www.google.com/maps?q=33.529478,-117.771627) |
+| 1 | unknown | 05313424 | 0.419 | CN | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.548438,-117.801088) |
+| 2 | unknown | 65644118 | 0.296 | RD | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.514837,-117.75825) |
+| 3 | unknown | 65645104 | 0.261 | RD | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.513845,-117.757135) |
+| 4 | unknown | 64427110 | 0.257 | C1 | Public Parking Facilities | [map](https://www.google.com/maps?q=33.529478,-117.771627) |
+| 5 | unknown | 05315101 | 0.227 | CN | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.548219,-117.800534) |
+| 6 | unknown | 05619349 | 0.191 | TAB | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.487205,-117.733384) |
+| 7 | unknown | 05610502 | 0.172 | SLV | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.501328,-117.743076) |
+| 8 | unknown | 64421202 | 0.172 | LBP | Public Parking Facilities | [map](https://www.google.com/maps?q=33.53195,-117.774135) |
+| 9 | unknown | 64408612 | 0.168 | LBP | Public Parking Facilities | [map](https://www.google.com/maps?q=33.534151,-117.776284) |
+| 10 | unknown | 65811108 | 0.16 | SLV | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.500339,-117.742548) |
 
 **Laguna Hills**
 
@@ -272,28 +272,28 @@ Check before calling: Commercial corridor frontage; industrial neighbors; afford
 | 1 | unknown | 78466134 | 1.641 | CH | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.589702,-117.672778) |
 | 2 | unknown | 78466149 | 1.525 | CH | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.581643,-117.67329) |
 | 3 | unknown | 78466109 | 1.18 | CH | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.590056,-117.67288) |
-| 4 | unknown | 78466102 | 0.434 | CH | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.594972,-117.674101) |
-| 5 | unknown | 80954123 | 11.684 | BP | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.622966,-117.681467) |
-| 6 | unknown | 81154103 | 10.601 | CN | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.632566,-117.645964) |
-| 7 | unknown | 74012126 | 10.05 | CR | Regional Shopping Center | [map](https://www.google.com/maps?q=33.55988,-117.667807) |
-| 8 | unknown | 80932301 | 8.572 | CN | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.613703,-117.679187) |
-| 9 | unknown | 74001115 | 7.745 | CH | Retail Strip Development | [map](https://www.google.com/maps?q=33.553877,-117.671587) |
-| 10 | unknown | 76132101 | 6.996 | OP | Low- and Medium-Rise Major Office Use | [map](https://www.google.com/maps?q=33.566201,-117.670354) |
+| 4 | unknown | 80954123 | 11.684 | BP | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.622966,-117.681467) |
+| 5 | unknown | 81154103 | 10.601 | CN | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.632566,-117.645964) |
+| 6 | unknown | 74012126 | 10.05 | CR | Regional Shopping Center | [map](https://www.google.com/maps?q=33.55988,-117.667807) |
+| 7 | unknown | 80932301 | 8.572 | CN | Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking) | [map](https://www.google.com/maps?q=33.613703,-117.679187) |
+| 8 | unknown | 74001115 | 7.745 | CH | Retail Strip Development | [map](https://www.google.com/maps?q=33.553877,-117.671587) |
+| 9 | unknown | 76132101 | 6.996 | OP | Low- and Medium-Rise Major Office Use | [map](https://www.google.com/maps?q=33.566201,-117.670354) |
+| 10 | unknown | 76127107 | 6.95 | OP | Low- and Medium-Rise Major Office Use | [map](https://www.google.com/maps?q=33.563259,-117.669863) |
 
 **Newport Beach**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
 | 1 | unknown | 04912124 | 0.879 | MU-MM | Public Parking Facilities | [map](https://www.google.com/maps?q=33.620631,-117.922957) |
-| 2 | unknown | 05216202 | 0.502 | CC | Public Parking Facilities | [map](https://www.google.com/maps?q=33.593724,-117.867498) |
-| 3 | unknown | 04912118 | 0.417 | MU-MM | Public Parking Facilities | [map](https://www.google.com/maps?q=33.620923,-117.923588) |
-| 4 | unknown | 44201139 | 0.346 | OG | Public Parking Facilities | [map](https://www.google.com/maps?q=33.622237,-117.880722) |
-| 5 | unknown | 04703219 | 0.275 | MU-CV/15TH ST | Public Parking Facilities | [map](https://www.google.com/maps?q=33.615154,-117.927646) |
-| 6 | unknown | 45908114 | 0.217 | CC | Public Parking Facilities | [map](https://www.google.com/maps?q=33.604935,-117.87549) |
-| 7 | unknown | 04703120 | 0.211 | MU-CV/15TH ST | Public Parking Facilities | [map](https://www.google.com/maps?q=33.615864,-117.927929) |
-| 8 | unknown | 45903102 | 0.151 | CC | Public Parking Facilities | [map](https://www.google.com/maps?q=33.603174,-117.873853) |
-| 9 | unknown | 04813308 | 0.082 | CV | Public Parking Facilities | [map](https://www.google.com/maps?q=33.602553,-117.898974) |
-| 10 | unknown | 04511501 | 0.067 | CV | Public Parking Facilities | [map](https://www.google.com/maps?q=33.625974,-117.947769) |
+| 2 | unknown | 04912118 | 0.417 | MU-MM | Public Parking Facilities | [map](https://www.google.com/maps?q=33.620923,-117.923588) |
+| 3 | unknown | 44201139 | 0.346 | OG | Public Parking Facilities | [map](https://www.google.com/maps?q=33.622237,-117.880722) |
+| 4 | unknown | 04703219 | 0.275 | MU-CV/15TH ST | Public Parking Facilities | [map](https://www.google.com/maps?q=33.615154,-117.927646) |
+| 5 | unknown | 45908114 | 0.217 | CC | Public Parking Facilities | [map](https://www.google.com/maps?q=33.604935,-117.87549) |
+| 6 | unknown | 04703120 | 0.211 | MU-CV/15TH ST | Public Parking Facilities | [map](https://www.google.com/maps?q=33.615864,-117.927929) |
+| 7 | unknown | 45903102 | 0.151 | CC | Public Parking Facilities | [map](https://www.google.com/maps?q=33.603174,-117.873853) |
+| 8 | unknown | 04813308 | 0.082 | CV | Public Parking Facilities | [map](https://www.google.com/maps?q=33.602553,-117.898974) |
+| 9 | unknown | 04511501 | 0.067 | CV | Public Parking Facilities | [map](https://www.google.com/maps?q=33.625974,-117.947769) |
+| 10 | unknown | 04511408 | 0.058 | CV | Public Parking Facilities | [map](https://www.google.com/maps?q=33.626111,-117.948076) |
 
 **Orange**
 
@@ -338,22 +338,22 @@ Check before calling: Commercial corridor frontage; industrial neighbors; afford
 | 7 | unknown | 05714125 | 0.331 | NC1.2 | Public Parking Facilities | [map](https://www.google.com/maps?q=33.430726,-117.61739) |
 | 8 | unknown | 05807349 | 0.275 | MU3.1 | Public Parking Facilities | [map](https://www.google.com/maps?q=33.427844,-117.613983) |
 | 9 | unknown | 05809141 | 0.275 | MU3.1 | Public Parking Facilities | [map](https://www.google.com/maps?q=33.425969,-117.612134) |
-| 10 | unknown | 69041301 | 0.238 | NC1.3 | Urban Vacant | [map](https://www.google.com/maps?q=33.418596,-117.604366) |
+| 10 | unknown | 69217119 | 0.217 | MU3.2 | Urban Vacant | [map](https://www.google.com/maps?q=33.418966,-117.606442) |
 
 **San Juan Capistrano**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 12154105 | 2.504 | CM | Vacant | [map](https://www.google.com/maps?q=33.477771,-117.676499) |
-| 2 | unknown | 12154106 | 1.632 | CM | Vacant | [map](https://www.google.com/maps?q=33.477947,-117.677508) |
-| 3 | unknown | 66812111 | 1.047 | CM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.480776,-117.671614) |
-| 4 | unknown | 12154109 | 0.913 | CM | Vacant | [map](https://www.google.com/maps?q=33.474681,-117.678169) |
-| 5 | unknown | 12125430 | 0.69 | CM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.474305,-117.677124) |
-| 6 | unknown | 12417019 | 0.567 | TC | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.502277,-117.661235) |
-| 7 | unknown | 12154108 | 0.541 | CM | Vacant | [map](https://www.google.com/maps?q=33.474581,-117.677814) |
-| 8 | unknown | 12417017 | 0.534 | TC | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.502309,-117.65975) |
-| 9 | unknown | 12417014 | 0.449 | TC | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.502136,-117.661484) |
-| 10 | unknown | 66845401 | 0.237 | GC | Public Parking Facilities | [map](https://www.google.com/maps?q=33.493136,-117.662133) |
+| 1 | unknown | 66812111 | 1.047 | CM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.480776,-117.671614) |
+| 2 | unknown | 12125430 | 0.69 | CM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.474305,-117.677124) |
+| 3 | unknown | 12417019 | 0.567 | TC | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.502277,-117.661235) |
+| 4 | unknown | 12417014 | 0.449 | TC | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.502136,-117.661484) |
+| 5 | unknown | 12418111 | 0.219 | TC | Public Parking Facilities | [map](https://www.google.com/maps?q=33.502005,-117.66373) |
+| 6 | unknown | 12418110 | 0.218 | TC | Public Parking Facilities | [map](https://www.google.com/maps?q=33.501853,-117.663566) |
+| 7 | unknown | 12418108 | 0.148 | TC | Public Parking Facilities | [map](https://www.google.com/maps?q=33.501537,-117.663361) |
+| 8 | unknown | 66850109 | 0.071 | CM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.490084,-117.665018) |
+| 9 | unknown | 64901124 | 0.04 | GC | Vacant | [map](https://www.google.com/maps?q=33.519005,-117.665611) |
+| 10 | unknown | 66824202 | 0.022 | TCE | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.4979,-117.660802) |
 
 **Santa Ana**
 
@@ -404,16 +404,16 @@ Check before calling: Commercial corridor frontage; industrial neighbors; afford
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 50018402 | 3.146 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.725548,-117.798077) |
-| 2 | unknown | 50014110 | 2.863 | C2 | Vacant | [map](https://www.google.com/maps?q=33.735798,-117.813991) |
-| 3 | unknown | 43025206 | 1.974 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.725828,-117.832377) |
-| 4 | unknown | 43025212 | 1.822 | PC COM | Vacant | [map](https://www.google.com/maps?q=33.724705,-117.830875) |
-| 5 | unknown | 43026133 | 0.873 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.719343,-117.832767) |
-| 6 | unknown | 50018108 | 0.867 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.724698,-117.801547) |
-| 7 | unknown | 40125304 | 0.85 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.758291,-117.826639) |
-| 8 | unknown | 50018304 | 0.605 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.728342,-117.799481) |
-| 9 | unknown |  | 0.558 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.721086,-117.833503) |
-| 10 | unknown | 40230106 | 0.454 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.734154,-117.836232) |
+| 1 | unknown | 50014110 | 2.863 | C2 | Vacant | [map](https://www.google.com/maps?q=33.735798,-117.813991) |
+| 2 | unknown | 43025206 | 1.974 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.725828,-117.832377) |
+| 3 | unknown | 43025212 | 1.822 | PC COM | Vacant | [map](https://www.google.com/maps?q=33.724705,-117.830875) |
+| 4 | unknown | 43026133 | 0.873 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.719343,-117.832767) |
+| 5 | unknown | 40125304 | 0.85 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.758291,-117.826639) |
+| 6 | unknown | 50018304 | 0.605 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.728342,-117.799481) |
+| 7 | unknown |  | 0.558 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.721086,-117.833503) |
+| 8 | unknown | 40230106 | 0.454 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.734154,-117.836232) |
+| 9 | unknown | 43025207 | 0.283 | PC COM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.725482,-117.831875) |
+| 10 | unknown | 40230105 | 0.161 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.734195,-117.836044) |
 
 **Villa Park**
 
@@ -437,28 +437,28 @@ Check before calling: Commercial corridor frontage; industrial neighbors; afford
 | 1 | unknown | 19537326 | 1.176 | C2 | Public Parking Facilities | [map](https://www.google.com/maps?q=33.744691,-118.011868) |
 | 2 | unknown | 20307305 | 0.844 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.770288,-118.026171) |
 | 3 | unknown | 19537329 | 0.546 | C2 | Public Parking Facilities | [map](https://www.google.com/maps?q=33.745214,-118.00755) |
-| 4 | unknown | 14312233 | 0.54 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.730711,-117.963772) |
-| 5 | unknown | 09962412 | 0.532 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.745296,-117.953109) |
-| 6 | unknown | 09629043 | 0.459 | C2 | Vacant | [map](https://www.google.com/maps?q=33.765357,-117.990752) |
-| 7 | unknown | 09613251 | 0.391 | C2 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.758611,-117.999682) |
-| 8 | unknown | 20307304 | 0.388 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.770422,-118.025845) |
-| 9 | unknown | 14305128 | 0.379 | C2 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.740645,-117.956506) |
-| 10 | unknown | 10722047 | 0.284 | C2 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.725767,-117.985063) |
+| 4 | unknown | 09962412 | 0.532 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.745296,-117.953109) |
+| 5 | unknown | 09629043 | 0.459 | C2 | Vacant | [map](https://www.google.com/maps?q=33.765357,-117.990752) |
+| 6 | unknown | 09613251 | 0.391 | C2 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.758611,-117.999682) |
+| 7 | unknown | 20307304 | 0.388 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.770422,-118.025845) |
+| 8 | unknown | 20331301 | 0.201 | C1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.759704,-118.020444) |
+| 9 | unknown | 09624034 | 0.187 | CR | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.761749,-117.995706) |
+| 10 | unknown | 09629008 | 0.178 | C2 | Vacant | [map](https://www.google.com/maps?q=33.76556,-117.990309) |
 
 **Yorba Linda**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 34826112 | 0.408 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.874784,-117.802513) |
-| 2 | unknown | 32218314 | 0.387 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.900029,-117.831535) |
-| 3 | unknown | 32218313 | 0.232 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.899989,-117.831739) |
-| 4 | unknown | 32218341 | 0.217 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.900071,-117.832213) |
-| 5 | unknown | 32218340 | 0.126 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.899824,-117.831909) |
-| 6 | unknown | 32218358 | 0.093 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.900007,-117.832189) |
-| 7 | unknown | 32218339 | 0.026 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.899735,-117.831851) |
-| 8 | unknown | 35309106 | 9.142 | CG | Commercial Recreation | [map](https://www.google.com/maps?q=33.873102,-117.720997) |
-| 9 | unknown | 33420113 | 8.057 | CO | General Office Use | [map](https://www.google.com/maps?q=33.898316,-117.839321) |
-| 10 | unknown | 33420114 | 7.183 | CO | General Office Use | [map](https://www.google.com/maps?q=33.898287,-117.841045) |
+| 1 | unknown | 32218314 | 0.387 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.900029,-117.831535) |
+| 2 | unknown | 32218313 | 0.232 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.899989,-117.831739) |
+| 3 | unknown | 32218341 | 0.217 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.900071,-117.832213) |
+| 4 | unknown | 32218340 | 0.126 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.899824,-117.831909) |
+| 5 | unknown | 32218358 | 0.093 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.900007,-117.832189) |
+| 6 | unknown | 32218339 | 0.026 | CG | Urban Vacant | [map](https://www.google.com/maps?q=33.899735,-117.831851) |
+| 7 | unknown | 35309106 | 9.142 | CG | Commercial Recreation | [map](https://www.google.com/maps?q=33.873102,-117.720997) |
+| 8 | unknown | 33420113 | 8.057 | CO | General Office Use | [map](https://www.google.com/maps?q=33.898316,-117.839321) |
+| 9 | unknown | 33420114 | 7.183 | CO | General Office Use | [map](https://www.google.com/maps?q=33.898287,-117.841045) |
+| 10 | unknown | 32212107 | 5.662 | CG | Retail Stores and Commercial Services | [map](https://www.google.com/maps?q=33.903376,-117.838595) |
 
 ## SB 684
 
@@ -505,9 +505,9 @@ Check before calling: Ten or fewer homes and lots; no tenant or rent-controlled 
 | 5 | unknown | 28417307 | 0.159 | R-3 | Retail Stores and Commercial Services | [map](https://www.google.com/maps?q=33.906918,-117.906022) |
 | 6 | unknown | 31925202 | 4.783 | R-3 | Religious Facilities | [map](https://www.google.com/maps?q=33.920029,-117.893936) |
 | 7 | unknown | 29607246 | 3.212 | R-3 | Local Parks and Recreation | [map](https://www.google.com/maps?q=33.929783,-117.923647) |
-| 8 | unknown | 30604222 | 2.573 | R-2 | Open Space and Recreation | [map](https://www.google.com/maps?q=33.934617,-117.891343) |
-| 9 | unknown | 30605332 | 2.405 | R-2 | Open Space and Recreation | [map](https://www.google.com/maps?q=33.932836,-117.891223) |
-| 10 | unknown | 29607488 | 2.29 | R-3 | Open Space and Recreation | [map](https://www.google.com/maps?q=33.929578,-117.922573) |
+| 8 | unknown | 30605332 | 2.405 | R-2 | Open Space and Recreation | [map](https://www.google.com/maps?q=33.932836,-117.891223) |
+| 9 | unknown | 29607488 | 2.29 | R-3 | Open Space and Recreation | [map](https://www.google.com/maps?q=33.929578,-117.922573) |
+| 10 | unknown | 31911203 | 2.287 | R-2 | Local Parks and Recreation | [map](https://www.google.com/maps?q=33.914607,-117.878289) |
 
 **Buena Park**
 
@@ -656,8 +656,7 @@ Check before calling: Ten or fewer homes and lots; no tenant or rent-controlled 
 | 6 | unknown | 49601205 | 0.147 | CBDMFD | Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses | [map](https://www.google.com/maps?q=33.543443,-117.785996) |
 | 7 | unknown | 49601208 | 0.147 | CBDMFD | Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses | [map](https://www.google.com/maps?q=33.543725,-117.785498) |
 | 8 | unknown | 49601214 | 0.101 | CBDMFD | Low-Rise Apartments, Condominiums, and Townhouses | [map](https://www.google.com/maps?q=33.54432,-117.784427) |
-| 9 | unknown | 49601215 | 0.096 | CBDMFD | Low-Rise Apartments, Condominiums, and Townhouses | [map](https://www.google.com/maps?q=33.544331,-117.783986) |
-| 10 | unknown | 49601216 | 0.083 | CBDMFD | Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses | [map](https://www.google.com/maps?q=33.544637,-117.784585) |
+| 9 | unknown | 49601216 | 0.083 | CBDMFD | Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses | [map](https://www.google.com/maps?q=33.544637,-117.784585) |
 
 **Laguna Hills**
 
@@ -675,26 +674,26 @@ Check before calling: Ten or fewer homes and lots; no tenant or rent-controlled 
 | 3 | unknown | 65469106 | 0.619 | RM | Undevelopable or Protected Land | [map](https://www.google.com/maps?q=33.554592,-117.691049) |
 | 4 | unknown | 65468101 | 0.557 | RM | Undevelopable or Protected Land | [map](https://www.google.com/maps?q=33.553024,-117.693708) |
 | 5 | unknown | 63620203 | 0.214 | RM | Undevelopable or Protected Land | [map](https://www.google.com/maps?q=33.568163,-117.707306) |
-| 6 | unknown | 65626204 | 0.164 | RM | Undevelopable or Protected Land | [map](https://www.google.com/maps?q=33.525553,-117.721315) |
-| 7 | unknown | 65533101 | 0.148 | RM | Undevelopable or Protected Land | [map](https://www.google.com/maps?q=33.535004,-117.725745) |
-| 8 | unknown | 65453202 | 0.119 | RM | Undevelopable or Protected Land | [map](https://www.google.com/maps?q=33.554835,-117.688568) |
-| 9 | unknown | 65358215 | 0.048 | RM | Undevelopable or Protected Land | [map](https://www.google.com/maps?q=33.518023,-117.692011) |
-| 10 | unknown | 63620121 | 0.047 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.568522,-117.702378) |
+| 6 | unknown | 65453202 | 0.119 | RM | Undevelopable or Protected Land | [map](https://www.google.com/maps?q=33.554835,-117.688568) |
+| 7 | unknown | 65358215 | 0.048 | RM | Undevelopable or Protected Land | [map](https://www.google.com/maps?q=33.518023,-117.692011) |
+| 8 | unknown | 63620121 | 0.047 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.568522,-117.702378) |
+| 9 | unknown | 63620119 | 0.01 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.570035,-117.7073) |
+| 10 | unknown | 65513115 | 4.742 | RM | Low-Rise Apartments, Condominiums, and Townhouses | [map](https://www.google.com/maps?q=33.53146,-117.71639) |
 
 **Lake Forest**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
 | 1 | unknown | 61323115 | 4.301 | HEDR | Special Care Facilities | [map](https://www.google.com/maps?q=33.645372,-117.682657) |
-| 2 | unknown | 60622108 | 3.048 | MF | Other Open Space and Recreation | [map](https://www.google.com/maps?q=33.678515,-117.634014) |
-| 3 | unknown | 61022103 | 2.803 | HEDR | Other Open Space and Recreation | [map](https://www.google.com/maps?q=33.650334,-117.682581) |
-| 4 | unknown | 60641119 | 2.089 | MF | Other Open Space and Recreation | [map](https://www.google.com/maps?q=33.676671,-117.634258) |
-| 5 | unknown | 60636236 | 1.743 | MF | Other Open Space and Recreation | [map](https://www.google.com/maps?q=33.679322,-117.630778) |
-| 6 | unknown | 60636237 | 1.58 | MF | Other Open Space and Recreation | [map](https://www.google.com/maps?q=33.67826,-117.630897) |
-| 7 | unknown | 61222139 | 1.319 | ST/ARH | Under Construction | [map](https://www.google.com/maps?q=33.66964,-117.666342) |
-| 8 | unknown | 60622119 | 1.25 | MF | unknown | [map](https://www.google.com/maps?q=33.679264,-117.63514) |
-| 9 | unknown | 60611301 | 1.187 | MF | unknown | [map](https://www.google.com/maps?q=33.686082,-117.626435) |
-| 10 | unknown | 61222137 | 1.159 | ST/ARH | Under Construction | [map](https://www.google.com/maps?q=33.671034,-117.666837) |
+| 2 | unknown | 61022103 | 2.803 | HEDR | Other Open Space and Recreation | [map](https://www.google.com/maps?q=33.650334,-117.682581) |
+| 3 | unknown | 61222139 | 1.319 | ST/ARH | Under Construction | [map](https://www.google.com/maps?q=33.66964,-117.666342) |
+| 4 | unknown | 61222137 | 1.159 | ST/ARH | Under Construction | [map](https://www.google.com/maps?q=33.671034,-117.666837) |
+| 5 | unknown | 61222542 | 1.017 | ST/ARH | Under Construction | [map](https://www.google.com/maps?q=33.670339,-117.666784) |
+| 6 | unknown | 61370113 | 0.725 | HEDR | unknown | [map](https://www.google.com/maps?q=33.658249,-117.669994) |
+| 7 | unknown | 61370106 | 0.611 | HEDR | unknown | [map](https://www.google.com/maps?q=33.657657,-117.670529) |
+| 8 | unknown | 61343103 | 0.577 | HEDR | Local Parks and Recreation | [map](https://www.google.com/maps?q=33.649536,-117.674531) |
+| 9 | unknown | 61222420 | 0.564 | ST/ARH | Under Construction | [map](https://www.google.com/maps?q=33.670823,-117.66689) |
+| 10 | unknown | 61370103 | 0.489 | HEDR | unknown | [map](https://www.google.com/maps?q=33.656888,-117.671049) |
 
 **Los Alamitos**
 
@@ -748,9 +747,9 @@ Check before calling: Ten or fewer homes and lots; no tenant or rent-controlled 
 | 5 | unknown | 37965110 | 0.293 | R-2-7 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.795387,-117.791541) |
 | 6 | unknown | 50388105 | 0.293 | P-C | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.79256,-117.765777) |
 | 7 | unknown | 39049114 | 0.254 | R-3 | Urban Vacant | [map](https://www.google.com/maps?q=33.785397,-117.834707) |
-| 8 | unknown | 37042519 | 0.182 | P-C | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.829419,-117.764714) |
-| 9 | unknown | 03915121 | 0.18 | R-2-6 | Urban Vacant | [map](https://www.google.com/maps?q=33.792656,-117.855549) |
-| 10 | unknown | 39341115 | 0.166 | R-2-6 | Urban Vacant | [map](https://www.google.com/maps?q=33.786159,-117.805021) |
+| 8 | unknown | 03915121 | 0.18 | R-2-6 | Urban Vacant | [map](https://www.google.com/maps?q=33.792656,-117.855549) |
+| 9 | unknown | 39341115 | 0.166 | R-2-6 | Urban Vacant | [map](https://www.google.com/maps?q=33.786159,-117.805021) |
+| 10 | unknown | 09305156 | 0.165 | R-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.791825,-117.817438) |
 
 **Placentia**
 
@@ -765,22 +764,22 @@ Check before calling: Ten or fewer homes and lots; no tenant or rent-controlled 
 | 7 | unknown | 33936418 | 0.134 | R-2 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.869772,-117.872544) |
 | 8 | unknown | 34633103 | 0.127 | R-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.866306,-117.819068) |
 | 9 | unknown | 33912162 | 1.161 | R-G | Commercial and Services | [map](https://www.google.com/maps?q=33.881891,-117.867106) |
-| 10 | unknown | 34418101 | 0.386 | R-3 | Commercial and Services | [map](https://www.google.com/maps?q=33.861132,-117.874435) |
+| 10 | unknown | 34137413 | 0.247 | R-G (O) | Commercial and Services | [map](https://www.google.com/maps?q=33.868751,-117.830617) |
 
 **San Clemente**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 69001301 | 1.91 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.428212,-117.610283) |
-| 2 | unknown | 06011214 | 0.413 | RM | Public Parking Facilities | [map](https://www.google.com/maps?q=33.399378,-117.594085) |
-| 3 | unknown | 05810403 | 0.334 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.422702,-117.612529) |
-| 4 | unknown | 69212129 | 0.327 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.43058,-117.630343) |
-| 5 | unknown | 05715105 | 0.309 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.432543,-117.620993) |
-| 6 | unknown | 69142503 | 0.298 | RML | Urban Vacant | [map](https://www.google.com/maps?q=33.441464,-117.637479) |
-| 7 | unknown | 69142504 | 0.298 | RML | Urban Vacant | [map](https://www.google.com/maps?q=33.441566,-117.637284) |
-| 8 | unknown | 69142502 | 0.295 | RML | Urban Vacant | [map](https://www.google.com/maps?q=33.441324,-117.637534) |
-| 9 | unknown | 69142501 | 0.284 | RML | Urban Vacant | [map](https://www.google.com/maps?q=33.441249,-117.637739) |
-| 10 | unknown | 05715126 | 0.278 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.432406,-117.621333) |
+| 1 | unknown | 06011214 | 0.413 | RM | Public Parking Facilities | [map](https://www.google.com/maps?q=33.399378,-117.594085) |
+| 2 | unknown | 05810403 | 0.334 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.422702,-117.612529) |
+| 3 | unknown | 69212129 | 0.327 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.43058,-117.630343) |
+| 4 | unknown | 05715105 | 0.309 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.432543,-117.620993) |
+| 5 | unknown | 69142503 | 0.298 | RML | Urban Vacant | [map](https://www.google.com/maps?q=33.441464,-117.637479) |
+| 6 | unknown | 69142504 | 0.298 | RML | Urban Vacant | [map](https://www.google.com/maps?q=33.441566,-117.637284) |
+| 7 | unknown | 69142502 | 0.295 | RML | Urban Vacant | [map](https://www.google.com/maps?q=33.441324,-117.637534) |
+| 8 | unknown | 69142501 | 0.284 | RML | Urban Vacant | [map](https://www.google.com/maps?q=33.441249,-117.637739) |
+| 9 | unknown | 05715126 | 0.278 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.432406,-117.621333) |
+| 10 | unknown | 69211104 | 0.259 | RM | Urban Vacant | [map](https://www.google.com/maps?q=33.4279,-117.628001) |
 
 **San Juan Capistrano**
 
@@ -790,12 +789,12 @@ Check before calling: Ten or fewer homes and lots; no tenant or rent-controlled 
 | 2 | unknown | 67508415 | 0.723 | RM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.468195,-117.669772) |
 | 3 | unknown | 66611104 | 0.178 | RM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.506572,-117.647764) |
 | 4 | unknown | 66611103 | 0.09 | RM | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.508241,-117.648323) |
-| 5 | unknown | 66810127 | 3.058 | VHD | Government Offices | [map](https://www.google.com/maps?q=33.492391,-117.665025) |
-| 6 | unknown | 66810126 | 1.189 | VHD | Government Offices | [map](https://www.google.com/maps?q=33.492886,-117.664582) |
-| 7 | unknown | 66810124 | 0.613 | VHD | Government Offices | [map](https://www.google.com/maps?q=33.491947,-117.665051) |
-| 8 | unknown | 64916102 | 0.528 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.508496,-117.668575) |
-| 9 | unknown | 64922110 | 0.279 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.507499,-117.666262) |
-| 10 | unknown | 64928112 | 0.188 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.504764,-117.667096) |
+| 5 | unknown | 64916102 | 0.528 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.508496,-117.668575) |
+| 6 | unknown | 64922110 | 0.279 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.507499,-117.666262) |
+| 7 | unknown | 64928112 | 0.188 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.504764,-117.667096) |
+| 8 | unknown | 64914201 | 0.153 | RM | Agriculture | [map](https://www.google.com/maps?q=33.510995,-117.669839) |
+| 9 | unknown | 64916201 | 0.04 | RM | Agriculture | [map](https://www.google.com/maps?q=33.507949,-117.668645) |
+| 10 | unknown | 66611102 | 0.013 | RM | Open Space and Recreation | [map](https://www.google.com/maps?q=33.50772,-117.648508) |
 
 **Santa Ana**
 
@@ -960,31 +959,31 @@ Check before calling: Confirm the lot is vacant; SB 1123 lot-size limit (read th
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown |  | 3.581 | R1 | Vacant | [map](https://www.google.com/maps?q=33.697692,-117.967276) |
-| 2 | unknown | 16906126 | 0.178 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.714786,-117.946602) |
-| 3 | unknown | 16908304 | 0.158 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.711991,-117.949474) |
-| 4 | unknown | 16908311 | 0.158 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.712443,-117.949062) |
-| 5 | unknown | 16907194 | 0.121 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.713969,-117.946142) |
-| 6 | unknown | 16907192 | 0.12 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.713827,-117.946127) |
-| 7 | unknown | 16907195 | 0.12 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.714109,-117.946155) |
-| 8 | unknown | 16907196 | 0.12 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.714232,-117.946107) |
-| 9 | unknown | 16907193 | 0.119 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.713634,-117.94593) |
-| 10 | unknown | 14451454 | 0.078 | GH | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.71643,-117.921276) |
+| 1 | unknown | 16906126 | 0.178 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.714786,-117.946602) |
+| 2 | unknown | 16908304 | 0.158 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.711991,-117.949474) |
+| 3 | unknown | 16908311 | 0.158 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.712443,-117.949062) |
+| 4 | unknown | 16907194 | 0.121 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.713969,-117.946142) |
+| 5 | unknown | 16907192 | 0.12 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.713827,-117.946127) |
+| 6 | unknown | 16907195 | 0.12 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.714109,-117.946155) |
+| 7 | unknown | 16907196 | 0.12 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.714232,-117.946107) |
+| 8 | unknown | 16907193 | 0.119 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.713634,-117.94593) |
+| 9 | unknown | 15702363 | 0.024 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.689172,-117.962908) |
+| 10 | unknown | 16759460 | 0.016 | GH | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.702768,-117.981297) |
 
 **Fullerton**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 29237121 | 1.547 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.907343,-117.940482) |
-| 2 | unknown | 02821116 | 1.223 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.893758,-117.920878) |
-| 3 | unknown | 28314123 | 1.058 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.888987,-117.903414) |
-| 4 | unknown | 28532302 | 0.963 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.893701,-117.901249) |
-| 5 | unknown | 28524202 | 0.775 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.890542,-117.908799) |
-| 6 | unknown | 28524203 | 0.74 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.890581,-117.909379) |
-| 7 | unknown | 33719290 | 0.614 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.891904,-117.887968) |
-| 8 | unknown | 02821103 | 0.567 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.893344,-117.920927) |
-| 9 | unknown | 28109127 | 0.53 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.890874,-117.939593) |
-| 10 | unknown | 02960105 | 0.523 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.888506,-117.907621) |
+| 1 | unknown | 02821116 | 1.223 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.893758,-117.920878) |
+| 2 | unknown | 28314123 | 1.058 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.888987,-117.903414) |
+| 3 | unknown | 28532302 | 0.963 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.893701,-117.901249) |
+| 4 | unknown | 28524202 | 0.775 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.890542,-117.908799) |
+| 5 | unknown | 28524203 | 0.74 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.890581,-117.909379) |
+| 6 | unknown | 33719290 | 0.614 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.891904,-117.887968) |
+| 7 | unknown | 02821103 | 0.567 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.893344,-117.920927) |
+| 8 | unknown | 28109127 | 0.53 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.890874,-117.939593) |
+| 9 | unknown | 02960105 | 0.523 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.888506,-117.907621) |
+| 10 | unknown | 28512128 | 0.513 | R-1 | Urban Vacant | [map](https://www.google.com/maps?q=33.891106,-117.893913) |
 
 **Garden Grove**
 
@@ -1037,16 +1036,16 @@ Check before calling: Confirm the lot is vacant; SB 1123 lot-size limit (read th
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 67024106 | 11.425 | RHP | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.49645,-117.733573) |
-| 2 | unknown | 64144102 | 6.917 | RHP | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.542128,-117.750717) |
-| 3 | unknown | 64117102 | 5.947 | RHP | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.550553,-117.776146) |
-| 4 | unknown | 63208102 | 5.605 | RHP | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.557482,-117.772165) |
-| 5 | unknown | 12056134 | 5.6 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.554162,-117.817408) |
-| 6 | unknown |  | 5.556 | R3 | Beaches (Vacant) | [map](https://www.google.com/maps?q=33.516699,-117.759892) |
-| 7 | unknown | 49607135 | 4.116 | RHP | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.550211,-117.792846) |
-| 8 | unknown | 05605129 | 3.684 | RHP | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.508315,-117.745992) |
-| 9 | unknown | 05623120 | 3.47 | RHP | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.502772,-117.738197) |
-| 10 | unknown | 49620121 | 3.282 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.556897,-117.813164) |
+| 1 | unknown | 05330167 | 0.983 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.548393,-117.806744) |
+| 2 | unknown | 05330166 | 0.672 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.548429,-117.80575) |
+| 3 | unknown | 05316212 | 0.572 | R3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.545714,-117.796067) |
+| 4 | unknown | 64422135 | 0.52 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.532338,-117.771785) |
+| 5 | unknown | 05330163 | 0.298 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.549037,-117.804797) |
+| 6 | unknown | 05330158 | 0.269 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.548919,-117.806174) |
+| 7 | unknown | 05313120 | 0.262 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.547152,-117.803453) |
+| 8 | unknown | 05330164 | 0.24 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.5501,-117.804783) |
+| 9 | unknown | 05313121 | 0.234 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.547212,-117.803306) |
+| 10 | unknown | 05313425 | 0.231 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.548242,-117.801138) |
 
 **Laguna Hills**
 
@@ -1071,12 +1070,7 @@ Check before calling: Confirm the lot is vacant; SB 1123 lot-size limit (read th
 | 2 | unknown | 63703506 | 0.661 | RS-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.538581,-117.693741) |
 | 3 | unknown | 67360110 | 0.6 | RS-2 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.495462,-117.690249) |
 | 4 | unknown | 63703505 | 0.573 | RS-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.538532,-117.694114) |
-| 5 | unknown | 65531102 | 0.23 | RS-4 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.531336,-117.729704) |
-| 6 | unknown | 65404204 | 0.224 | RS-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.529989,-117.714178) |
-| 7 | unknown | 65631309 | 0.154 | RS-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.518388,-117.721785) |
-| 8 | unknown | 65631310 | 0.152 | RS-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.518473,-117.721543) |
-| 9 | unknown | 65631305 | 0.148 | RS-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.517981,-117.722233) |
-| 10 | unknown | 65631311 | 0.144 | RS-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.518594,-117.721405) |
+| 5 | unknown | 65404204 | 0.224 | RS-3 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.529989,-117.714178) |
 
 **Lake Forest**
 
@@ -1084,7 +1078,6 @@ Check before calling: Confirm the lot is vacant; SB 1123 lot-size limit (read th
 |---|---|---|---|---|---|---|
 | 1 | unknown | 61414136 | 0.226 | MDR | Urban Vacant | [map](https://www.google.com/maps?q=33.640283,-117.697022) |
 | 2 | unknown | 61419504 | 0.143 | MDR | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.644303,-117.702725) |
-| 3 | unknown | 60629136 | 0.054 | SF | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.682744,-117.631328) |
 
 **Los Alamitos**
 
@@ -1108,43 +1101,43 @@ Check before calling: Confirm the lot is vacant; SB 1123 lot-size limit (read th
 | 1 | unknown | 39339010 | 22.411 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.78352,-117.792187) |
 | 2 | unknown | 39339005 | 14.898 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.785364,-117.790568) |
 | 3 | unknown | 39348101 | 11.356 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.783757,-117.782291) |
-| 4 | unknown |  | 10.865 | R-1-8 | Off-Street Trails | [map](https://www.google.com/maps?q=33.817778,-117.787573) |
-| 5 | unknown | 39351101 | 10.621 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.788753,-117.782408) |
-| 6 | unknown | 39351201 | 9.292 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.786539,-117.782969) |
-| 7 | unknown | 39340135 | 8.963 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.780937,-117.785322) |
-| 8 | unknown | 39331010 | 8.927 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.791179,-117.777946) |
-| 9 | unknown |  | 8.723 | R-1-6 | Electrical Power Facilities | [map](https://www.google.com/maps?q=33.828499,-117.81693) |
-| 10 | unknown | 37916141 | 8.682 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.808012,-117.78922) |
+| 4 | unknown | 39351101 | 10.621 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.788753,-117.782408) |
+| 5 | unknown | 39351201 | 9.292 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.786539,-117.782969) |
+| 6 | unknown | 39340135 | 8.963 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.780937,-117.785322) |
+| 7 | unknown | 39331010 | 8.927 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.791179,-117.777946) |
+| 8 | unknown | 37916141 | 8.682 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.808012,-117.78922) |
+| 9 | unknown | 39329316 | 7.854 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.791914,-117.782631) |
+| 10 | unknown | 39336127 | 7.352 | R-1-20 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.781858,-117.787261) |
 
 **Placentia**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 34617101 | 0.62 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.866425,-117.830562) |
-| 2 | unknown | 34617224 | 0.264 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.865826,-117.83019) |
-| 3 | unknown | 34617301 | 0.2 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.86546,-117.831212) |
-| 4 | unknown | 34618112 | 0.182 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867369,-117.82949) |
-| 5 | unknown | 34617235 | 0.149 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.866105,-117.830076) |
-| 6 | unknown | 34618114 | 0.136 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867376,-117.829239) |
-| 7 | unknown | 34601302 | 0.133 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.86642,-117.827896) |
-| 8 | unknown | 34617236 | 0.098 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.8661,-117.829857) |
-| 9 | unknown | 34618109 | 0.092 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867383,-117.829891) |
-| 10 | unknown | 34618110 | 0.092 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867404,-117.829864) |
+| 1 | unknown | 34617301 | 0.2 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.86546,-117.831212) |
+| 2 | unknown | 34618112 | 0.182 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867369,-117.82949) |
+| 3 | unknown | 34618114 | 0.136 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867376,-117.829239) |
+| 4 | unknown | 34618109 | 0.092 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867383,-117.829891) |
+| 5 | unknown | 34618110 | 0.092 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867404,-117.829864) |
+| 6 | unknown | 34618111 | 0.091 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867354,-117.829591) |
+| 7 | unknown | 34618113 | 0.091 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867279,-117.829027) |
+| 8 | unknown | 34617313 | 0.088 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.865486,-117.829581) |
+| 9 | unknown | 34618103 | 0.087 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867416,-117.83053) |
+| 10 | unknown | 34618102 | 0.061 | R-1 (O) | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.867409,-117.830745) |
 
 **San Clemente**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 69052104 | 25.944 | RVL | Urban Vacant | [map](https://www.google.com/maps?q=33.437655,-117.604849) |
-| 2 | unknown | 69001205 | 10.157 | RVL | Urban Vacant | [map](https://www.google.com/maps?q=33.430239,-117.605617) |
-| 3 | unknown | 69001204 | 2.072 | RVL | Urban Vacant | [map](https://www.google.com/maps?q=33.428629,-117.606313) |
-| 4 | unknown | 67506213 | 1.533 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.46631,-117.652213) |
-| 5 | unknown | 67506108 | 1.472 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.465468,-117.654464) |
-| 6 | unknown | 69041219 | 0.946 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.419919,-117.603937) |
-| 7 | unknown | 69001102 | 0.93 | RVL | Urban Vacant | [map](https://www.google.com/maps?q=33.429201,-117.607312) |
-| 8 | unknown | 67538108 | 0.837 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.464535,-117.644051) |
-| 9 | unknown | 69225201 | 0.784 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.418369,-117.616659) |
-| 10 | unknown | 67517549 | 0.686 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.464707,-117.649134) |
+| 1 | unknown | 67506108 | 1.472 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.465468,-117.654464) |
+| 2 | unknown | 69225201 | 0.784 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.418369,-117.616659) |
+| 3 | unknown | 67517549 | 0.686 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.464707,-117.649134) |
+| 4 | unknown | 05705210 | 0.622 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.433359,-117.615338) |
+| 5 | unknown | 05707214 | 0.459 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.433141,-117.611483) |
+| 6 | unknown | 69228232 | 0.452 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.413603,-117.61259) |
+| 7 | unknown | 68024106 | 0.398 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.459349,-117.633205) |
+| 8 | unknown | 67517450 | 0.397 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.462335,-117.645063) |
+| 9 | unknown | 05708112 | 0.383 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.432189,-117.612558) |
+| 10 | unknown | 67517452 | 0.383 | RL | Urban Vacant | [map](https://www.google.com/maps?q=33.461742,-117.645267) |
 
 **San Juan Capistrano**
 
@@ -1229,23 +1222,22 @@ Check before calling: Confirm the lot is vacant; SB 1123 lot-size limit (read th
 | 2 | unknown | 10763127 | 0.035 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.723115,-117.976498) |
 | 3 | unknown | 10763125 | 0.021 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.722918,-117.976076) |
 | 4 | unknown | 19534121 | 0.019 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.750712,-118.01087) |
-| 5 | unknown | 14340122 | 0.008 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.735297,-117.962098) |
-| 6 | unknown | 09638332 | 0.005 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.756924,-118.001069) |
+| 5 | unknown | 09638332 | 0.005 | R1 | Vacant Undifferentiated | [map](https://www.google.com/maps?q=33.756924,-118.001069) |
 
 **Yorba Linda**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 35357108 | 1.751 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.891532,-117.733755) |
-| 2 | unknown | 32343117 | 0.854 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.889255,-117.795923) |
-| 3 | unknown | 32343118 | 0.759 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.889364,-117.795456) |
-| 4 | unknown | 35363402 | 0.655 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.89425,-117.730367) |
-| 5 | unknown | 32910105 | 0.622 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.889992,-117.706577) |
-| 6 | unknown | 34357124 | 0.55 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.888172,-117.821317) |
-| 7 | unknown | 34359108 | 0.499 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.882193,-117.823308) |
-| 8 | unknown | 34359109 | 0.499 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.882228,-117.822846) |
-| 9 | unknown | 35357107 | 0.473 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.891709,-117.733912) |
-| 10 | unknown | 34352210 | 0.425 | RS | Urban Vacant | [map](https://www.google.com/maps?q=33.8739,-117.804545) |
+| 1 | unknown | 32343117 | 0.854 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.889255,-117.795923) |
+| 2 | unknown | 32343118 | 0.759 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.889364,-117.795456) |
+| 3 | unknown | 34357124 | 0.55 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.888172,-117.821317) |
+| 4 | unknown | 34359108 | 0.499 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.882193,-117.823308) |
+| 5 | unknown | 34359109 | 0.499 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.882228,-117.822846) |
+| 6 | unknown | 34352210 | 0.425 | RS | Urban Vacant | [map](https://www.google.com/maps?q=33.8739,-117.804545) |
+| 7 | unknown | 33430128 | 0.381 | RU | Urban Vacant | [map](https://www.google.com/maps?q=33.891267,-117.832812) |
+| 8 | unknown | 32326119 | 0.366 | RE | Urban Vacant | [map](https://www.google.com/maps?q=33.890666,-117.806032) |
+| 9 | unknown | 34111153 | 0.274 | RU | Urban Vacant | [map](https://www.google.com/maps?q=33.871365,-117.826466) |
+| 10 | unknown | 33423166 | 0.249 | RU | Urban Vacant | [map](https://www.google.com/maps?q=33.893446,-117.836358) |
 
 ## SB 4
 
@@ -1255,16 +1247,12 @@ Check before calling: Owner is the religious institution or an independent (priv
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 63913104 | 26.52 | CF | Colleges and Universities | [map](https://www.google.com/maps?q=33.554152,-117.73545) |
-| 2 | unknown | 63913103 | 22.95 | CF | Colleges and Universities | [map](https://www.google.com/maps?q=33.558443,-117.73424) |
-| 3 | unknown | 63212405 | 9.968 | BP-1 | Retail Stores and Commercial Services | [map](https://www.google.com/maps?q=33.568241,-117.724661) |
-| 4 | unknown | 63913102 | 6.106 | CF | Colleges and Universities | [map](https://www.google.com/maps?q=33.556687,-117.732247) |
-| 5 | unknown | 63913130 | 6.059 |  | Colleges and Universities | [map](https://www.google.com/maps?q=33.554197,-117.735364) |
-| 6 | unknown | 63913120 | 5.852 | CF | Colleges and Universities | [map](https://www.google.com/maps?q=33.554833,-117.733107) |
-| 7 | unknown | 63913126 | 5.757 | OS | Colleges and Universities | [map](https://www.google.com/maps?q=33.550036,-117.736499) |
-| 8 | unknown | 63215110 | 5.736 | CF | Religious Facilities | [map](https://www.google.com/maps?q=33.55765,-117.727334) |
-| 9 | unknown | 63212204 | 5.334 | CF | Religious Facilities | [map](https://www.google.com/maps?q=33.567463,-117.730358) |
-| 10 | unknown | 63913121 | 4.586 | OS | Colleges and Universities | [map](https://www.google.com/maps?q=33.552688,-117.734292) |
+| 1 | unknown | 63212405 | 9.968 | BP-1 | Retail Stores and Commercial Services | [map](https://www.google.com/maps?q=33.568241,-117.724661) |
+| 2 | unknown | 63215110 | 5.736 | CF | Religious Facilities | [map](https://www.google.com/maps?q=33.55765,-117.727334) |
+| 3 | unknown | 63212204 | 5.334 | CF | Religious Facilities | [map](https://www.google.com/maps?q=33.567463,-117.730358) |
+| 4 | unknown | 62113117 | 2.994 | CF | Religious Facilities | [map](https://www.google.com/maps?q=33.605956,-117.721777) |
+| 5 | unknown | 62113139 | 2.622 | CF | Religious Facilities | [map](https://www.google.com/maps?q=33.606411,-117.722542) |
+| 6 | unknown | 63913116 | 2.406 | OS | Colleges and Universities | [map](https://www.google.com/maps?q=33.554168,-117.736955) |
 
 **Anaheim**
 
@@ -1337,9 +1325,7 @@ Check before calling: Owner is the religious institution or an independent (priv
 | 5 | unknown | 66833201 | 0.257 | CF | Religious Facilities | [map](https://www.google.com/maps?q=33.464329,-117.676232) |
 | 6 | unknown | 66833216 | 0.257 | C/R | Religious Facilities | [map](https://www.google.com/maps?q=33.464536,-117.676644) |
 | 7 | unknown | 66833202 | 0.129 | CF | Religious Facilities | [map](https://www.google.com/maps?q=33.464397,-117.676313) |
-| 8 | unknown | 66833105 | 0.128 | C C/P | Religious Facilities | [map](https://www.google.com/maps?q=33.465724,-117.677726) |
-| 9 | unknown | 66833106 | 0.128 | C C/P | Religious Facilities | [map](https://www.google.com/maps?q=33.465619,-117.67775) |
-| 10 | unknown | 66835104 | 0.118 | C/R | Religious Facilities | [map](https://www.google.com/maps?q=33.465624,-117.675292) |
+| 8 | unknown | 66835104 | 0.118 | C/R | Religious Facilities | [map](https://www.google.com/maps?q=33.465624,-117.675292) |
 
 **Fountain Valley**
 
@@ -1348,13 +1334,13 @@ Check before calling: Owner is the religious institution or an independent (priv
 | 1 | unknown | 16917119 | 5.001 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.712249,-117.944618) |
 | 2 | unknown | 16741152 | 4.522 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.709908,-117.97295) |
 | 3 | unknown | 15611101 | 4.33 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.693653,-117.948718) |
-| 4 | unknown | 14351313 | 4.083 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.718563,-117.955719) |
-| 5 | unknown | 16728201 | 3.248 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.708243,-117.962244) |
-| 6 | unknown | 16914105 | 2.849 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.708285,-117.949406) |
-| 7 | unknown | 16914151 | 2.426 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.70843,-117.946321) |
-| 8 | unknown | 15711175 | 2.375 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.698227,-117.963683) |
-| 9 | unknown | 16723208 | 1.991 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.709832,-117.958289) |
-| 10 | unknown | 16707421 | 1.84 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.702384,-117.957835) |
+| 4 | unknown | 16728201 | 3.248 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.708243,-117.962244) |
+| 5 | unknown | 16914105 | 2.849 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.708285,-117.949406) |
+| 6 | unknown | 16914151 | 2.426 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.70843,-117.946321) |
+| 7 | unknown | 15711175 | 2.375 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.698227,-117.963683) |
+| 8 | unknown | 16723208 | 1.991 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.709832,-117.958289) |
+| 9 | unknown | 16707421 | 1.84 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.702384,-117.957835) |
+| 10 | unknown | 16918104 | 1.654 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.708174,-117.937602) |
 
 **Fullerton**
 
@@ -1366,10 +1352,10 @@ Check before calling: Owner is the religious institution or an independent (priv
 | 4 | unknown | 33811101 | 8.161 | G-C | Colleges and Universities | [map](https://www.google.com/maps?q=33.87689,-117.885146) |
 | 5 | unknown | 33703122 | 7.866 | R-1 | Religious Facilities | [map](https://www.google.com/maps?q=33.889433,-117.888905) |
 | 6 | unknown | 03307123 | 7.058 | P-L | Colleges and Universities | [map](https://www.google.com/maps?q=33.873206,-117.918713) |
-| 7 | unknown | 28704301 | 6.177 | R-1 | Religious Facilities | [map](https://www.google.com/maps?q=33.898553,-117.94329) |
-| 8 | unknown | 03010120 | 5.025 | R-3 | Religious Facilities | [map](https://www.google.com/maps?q=33.867432,-117.969396) |
-| 9 | unknown | 02908036 | 4.139 | P-L | Colleges and Universities | [map](https://www.google.com/maps?q=33.878562,-117.915805) |
-| 10 | unknown | 07131349 | 3.646 | R-G | Religious Facilities | [map](https://www.google.com/maps?q=33.859754,-117.969971) |
+| 7 | unknown | 03010120 | 5.025 | R-3 | Religious Facilities | [map](https://www.google.com/maps?q=33.867432,-117.969396) |
+| 8 | unknown | 02908036 | 4.139 | P-L | Colleges and Universities | [map](https://www.google.com/maps?q=33.878562,-117.915805) |
+| 9 | unknown | 07131349 | 3.646 | R-G | Religious Facilities | [map](https://www.google.com/maps?q=33.859754,-117.969971) |
+| 10 | unknown | 28329101 | 3.616 | O-P | Colleges and Universities | [map](https://www.google.com/maps?q=33.880627,-117.890339) |
 
 **Garden Grove**
 
@@ -1427,16 +1413,12 @@ Check before calling: Owner is the religious institution or an independent (priv
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 64434134 | 2.645 | RHP | Religious Facilities | [map](https://www.google.com/maps?q=33.537061,-117.759561) |
-| 2 | unknown | 63208114 | 2.071 | M1A | Colleges and Universities | [map](https://www.google.com/maps?q=33.562381,-117.766035) |
-| 3 | unknown | 64123113 | 1.561 | AD | Colleges and Universities | [map](https://www.google.com/maps?q=33.549704,-117.779028) |
-| 4 | unknown | 63208115 | 1.553 | M1A | Colleges and Universities | [map](https://www.google.com/maps?q=33.562358,-117.765314) |
-| 5 | unknown | 65621407 | 1.225 | I | Religious Facilities | [map](https://www.google.com/maps?q=33.513825,-117.752754) |
-| 6 | unknown | 64123115 | 1.109 | AD | Colleges and Universities | [map](https://www.google.com/maps?q=33.549552,-117.779735) |
-| 7 | unknown | 64418402 | 0.988 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.537398,-117.771363) |
-| 8 | unknown | 64126416 | 0.975 | CBD-O | Religious Facilities | [map](https://www.google.com/maps?q=33.543617,-117.781525) |
-| 9 | unknown | 64403405 | 0.852 | LBP | Religious Facilities | [map](https://www.google.com/maps?q=33.537797,-117.77789) |
-| 10 | unknown | 05616041 | 0.643 | R1 | Religious Facilities | [map](https://www.google.com/maps?q=33.497681,-117.740404) |
+| 1 | unknown | 64403405 | 0.852 | LBP | Religious Facilities | [map](https://www.google.com/maps?q=33.537797,-117.77789) |
+| 2 | unknown | 64403409 | 0.35 | R2 | Religious Facilities | [map](https://www.google.com/maps?q=33.538098,-117.777477) |
+| 3 | unknown | 49613501 | 0.288 | R2 | Religious Facilities | [map](https://www.google.com/maps?q=33.54711,-117.792743) |
+| 4 | unknown | 64403601 | 0.246 | LBP | Religious Facilities | [map](https://www.google.com/maps?q=33.539997,-117.780626) |
+| 5 | unknown | 64408706 | 0.115 | LBP | Religious Facilities | [map](https://www.google.com/maps?q=33.534652,-117.776438) |
+| 6 | unknown | 64408710 | 0.115 | C1 | Religious Facilities | [map](https://www.google.com/maps?q=33.53451,-117.776848) |
 
 **Laguna Hills**: no sites
 
@@ -1444,14 +1426,13 @@ Check before calling: Owner is the religious institution or an independent (priv
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 63901109 | 6.715 | SP | Religious Facilities | [map](https://www.google.com/maps?q=33.552975,-117.719667) |
-| 2 | unknown | 63703209 | 3.671 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.540532,-117.693753) |
-| 3 | unknown | 65466146 | 3.069 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.549947,-117.704259) |
-| 4 | unknown | 65622204 | 1.312 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.526662,-117.716077) |
-| 5 | unknown | 63702404 | 0.798 | CN | Religious Facilities | [map](https://www.google.com/maps?q=33.541368,-117.690886) |
-| 6 | unknown | 63714220 | 0.432 | CN | Religious Facilities | [map](https://www.google.com/maps?q=33.541237,-117.690605) |
-| 7 | unknown | 65622206 | 0.247 | CC | Religious Facilities | [map](https://www.google.com/maps?q=33.526958,-117.715676) |
-| 8 | unknown | 63406104 | 0.114 | GWSP-BP | Religious Facilities | [map](https://www.google.com/maps?q=33.559203,-117.7096) |
+| 1 | unknown | 63703209 | 3.671 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.540532,-117.693753) |
+| 2 | unknown | 65466146 | 3.069 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.549947,-117.704259) |
+| 3 | unknown | 65622204 | 1.312 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.526662,-117.716077) |
+| 4 | unknown | 63702404 | 0.798 | CN | Religious Facilities | [map](https://www.google.com/maps?q=33.541368,-117.690886) |
+| 5 | unknown | 63714220 | 0.432 | CN | Religious Facilities | [map](https://www.google.com/maps?q=33.541237,-117.690605) |
+| 6 | unknown | 65622206 | 0.247 | CC | Religious Facilities | [map](https://www.google.com/maps?q=33.526958,-117.715676) |
+| 7 | unknown | 63406104 | 0.114 | GWSP-BP | Religious Facilities | [map](https://www.google.com/maps?q=33.559203,-117.7096) |
 
 **Lake Forest**
 
@@ -1506,8 +1487,8 @@ Check before calling: Owner is the religious institution or an independent (priv
 | 6 | unknown | 45834102 | 3.037 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.608197,-117.860215) |
 | 7 | unknown | 11763112 | 2.15 | MU-DW | Religious Facilities | [map](https://www.google.com/maps?q=33.622993,-117.90679) |
 | 8 | unknown | 45832102 | 2.137 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.610158,-117.859598) |
-| 9 | unknown | 45873205 | 1.901 | PC | Religious Facilities | [map](https://www.google.com/maps?q=33.628155,-117.848731) |
-| 10 | unknown | 45832105 | 1.22 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.611103,-117.860266) |
+| 9 | unknown | 45832105 | 1.22 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.611103,-117.860266) |
+| 10 | unknown | 04721225 | 0.732 | PI | Religious Facilities | [map](https://www.google.com/maps?q=33.606663,-117.91999) |
 
 **Orange**
 
@@ -1536,22 +1517,21 @@ Check before calling: Owner is the religious institution or an independent (priv
 | 6 | unknown | 33914106 | 2.778 | R-1 | Religious Facilities | [map](https://www.google.com/maps?q=33.882449,-117.871341) |
 | 7 | unknown | 33905221 | 1.812 | Old Town | Religious Facilities | [map](https://www.google.com/maps?q=33.871645,-117.869724) |
 | 8 | unknown | 33903205 | 0.908 | R-3 | Religious Facilities | [map](https://www.google.com/maps?q=33.87359,-117.874028) |
-| 9 | unknown | 34416341 | 0.331 | R-2 | Religious Facilities | [map](https://www.google.com/maps?q=33.85967,-117.874279) |
 
 **San Clemente**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 69001117 | 11.484 | RL | Religious Facilities | [map](https://www.google.com/maps?q=33.429547,-117.608939) |
-| 2 | unknown | 68819203 | 7.646 | RSCSP | Religious Facilities | [map](https://www.google.com/maps?q=33.444851,-117.594973) |
-| 3 | unknown | 70103324 | 7.48 | TSP | Religious Facilities | [map](https://www.google.com/maps?q=33.457777,-117.586094) |
-| 4 | unknown | 67902115 | 4.278 | MISP | Religious Facilities | [map](https://www.google.com/maps?q=33.444553,-117.628658) |
-| 5 | unknown | 06024330 | 3.794 | RL | Religious Facilities | [map](https://www.google.com/maps?q=33.41519,-117.598021) |
-| 6 | unknown | 69142106 | 2.99 | RML | Religious Facilities | [map](https://www.google.com/maps?q=33.44132,-117.636391) |
-| 7 | unknown | 69111111 | 1.998 | CC2 | Religious Facilities | [map](https://www.google.com/maps?q=33.4553,-117.657998) |
-| 8 | unknown | 68831101 | 1.987 | TSP | Religious Facilities | [map](https://www.google.com/maps?q=33.458314,-117.591596) |
-| 9 | unknown | 69069107 | 1.975 | RSCSP | Religious Facilities | [map](https://www.google.com/maps?q=33.44574,-117.586732) |
-| 10 | unknown | 68816106 | 1.385 | RSCSP | Religious Facilities | [map](https://www.google.com/maps?q=33.453684,-117.593157) |
+| 1 | unknown | 68819203 | 7.646 | RSCSP | Religious Facilities | [map](https://www.google.com/maps?q=33.444851,-117.594973) |
+| 2 | unknown | 67902115 | 4.278 | MISP | Religious Facilities | [map](https://www.google.com/maps?q=33.444553,-117.628658) |
+| 3 | unknown | 69142106 | 2.99 | RML | Religious Facilities | [map](https://www.google.com/maps?q=33.44132,-117.636391) |
+| 4 | unknown | 69111111 | 1.998 | CC2 | Religious Facilities | [map](https://www.google.com/maps?q=33.4553,-117.657998) |
+| 5 | unknown | 68816106 | 1.385 | RSCSP | Religious Facilities | [map](https://www.google.com/maps?q=33.453684,-117.593157) |
+| 6 | unknown | 69108210 | 1.139 | RML | Religious Facilities | [map](https://www.google.com/maps?q=33.446017,-117.648916) |
+| 7 | unknown | 05806271 | 0.767 | RM | Religious Facilities | [map](https://www.google.com/maps?q=33.429076,-117.617666) |
+| 8 | unknown | 69210237 | 0.642 | RM | Religious Facilities | [map](https://www.google.com/maps?q=33.432236,-117.617145) |
+| 9 | unknown | 06025108 | 0.621 | RH | Religious Facilities | [map](https://www.google.com/maps?q=33.4012,-117.597018) |
+| 10 | unknown | 69211322 | 0.548 | RM | Religious Facilities | [map](https://www.google.com/maps?q=33.429247,-117.624893) |
 
 **San Juan Capistrano**
 
@@ -1559,14 +1539,11 @@ Check before calling: Owner is the religious institution or an independent (priv
 |---|---|---|---|---|---|---|
 | 1 | unknown | 12118260 | 6.094 | P&I | Religious Facilities | [map](https://www.google.com/maps?q=33.49426,-117.674067) |
 | 2 | unknown | 66425133 | 4.533 | PC(CDP04-01) | Religious Facilities | [map](https://www.google.com/maps?q=33.500549,-117.620411) |
-| 3 | unknown | 66625106 | 3.064 | PC(CDP78-1) | Religious Facilities | [map](https://www.google.com/maps?q=33.501949,-117.652352) |
-| 4 | unknown | 66625105 | 1.299 | PC(CDP78-1) | Religious Facilities | [map](https://www.google.com/maps?q=33.502896,-117.651048) |
-| 5 | unknown | 66625104 | 1.21 | PC(CDP78-1) | Religious Facilities | [map](https://www.google.com/maps?q=33.502545,-117.651472) |
-| 6 | unknown | 66808205 | 0.863 | CM | Religious Facilities | [map](https://www.google.com/maps?q=33.495057,-117.664685) |
-| 7 | unknown | 66604213 | 0.635 | P&I | Religious Facilities | [map](https://www.google.com/maps?q=33.502454,-117.646416) |
-| 8 | unknown | 12417011 | 0.468 | P&I | Religious Facilities | [map](https://www.google.com/maps?q=33.503566,-117.661783) |
-| 9 | unknown | 66626110 | 0.394 | PC(CDP78-1) | Religious Facilities | [map](https://www.google.com/maps?q=33.503648,-117.653578) |
-| 10 | unknown | 66626111 | 0.336 | PC(CDP78-1) | Religious Facilities | [map](https://www.google.com/maps?q=33.504018,-117.653084) |
+| 3 | unknown | 66625105 | 1.299 | PC(CDP78-1) | Religious Facilities | [map](https://www.google.com/maps?q=33.502896,-117.651048) |
+| 4 | unknown | 66625104 | 1.21 | PC(CDP78-1) | Religious Facilities | [map](https://www.google.com/maps?q=33.502545,-117.651472) |
+| 5 | unknown | 66604213 | 0.635 | P&I | Religious Facilities | [map](https://www.google.com/maps?q=33.502454,-117.646416) |
+| 6 | unknown | 66626110 | 0.394 | PC(CDP78-1) | Religious Facilities | [map](https://www.google.com/maps?q=33.503648,-117.653578) |
+| 7 | unknown | 66626111 | 0.336 | PC(CDP78-1) | Religious Facilities | [map](https://www.google.com/maps?q=33.504018,-117.653084) |
 
 **Santa Ana**
 
@@ -1664,15 +1641,15 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
 | 1 | unknown | 62341120 | 0.366 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.596653,-117.735313) |
-| 2 | unknown | 63233118 | 0.32 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.568195,-117.739432) |
-| 3 | unknown | 63235303 | 0.303 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.562072,-117.739813) |
-| 4 | unknown | 62339106 | 0.297 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.58393,-117.714766) |
-| 5 | unknown | 62332104 | 0.293 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.600019,-117.740532) |
-| 6 | unknown | 62918119 | 0.285 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.583907,-117.740892) |
-| 7 | unknown | 62936111 | 0.281 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.572515,-117.737622) |
-| 8 | unknown | 63232101 | 0.281 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.567574,-117.74077) |
-| 9 | unknown | 63229113 | 0.28 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.564116,-117.738) |
-| 10 | unknown | 62341107 | 0.279 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.596143,-117.735281) |
+| 2 | unknown | 62339106 | 0.297 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.58393,-117.714766) |
+| 3 | unknown | 62918119 | 0.285 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.583907,-117.740892) |
+| 4 | unknown | 62341107 | 0.279 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.596143,-117.735281) |
+| 5 | unknown | 62341106 | 0.278 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.596406,-117.735469) |
+| 6 | unknown | 62341201 | 0.274 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.59716,-117.734851) |
+| 7 | unknown | 62341115 | 0.261 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.596668,-117.733888) |
+| 8 | unknown | 62344108 | 0.259 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.596697,-117.73212) |
+| 9 | unknown | 62330111 | 0.258 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.600023,-117.739082) |
+| 10 | unknown | 62341105 | 0.256 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.596574,-117.735583) |
 
 **Anaheim**
 
@@ -1693,16 +1670,16 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 31506104 | 7.051 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.931701,-117.803166) |
-| 2 | unknown | 31510104 | 5.247 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.931639,-117.810109) |
-| 3 | unknown | 31510119 | 2.626 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.930173,-117.810413) |
-| 4 | unknown | 31510120 | 2.29 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.929898,-117.809748) |
-| 5 | unknown | 31510118 | 2.201 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.928837,-117.810467) |
-| 6 | unknown | 31510114 | 2.154 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.929523,-117.808171) |
-| 7 | unknown | 29346205 | 2.124 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.91003,-117.913642) |
-| 8 | unknown | 31510112 | 2.071 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.93107,-117.809159) |
-| 9 | unknown | 31510115 | 2.02 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.930489,-117.8084) |
-| 10 | unknown | 31510113 | 2.016 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.929859,-117.809189) |
+| 1 | unknown | 29346205 | 2.124 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.91003,-117.913642) |
+| 2 | unknown | 28425118 | 1.416 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.915694,-117.90604) |
+| 3 | unknown | 29345111 | 1.263 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.911352,-117.912486) |
+| 4 | unknown | 29342322 | 0.982 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.914164,-117.912975) |
+| 5 | unknown | 28425117 | 0.911 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.916224,-117.90563) |
+| 6 | unknown | 29346208 | 0.817 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.911095,-117.912936) |
+| 7 | unknown | 29346202 | 0.788 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.909293,-117.915045) |
+| 8 | unknown | 29346201 | 0.753 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.90927,-117.915343) |
+| 9 | unknown | 30419101 | 0.72 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.940944,-117.915131) |
+| 10 | unknown | 29346204 | 0.709 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.909918,-117.914369) |
 
 **Buena Park**
 
@@ -1754,15 +1731,15 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
 | 1 | unknown | 15703340 | 4.195 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.693161,-117.958038) |
-| 2 | unknown | 14331102 | 2.317 | R1 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.717614,-117.965839) |
-| 3 | unknown | 14316336 | 1.201 | R1 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.717946,-117.960146) |
-| 4 | unknown | 14406233 | 1.165 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.716854,-117.929074) |
-| 5 | unknown | 15723106 | 1.051 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.699226,-117.962536) |
-| 6 | unknown | 14405102 | 1.018 | R1 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.719975,-117.931775) |
-| 7 | unknown | 11278169 | 0.891 | R1 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.698919,-117.979434) |
-| 8 | unknown | 16719109 | 0.874 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.702281,-117.964455) |
-| 9 | unknown | 14316335 | 0.815 | R1 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.717897,-117.962296) |
-| 10 | unknown | 14453135 | 0.774 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.728108,-117.916025) |
+| 2 | unknown | 14406233 | 1.165 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.716854,-117.929074) |
+| 3 | unknown | 15723106 | 1.051 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.699226,-117.962536) |
+| 4 | unknown | 14405102 | 1.018 | R1 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.719975,-117.931775) |
+| 5 | unknown | 11278169 | 0.891 | R1 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.698919,-117.979434) |
+| 6 | unknown | 16719109 | 0.874 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.702281,-117.964455) |
+| 7 | unknown | 14453135 | 0.774 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.728108,-117.916025) |
+| 8 | unknown | 14407170 | 0.735 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.721637,-117.928954) |
+| 9 | unknown | 14406106 | 0.708 | R1 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.71996,-117.929838) |
+| 10 | unknown | 16707423 | 0.644 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.702158,-117.958449) |
 
 **Fullerton**
 
@@ -1798,16 +1775,16 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 59149111 | 6.054 | 2.3K | Single Family Residential | [map](https://www.google.com/maps?q=33.684329,-117.71169) |
-| 2 | unknown | 10467101 | 4.691 | 2.3N | Single Family Residential | [map](https://www.google.com/maps?q=33.688285,-117.755942) |
-| 3 | unknown | 52740105 | 4.326 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.755693,-117.748279) |
-| 4 | unknown | 55132215 | 4.064 | 2.3J | Single Family Residential | [map](https://www.google.com/maps?q=33.690918,-117.746296) |
-| 5 | unknown | 52739450 | 3.436 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.754208,-117.752685) |
-| 6 | unknown | 52740239 | 2.548 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.755156,-117.751117) |
-| 7 | unknown | 52740106 | 2.462 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.754765,-117.74807) |
-| 8 | unknown | 52740453 | 2.345 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.75296,-117.750861) |
-| 9 | unknown | 44703152 | 2.33 | 2.3 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.67499,-117.828107) |
-| 10 | unknown | 52739328 | 2.328 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.75523,-117.75633) |
+| 1 | unknown | 10467101 | 4.691 | 2.3N | Single Family Residential | [map](https://www.google.com/maps?q=33.688285,-117.755942) |
+| 2 | unknown | 52740105 | 4.326 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.755693,-117.748279) |
+| 3 | unknown | 55132215 | 4.064 | 2.3J | Single Family Residential | [map](https://www.google.com/maps?q=33.690918,-117.746296) |
+| 4 | unknown | 52739450 | 3.436 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.754208,-117.752685) |
+| 5 | unknown | 52740239 | 2.548 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.755156,-117.751117) |
+| 6 | unknown | 52740106 | 2.462 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.754765,-117.74807) |
+| 7 | unknown | 52740453 | 2.345 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.75296,-117.750861) |
+| 8 | unknown | 52739328 | 2.328 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.75523,-117.75633) |
+| 9 | unknown | 52739329 | 2.311 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.756298,-117.75722) |
+| 10 | unknown | 52740110 | 2.305 | 2.2D | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.751241,-117.748267) |
 
 **La Habra**
 
@@ -1843,16 +1820,16 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 64134201 | 13.119 | RHP | Single Family Residential | [map](https://www.google.com/maps?q=33.544295,-117.768126) |
-| 2 | unknown | 64118161 | 5.983 | RHP | Single Family Residential | [map](https://www.google.com/maps?q=33.554745,-117.773151) |
-| 3 | unknown | 64143102 | 5.727 | RHP | Single Family Residential | [map](https://www.google.com/maps?q=33.543749,-117.750246) |
-| 4 | unknown | 64134212 | 4.699 | RHP | Single Family Residential | [map](https://www.google.com/maps?q=33.545674,-117.766526) |
-| 5 | unknown | 63206158 | 4.25 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.566789,-117.760835) |
-| 6 | unknown | 64143103 | 4.245 | RHP | Single Family Residential | [map](https://www.google.com/maps?q=33.543297,-117.75134) |
-| 7 | unknown | 64143101 | 4.145 | RHP | Single Family Residential | [map](https://www.google.com/maps?q=33.544821,-117.75035) |
-| 8 | unknown | 62905118 | 4.143 | RHP | Single Family Residential | [map](https://www.google.com/maps?q=33.575141,-117.759834) |
-| 9 | unknown | 64416271 | 3.996 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.537232,-117.764667) |
-| 10 | unknown | 64134206 | 3.585 | RHP | Single Family Residential | [map](https://www.google.com/maps?q=33.54636,-117.765274) |
+| 1 | unknown | 05316112 | 1.758 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.545338,-117.799672) |
+| 2 | unknown | 05316208 | 0.99 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.545314,-117.796962) |
+| 3 | unknown | 64422168 | 0.778 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.532956,-117.770913) |
+| 4 | unknown | 65611433 | 0.759 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.525213,-117.768483) |
+| 5 | unknown | 65809244 | 0.704 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.504073,-117.746944) |
+| 6 | unknown | 05330171 | 0.615 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.549526,-117.804614) |
+| 7 | unknown | 64422136 | 0.603 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.532649,-117.771385) |
+| 8 | unknown | 64422141 | 0.565 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.53307,-117.770276) |
+| 9 | unknown | 64406302 | 0.56 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.539417,-117.776259) |
+| 10 | unknown | 05330173 | 0.52 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.549203,-117.805045) |
 
 **Laguna Hills**
 
@@ -1892,12 +1869,12 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 | 2 | unknown |  | 4.796 | MDR | Single Family Residential | [map](https://www.google.com/maps?q=33.631984,-117.697155) |
 | 3 | unknown |  | 2.135 | MDR | Single Family Residential | [map](https://www.google.com/maps?q=33.632357,-117.695589) |
 | 4 | unknown |  | 1.592 | MDR | Single Family Residential | [map](https://www.google.com/maps?q=33.635226,-117.704177) |
-| 5 | unknown | 60642110 | 0.928 | SF | Single Family Residential | [map](https://www.google.com/maps?q=33.674534,-117.629264) |
-| 6 | unknown | 60617135 | 0.717 | SF | Single Family Residential | [map](https://www.google.com/maps?q=33.678948,-117.623944) |
-| 7 | unknown | 60617122 | 0.569 | SF | Single Family Residential | [map](https://www.google.com/maps?q=33.677928,-117.625882) |
-| 8 | unknown | 61018216 | 0.549 | MDR | Single Family Residential | [map](https://www.google.com/maps?q=33.654849,-117.681995) |
-| 9 | unknown | 61350201 | 0.542 | LDR | Single Family Residential | [map](https://www.google.com/maps?q=33.651902,-117.666686) |
-| 10 | unknown | 61427210 | 0.538 | MDR | Single Family Residential | [map](https://www.google.com/maps?q=33.642451,-117.684067) |
+| 5 | unknown | 61018216 | 0.549 | MDR | Single Family Residential | [map](https://www.google.com/maps?q=33.654849,-117.681995) |
+| 6 | unknown | 61350201 | 0.542 | LDR | Single Family Residential | [map](https://www.google.com/maps?q=33.651902,-117.666686) |
+| 7 | unknown | 61427210 | 0.538 | MDR | Single Family Residential | [map](https://www.google.com/maps?q=33.642451,-117.684067) |
+| 8 | unknown | 61009315 | 0.501 | MDR | Single Family Residential | [map](https://www.google.com/maps?q=33.651125,-117.69127) |
+| 9 | unknown | 61001102 | 0.499 | MDR | Single Family Residential | [map](https://www.google.com/maps?q=33.656176,-117.699188) |
+| 10 | unknown | 61354106 | 0.486 | LDR | Single Family Residential | [map](https://www.google.com/maps?q=33.652637,-117.665781) |
 
 **Los Alamitos**
 
@@ -1939,25 +1916,25 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 | 4 | unknown | 43906105 | 2.189 | R-A | Single Family Residential | [map](https://www.google.com/maps?q=33.653532,-117.879677) |
 | 5 | unknown | 05033628 | 2.087 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.60206,-117.879838) |
 | 6 | unknown | 42601322 | 1.789 | R-1-10000 | Single Family Residential | [map](https://www.google.com/maps?q=33.642949,-117.896564) |
-| 7 | unknown | 47504116 | 1.663 | R-1-6000 | Single Family Residential | [map](https://www.google.com/maps?q=33.585174,-117.863867) |
-| 8 | unknown | 47504115 | 1.408 | R-1-6000 | Single Family Residential | [map](https://www.google.com/maps?q=33.58488,-117.863161) |
-| 9 | unknown | 05033634 | 1.203 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.602308,-117.880679) |
-| 10 | unknown | 45801133 | 1.179 | R-1-6000 | Single Family Residential | [map](https://www.google.com/maps?q=33.606389,-117.85085) |
+| 7 | unknown | 05033634 | 1.203 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.602308,-117.880679) |
+| 8 | unknown | 05033635 | 1.152 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.601827,-117.880699) |
+| 9 | unknown | 45863203 | 1.114 | R-1-6000 | Single Family Residential | [map](https://www.google.com/maps?q=33.610877,-117.869557) |
+| 10 | unknown | 42602313 | 1.089 | R-1-10000 | Single Family Residential | [map](https://www.google.com/maps?q=33.643879,-117.897893) |
 
 **Orange**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
 | 1 | unknown | 37962148 | 8.282 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.794398,-117.786415) |
-| 2 | unknown | 37005112 | 3.317 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.816771,-117.780492) |
-| 3 | unknown | 09327063 | 3.181 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.817337,-117.772579) |
-| 4 | unknown | 09325048 | 3.161 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.817642,-117.771379) |
-| 5 | unknown | 37960127 | 2.995 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.79915,-117.786721) |
-| 6 | unknown | 37948109 | 2.735 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.81065,-117.783259) |
-| 7 | unknown | 09316053 | 2.568 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.801153,-117.767311) |
-| 8 | unknown | 37960126 | 2.487 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.799099,-117.788133) |
-| 9 | unknown | 36147133 | 2.437 | R-1-8 | Single Family Residential | [map](https://www.google.com/maps?q=33.831572,-117.801916) |
-| 10 | unknown | 37931158 | 2.307 | R-1-20 | Single Family Residential | [map](https://www.google.com/maps?q=33.806253,-117.800616) |
+| 2 | unknown | 37960127 | 2.995 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.79915,-117.786721) |
+| 3 | unknown | 37948109 | 2.735 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.81065,-117.783259) |
+| 4 | unknown | 09316053 | 2.568 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.801153,-117.767311) |
+| 5 | unknown | 37960126 | 2.487 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.799099,-117.788133) |
+| 6 | unknown | 37931158 | 2.307 | R-1-20 | Single Family Residential | [map](https://www.google.com/maps?q=33.806253,-117.800616) |
+| 7 | unknown | 37960121 | 2.176 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.797859,-117.78896) |
+| 8 | unknown | 36160106 | 2.142 | R-1-6 | Single Family Residential | [map](https://www.google.com/maps?q=33.836806,-117.811889) |
+| 9 | unknown | 09315006 | 2.081 | R-1-6 | Single Family Residential | [map](https://www.google.com/maps?q=33.787154,-117.78625) |
+| 10 | unknown | 09316052 | 2.04 | R-1-40 | Single Family Residential | [map](https://www.google.com/maps?q=33.800556,-117.767345) |
 
 **Placentia**
 
@@ -1965,44 +1942,44 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 |---|---|---|---|---|---|---|
 | 1 | unknown | 34002154 | 12.247 | RPC (O) | Single Family Residential | [map](https://www.google.com/maps?q=33.88261,-117.846743) |
 | 2 | unknown | 33928325 | 2.066 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.880519,-117.869172) |
-| 3 | unknown | 33608119 | 2.032 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.901043,-117.845885) |
-| 4 | unknown | 32207104 | 1.797 | R-A | Single Family Residential | [map](https://www.google.com/maps?q=33.906993,-117.843395) |
-| 5 | unknown | 34050141 | 1.568 | RPC (O) | Single Family Residential | [map](https://www.google.com/maps?q=33.88193,-117.849271) |
-| 6 | unknown | 33637136 | 1.473 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.904877,-117.846112) |
-| 7 | unknown |  | 1.269 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.880269,-117.832094) |
-| 8 | unknown | 34046216 | 1.209 | PUD-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.8757,-117.855812) |
-| 9 | unknown | 34601316 | 1.146 | R-1 (O) | Single Family Residential | [map](https://www.google.com/maps?q=33.866567,-117.82723) |
-| 10 | unknown | 34130109 | 1.127 | PUD-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.88178,-117.842236) |
+| 3 | unknown | 32207104 | 1.797 | R-A | Single Family Residential | [map](https://www.google.com/maps?q=33.906993,-117.843395) |
+| 4 | unknown | 34050141 | 1.568 | RPC (O) | Single Family Residential | [map](https://www.google.com/maps?q=33.88193,-117.849271) |
+| 5 | unknown |  | 1.269 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.880269,-117.832094) |
+| 6 | unknown | 34046216 | 1.209 | PUD-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.8757,-117.855812) |
+| 7 | unknown | 34130109 | 1.127 | PUD-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.88178,-117.842236) |
+| 8 | unknown | 34038230 | 1.048 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.868373,-117.851815) |
+| 9 | unknown | 33914126 | 0.959 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.881819,-117.868989) |
+| 10 | unknown | 33914125 | 0.952 | R-1 | Single Family Residential | [map](https://www.google.com/maps?q=33.881881,-117.869312) |
 
 **San Clemente**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 67506215 | 4.577 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.466869,-117.65394) |
-| 2 | unknown | 06031116 | 4.492 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.391012,-117.596805) |
-| 3 | unknown | 67506214 | 4.138 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.466801,-117.652281) |
-| 4 | unknown | 06017223 | 2.323 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.412748,-117.603076) |
-| 5 | unknown | 06032101 | 2.023 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.389994,-117.596581) |
-| 6 | unknown | 68022122 | 1.895 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.45949,-117.627127) |
-| 7 | unknown | 69035122 | 1.678 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.421695,-117.595121) |
-| 8 | unknown | 69022209 | 1.601 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.425795,-117.601379) |
-| 9 | unknown | 69231240 | 1.585 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.412319,-117.608461) |
-| 10 | unknown | 05706111 | 1.384 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.434167,-117.612218) |
+| 1 | unknown | 06031116 | 4.492 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.391012,-117.596805) |
+| 2 | unknown | 06017223 | 2.323 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.412748,-117.603076) |
+| 3 | unknown | 06032101 | 2.023 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.389994,-117.596581) |
+| 4 | unknown | 68022122 | 1.895 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.45949,-117.627127) |
+| 5 | unknown | 69231240 | 1.585 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.412319,-117.608461) |
+| 6 | unknown | 05706111 | 1.384 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.434167,-117.612218) |
+| 7 | unknown | 06019114 | 1.377 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.40941,-117.609057) |
+| 8 | unknown | 69103114 | 1.249 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.446434,-117.635602) |
+| 9 | unknown | 05706302 | 1.243 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.435875,-117.615614) |
+| 10 | unknown | 68022202 | 1.02 | RL | Single Family Residential | [map](https://www.google.com/maps?q=33.458617,-117.627978) |
 
 **San Juan Capistrano**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 65037101 | 6.239 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.516709,-117.647927) |
-| 2 | unknown | 67306108 | 5.9 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.49367,-117.680356) |
-| 3 | unknown | 65039103 | 4.58 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.515701,-117.650294) |
-| 4 | unknown | 65037114 | 4.41 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.516987,-117.645823) |
-| 5 | unknown | 65039101 | 3.885 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.515052,-117.649123) |
-| 6 | unknown | 66410128 | 3.778 | RSE-20,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.499766,-117.635298) |
-| 7 | unknown | 65027104 | 3.511 | RSE-20,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.530852,-117.654913) |
-| 8 | unknown | 65056111 | 3.51 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.520643,-117.645892) |
-| 9 | unknown | 65039102 | 3.353 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.516364,-117.649359) |
-| 10 | unknown | 12467141 | 3.263 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.506542,-117.636234) |
+| 1 | unknown | 67306108 | 5.9 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.49367,-117.680356) |
+| 2 | unknown | 65037114 | 4.41 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.516987,-117.645823) |
+| 3 | unknown | 66410128 | 3.778 | RSE-20,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.499766,-117.635298) |
+| 4 | unknown | 65027104 | 3.511 | RSE-20,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.530852,-117.654913) |
+| 5 | unknown | 65056111 | 3.51 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.520643,-117.645892) |
+| 6 | unknown | 12467141 | 3.263 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.506542,-117.636234) |
+| 7 | unknown | 65039202 | 3.204 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.519628,-117.649388) |
+| 8 | unknown | 65056112 | 3.183 | RSE-40,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.520784,-117.647216) |
+| 9 | unknown | 65020112 | 3.116 | RSE-20,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.506618,-117.652117) |
+| 10 | unknown | 65028206 | 3.061 | RSE-20,000 | Single Family Residential | [map](https://www.google.com/maps?q=33.524486,-117.655151) |
 
 **Santa Ana**
 
@@ -2023,16 +2000,16 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
-| 1 | unknown | 19911205 | 0.358 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.742364,-118.11169) |
-| 2 | unknown | 19910203 | 0.337 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.740288,-118.107656) |
-| 3 | unknown | 04329425 | 0.323 | RLD-15 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.745272,-118.107497) |
-| 4 | unknown | 19920154 | 0.29 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.749909,-118.091844) |
-| 5 | unknown | 19919324 | 0.275 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.748511,-118.096767) |
-| 6 | unknown | 19912131 | 0.274 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.749277,-118.104614) |
-| 7 | unknown | 19915201 | 0.274 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.748808,-118.094505) |
-| 8 | unknown | 19911309 | 0.27 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.742071,-118.111171) |
-| 9 | unknown | 19911402 | 0.27 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.741598,-118.110201) |
-| 10 | unknown | 19915114 | 0.267 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.749202,-118.091846) |
+| 1 | unknown | 19910203 | 0.337 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.740288,-118.107656) |
+| 2 | unknown | 04329425 | 0.323 | RLD-15 | High Density Single Family Residential (9 or more DUs/ac) | [map](https://www.google.com/maps?q=33.745272,-118.107497) |
+| 3 | unknown | 19920154 | 0.29 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.749909,-118.091844) |
+| 4 | unknown | 19919324 | 0.275 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.748511,-118.096767) |
+| 5 | unknown | 19912131 | 0.274 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.749277,-118.104614) |
+| 6 | unknown | 19915201 | 0.274 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.748808,-118.094505) |
+| 7 | unknown | 19911309 | 0.27 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.742071,-118.111171) |
+| 8 | unknown | 19911402 | 0.27 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.741598,-118.110201) |
+| 9 | unknown | 19915114 | 0.267 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.749202,-118.091846) |
+| 10 | unknown | 19912116 | 0.262 | RLD-9 | Single Family Residential | [map](https://www.google.com/maps?q=33.749312,-118.105619) |
 
 **Stanton**
 
@@ -2084,27 +2061,27 @@ Check before calling: Tenants in last 3 years; rent control or covenant; owner-o
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
 | 1 | unknown | 14307132 | 1.692 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.737149,-117.969695) |
-| 2 | unknown | 10792329 | 0.738 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.728659,-117.980317) |
-| 3 | unknown | 10788168 | 0.645 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.732318,-117.987177) |
-| 4 | unknown | 10782129 | 0.584 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.733456,-117.983082) |
-| 5 | unknown | 09703103 | 0.517 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.765947,-117.982048) |
-| 6 | unknown | 09814027 | 0.466 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.752477,-117.962795) |
-| 7 | unknown | 20358107 | 0.453 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.766494,-118.016352) |
-| 8 | unknown | 19526405 | 0.451 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.755683,-118.01976) |
-| 9 | unknown | 19526406 | 0.451 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.755503,-118.019756) |
-| 10 | unknown | 09641321 | 0.447 | R1 | Medium Density Single Family Residential (3-8 DUs/ac) | [map](https://www.google.com/maps?q=33.771164,-118.003225) |
+| 2 | unknown | 10788168 | 0.645 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.732318,-117.987177) |
+| 3 | unknown | 10782129 | 0.584 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.733456,-117.983082) |
+| 4 | unknown | 09703103 | 0.517 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.765947,-117.982048) |
+| 5 | unknown | 09814027 | 0.466 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.752477,-117.962795) |
+| 6 | unknown | 20358107 | 0.453 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.766494,-118.016352) |
+| 7 | unknown | 19526405 | 0.451 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.755683,-118.01976) |
+| 8 | unknown | 19526406 | 0.451 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.755503,-118.019756) |
+| 9 | unknown | 09641321 | 0.447 | R1 | Medium Density Single Family Residential (3-8 DUs/ac) | [map](https://www.google.com/maps?q=33.771164,-118.003225) |
+| 10 | unknown | 20328218 | 0.438 | R1 | Single Family Residential | [map](https://www.google.com/maps?q=33.761998,-118.026488) |
 
 **Yorba Linda**
 
 | # | Address | APN | Acres | Zone | Existing use | Map |
 |---|---|---|---|---|---|---|
 | 1 | unknown | 35102140 | 19.362 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.87621,-117.770793) |
-| 2 | unknown | 35202101 | 10.341 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.891303,-117.741718) |
-| 3 | unknown | 35201101 | 8.155 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.891394,-117.743621) |
-| 4 | unknown | 34356108 | 5.075 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.885951,-117.818643) |
-| 5 | unknown | 34353217 | 4.63 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.872201,-117.808354) |
-| 6 | unknown | 35355101 | 4.408 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.892756,-117.737539) |
-| 7 | unknown | 35204205 | 4.046 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.888671,-117.743404) |
-| 8 | unknown | 35358202 | 3.886 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.892854,-117.735772) |
-| 9 | unknown | 32619341 | 3.874 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.906284,-117.75778) |
-| 10 | unknown | 32619313 | 3.857 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.904383,-117.754032) |
+| 2 | unknown | 34356108 | 5.075 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.885951,-117.818643) |
+| 3 | unknown | 34353217 | 4.63 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.872201,-117.808354) |
+| 4 | unknown | 35102148 | 3.789 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.876734,-117.768745) |
+| 5 | unknown | 34839118 | 3.718 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.877492,-117.804805) |
+| 6 | unknown | 34340113 | 3.15 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.880159,-117.81123) |
+| 7 | unknown | 34814114 | 2.699 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.884563,-117.80334) |
+| 8 | unknown | 32308135 | 2.693 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.889804,-117.800953) |
+| 9 | unknown | 34359115 | 2.512 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.884938,-117.821787) |
+| 10 | unknown | 34362107 | 2.48 | RE | Single Family Residential | [map](https://www.google.com/maps?q=33.882441,-117.814265) |

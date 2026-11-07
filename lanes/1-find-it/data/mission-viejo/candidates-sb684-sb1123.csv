@@ -1,20 +1,20 @@
 city,apn,address,lat,lon,acres,lot_sqft,zone_city,zone_type,general_plan_city,existing_use,fire_zone,flood_zone,historic_district,surplus_notice,sb684_1123,sb684_1123_path,sb684_1123_why
-Mission Viejo,83916202,,33.654552,-117.628551,4.113,179154,RPD_30A,multifamily,R 30,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Mission Viejo,83916204,,33.654553,-117.628555,4.113,179154,RPD_30A,multifamily,R 30,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Mission Viejo,63601212,,33.578659,-117.672879,3.528,153661,,unknown,CF,Liquid Waste Disposal Facilities,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Mission Viejo,83916128,,33.654691,-117.630533,2.978,129730,RPD_30,multifamily,R 30,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Mission Viejo,,,33.598507,-117.674669,1.972,85894, ,unknown,TC,,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Mission Viejo,83927305,,33.660469,-117.640565,1.706,74332,RPD_30,multifamily,R 30,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Mission Viejo,,,33.613158,-117.69521,1.077,46902,,unknown,R/OS,Off-Street Trails,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Mission Viejo,78628104,,33.633997,-117.635953,0.956,41642,,unknown,R 6.5,Freeways and Major Roads,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Mission Viejo,78418301,,33.586104,-117.669317,0.621,27064,RPD_3.5,single-family,R 3.5,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,SB 1123,vacant single-family lot: SB 1123 size limit not in HCD sheet; fire zones not checked (county server down)
-Mission Viejo,75912106,,33.561673,-117.654814,0.603,26263,RPD_30,multifamily,R 30,Other Open Space and Recreation,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Mission Viejo,75912105,,33.56172,-117.654761,0.312,13579,RPD_30,multifamily,R 30,Other Open Space and Recreation,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Mission Viejo,85618149,,33.671676,-117.624775,0.138,6028,,unknown,,,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Mission Viejo,75912108,,33.560567,-117.655191,0.11,4792,RPD_30,multifamily,R 30,Utility Facilities,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Mission Viejo,83927310,,33.660008,-117.637709,0.062,2715,RPD_30,multifamily,R 30,Other Open Space and Recreation,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Mission Viejo,,,33.609134,-117.669628,0.055,2406, ,unknown,R 6.5,,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Mission Viejo,75912104,,33.562498,-117.65412,0.03,1319,RPD_30,multifamily,R 30,Other Open Space and Recreation,not checked,not checked,not checked,,Possible,SB 684,fire zones not checked (county server down)
-Mission Viejo,80848235,,33.603381,-117.64372,0.02,873,RPD_3.5,single-family,R 3.5,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,SB 1123,vacant single-family lot: SB 1123 size limit not in HCD sheet; fire zones not checked (county server down)
-Mission Viejo,,,33.607269,-117.693878,0.017,743,,unknown,R/OS,Off-Street Trails,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
-Mission Viejo,,,33.611362,-117.693045,0.014,612,,unknown,R/OS,Off-Street Trails,not checked,not checked,not checked,,Unknown,,zone unknown; fire zones not checked (county server down)
+Mission Viejo,83916202,,33.654552,-117.628551,4.113,179154,RPD_30A,multifamily,R 30,Retail Stores and Commercial Services,,,not checked,,Possible,SB 684,
+Mission Viejo,83916204,,33.654553,-117.628555,4.113,179154,RPD_30A,multifamily,R 30,Retail Stores and Commercial Services,,,not checked,,Possible,SB 684,
+Mission Viejo,63601212,,33.578659,-117.672879,3.528,153661,,unknown,CF,Liquid Waste Disposal Facilities,,AE,not checked,,Unknown,,zone unknown
+Mission Viejo,83916128,,33.654691,-117.630533,2.978,129730,RPD_30,multifamily,R 30,Retail Stores and Commercial Services,,,not checked,,Possible,SB 684,
+Mission Viejo,,,33.598507,-117.674669,1.972,85894, ,unknown,TC,,,,not checked,,Unknown,,zone unknown
+Mission Viejo,83927305,,33.660469,-117.640565,1.706,74332,RPD_30,multifamily,R 30,Retail Stores and Commercial Services,,,not checked,,Possible,SB 684,
+Mission Viejo,,,33.613158,-117.69521,1.077,46902,,unknown,R/OS,Off-Street Trails,,,not checked,,Unknown,,zone unknown
+Mission Viejo,78628104,,33.633997,-117.635953,0.956,41642,,unknown,R 6.5,Freeways and Major Roads,,,not checked,,Unknown,,zone unknown
+Mission Viejo,78418301,,33.586104,-117.669317,0.621,27064,RPD_3.5,single-family,R 3.5,Vacant Undifferentiated,,,not checked,,Unknown,SB 1123,vacant single-family lot: SB 1123 size limit not in HCD sheet
+Mission Viejo,75912106,,33.561673,-117.654814,0.603,26263,RPD_30,multifamily,R 30,Other Open Space and Recreation,,,not checked,,Possible,SB 684,
+Mission Viejo,75912105,,33.56172,-117.654761,0.312,13579,RPD_30,multifamily,R 30,Other Open Space and Recreation,,,not checked,,Possible,SB 684,
+Mission Viejo,85618149,,33.671676,-117.624775,0.138,6028,,unknown,,,,,not checked,,Unknown,,zone unknown
+Mission Viejo,75912108,,33.560567,-117.655191,0.11,4792,RPD_30,multifamily,R 30,Utility Facilities,,,not checked,,Possible,SB 684,
+Mission Viejo,83927310,,33.660008,-117.637709,0.062,2715,RPD_30,multifamily,R 30,Other Open Space and Recreation,,,not checked,,Possible,SB 684,
+Mission Viejo,,,33.609134,-117.669628,0.055,2406, ,unknown,R 6.5,,,,not checked,,Unknown,,zone unknown
+Mission Viejo,75912104,,33.562498,-117.65412,0.03,1319,RPD_30,multifamily,R 30,Other Open Space and Recreation,,,not checked,,Possible,SB 684,
+Mission Viejo,80848235,,33.603381,-117.64372,0.02,873,RPD_3.5,single-family,R 3.5,Vacant Undifferentiated,,,not checked,,Unknown,SB 1123,vacant single-family lot: SB 1123 size limit not in HCD sheet
+Mission Viejo,,,33.607269,-117.693878,0.017,743,,unknown,R/OS,Off-Street Trails,,,not checked,,Unknown,,zone unknown
+Mission Viejo,,,33.611362,-117.693045,0.014,612,,unknown,R/OS,Off-Street Trails,,,not checked,,Unknown,,zone unknown

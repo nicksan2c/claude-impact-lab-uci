@@ -1,286 +1,286 @@
 city,apn,address,lat,lon,acres,lot_sqft,zone_city,zone_type,general_plan_city,existing_use,fire_zone,flood_zone,historic_district,surplus_notice,ab2011,ab2011_why
-Seal Beach,09503034,,33.734622,-118.050147,92.495,4029071, ,unknown,MLY,Military Installations,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04332103,,33.740974,-118.116185,33.118,1442617,,unknown,OS,Water,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,08649251,,33.782732,-118.073906,27.488,1197376,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,08649256,,33.782734,-118.073906,27.488,1197376,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,08649290,,33.782734,-118.073906,27.488,1197377,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09564101,,33.763582,-118.081178,14.389,626775, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,08601157,,33.775536,-118.076023,11.65,507470,GC,commercial,CS,Low- and Medium-Rise Major Office Use,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09565118,,33.761685,-118.087162,9.497,413686, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09566114,,33.765914,-118.084424,7.679,334491,PO,commercial,MDR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,,,33.779526,-118.094859,6.068,264343, ,unknown,P,Freeways and Major Roads,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,21737107,,33.77534,-118.070799,5.777,251645,GC,commercial,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,13086118,,33.780961,-118.070165,5.271,229608,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,,,33.778188,-118.042396,4.37,190376, ,unknown,,,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09578116,,33.769335,-118.082826,4.24,184690, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,13086117,,33.781662,-118.070618,4.08,177708,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,08601156,,33.776991,-118.073672,3.937,171478,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09564155,,33.761452,-118.078719,3.431,149448,SC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,08649288,,33.78081,-118.073973,3.375,146993,GC,commercial,CG,Low- and Medium-Rise Major Office Use,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,20002106,,33.773159,-118.07818,3.19,138959,SC,commercial,CG,Special Care Facilities,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04317221,,33.744373,-118.112986,3.141,136803,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,21737105,,33.775962,-118.072446,2.906,126575,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19910301,,33.73954,-118.10616,2.807,122286,MSSP,specific plan,P,Beach Parks,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,21737101,,33.776884,-118.071644,2.785,121301,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04316036,,33.750563,-118.10518,2.773,120771,SPR,specific plan,CS,Open Space and Recreation,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,09566103,,33.762914,-118.090924,2.765,120456, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09564157,,33.760491,-118.078537,2.537,110501,SC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09579208,,33.759174,-118.080454,2.363,102912,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,,,33.746376,-118.113352,2.27,98895,,unknown,OS,Water,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09568123,,33.769774,-118.093181,2.086,90871, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09567125,,33.772699,-118.083738,2.07,90176, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09566107,,33.767294,-118.086442,1.924,83823, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09569116,,33.768934,-118.089049,1.884,82064, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09564142,,33.760337,-118.079551,1.789,77921,SC,commercial,CS,Government Offices,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09569115,,33.766567,-118.091379,1.772,77210, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,08649227,,33.78155,-118.072656,1.769,77041,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04312236,,33.74312,-118.100884,1.767,76951,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,13086123,,33.782533,-118.071526,1.663,72449,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,21737103,,33.776409,-118.071966,1.589,69217,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,20001106,,33.77245,-118.081376,1.489,64846, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,20002107,,33.772129,-118.078147,1.489,64869,SC,commercial,CO,Special Care Facilities,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09566104,,33.763752,-118.088896,1.411,61461, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04326002,,33.744651,-118.101751,1.345,58578,SC,commercial,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09566106,,33.766093,-118.083672,1.28,55753, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19910502,,33.739448,-118.106847,1.261,54947, ,unknown,,Beach Parks,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19911601,,33.741728,-118.111301,1.209,52685, ,unknown,,Beach Parks,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,20003104,,33.770112,-118.079499,1.2,52258, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04317220,,33.745027,-118.113507,1.173,51078,SPR,specific plan,SP,Water,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,09567124,,33.772852,-118.087305,1.096,47729, ,unknown,,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04330210,,33.745469,-118.105967,1.051,45775,GC,commercial,CO,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09568132,,33.772052,-118.094502,1.025,44670, ,unknown,,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09568133,,33.773197,-118.092213,1.009,43945, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09568121,,33.771932,-118.091527,0.964,41981, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09564133,,33.761279,-118.079545,0.93,40491,SC,commercial,CG,Religious Facilities,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19918521,,33.744963,-118.102832,0.918,40006,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09564146,,33.762641,-118.078266,0.889,38721,SC,commercial,CF,Commercial and Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04317106,,33.743387,-118.113515,0.873,38011,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04330101,,33.747141,-118.106082,0.857,37314,GC,commercial,MDR,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09568131,,33.773743,-118.094273,0.841,36632, ,unknown,,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09564149,,33.762056,-118.078304,0.826,35972,SC,commercial,CS,Low- and Medium-Rise Major Office Use,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09564144,,33.759907,-118.078786,0.806,35105,SC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09566105,,33.764646,-118.086106,0.771,33603, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09564129,,33.761799,-118.079498,0.752,32735,SC,commercial,CS,Commercial and Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04311001,,33.744798,-118.105231,0.751,32707,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,,,33.743749,-118.1134,0.748,32596, ,unknown,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09568102,,33.76942,-118.090215,0.684,29782, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19920177,,33.75107,-118.089494,0.679,29563, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09567122,,33.771764,-118.086827,0.676,29462, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,13087161,,33.784389,-118.06824,0.675,29407, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19903302,,33.741667,-118.106214,0.675,29381,MSSP,specific plan,CF,Fire Stations,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,09579209,,33.759293,-118.078963,0.672,29264,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,20004102,,33.766177,-118.078454,0.619,26952, ,unknown,MDR,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04317214,,33.746201,-118.112696,0.601,26195,SC,commercial,OS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,13086125,,33.783272,-118.071438,0.601,26185,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04330212,,33.745696,-118.105349,0.597,26017,GC,commercial,CO,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04330102,,33.74674,-118.105942,0.594,25878,GC,commercial,MDR,Vacant Undifferentiated,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19920183,,33.749773,-118.09043,0.566,24654, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,08601148,,33.784471,-118.092981,0.544,23680, ,unknown,,High Density Single Family Residential (9 or more DUs/ac),not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19903429,,33.741458,-118.105617,0.539,23490,MSSP,specific plan,HDR - PA1,Religious Facilities,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04330213,,33.74547,-118.105125,0.536,23356,GC,commercial,CO,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04311234,,33.743416,-118.10377,0.535,23297,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,09564152,,33.759979,-118.078135,0.533,23227,GC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09564156,,33.761276,-118.078181,0.533,23225,SC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,08649106,,33.787259,-118.072474,0.515,22444,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,21723101,,33.776337,-118.062932,0.508,22121,GC,commercial,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04316053,,33.750046,-118.10516,0.505,21987,SPR,specific plan,,Open Space and Recreation,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19907401,,33.737911,-118.103853,0.49,21333, ,unknown,,Beach Parks,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,08649180,,33.786852,-118.072443,0.482,20977,GC,commercial,CG,Commercial and Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,13087164,,33.783052,-118.067897,0.455,19807, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04330205,,33.746047,-118.105627,0.454,19755,GC,commercial,CO,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04330214,,33.745308,-118.104712,0.448,19535,GC,commercial,CO,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04330206,,33.745982,-118.105616,0.443,19295,GC,commercial,CO,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,13087156,,33.784253,-118.071286,0.44,19182, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19920176,,33.752032,-118.088864,0.439,19114, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04331104,,33.748714,-118.106307,0.405,17647, ,unknown,,High Density Single Family Residential (9 or more DUs/ac),not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04311201,,33.744474,-118.103474,0.403,17560,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04311348,,33.744009,-118.102563,0.403,17571,MSSP,specific plan,CS,Commercial and Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905229,,33.742464,-118.105525,0.39,16970,MSSP,specific plan,CF,Government Offices,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921204,,33.745901,-118.112205,0.383,16689,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,09569103,,33.768812,-118.085923,0.381,16595, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09578115,,33.766934,-118.083349,0.371,16175, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19920178,,33.752483,-118.089972,0.365,15900, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04313301,,33.742144,-118.098859,0.345,15012,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04313522,,33.742694,-118.099844,0.338,14715,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04311241,,33.744324,-118.103102,0.336,14625,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,13087158,,33.78397,-118.070559,0.328,14297, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04311101,,33.74483,-118.104416,0.327,14240,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19920179,,33.751917,-118.090313,0.323,14085, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19906262,,33.739573,-118.096863,0.319,13900,LC/RMD,mixed res/commercial,CG,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19909501,,33.737154,-118.102332,0.317,13818, ,unknown,,Beach Parks,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19902302,,33.744766,-118.106823,0.296,12878,GC,commercial,P,Religious Facilities,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04311129,,33.744755,-118.104021,0.292,12710,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,17850242,,33.72469,-118.078899,0.292,12718,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19920182,,33.750016,-118.09118,0.284,12390, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04311351,,33.743582,-118.102791,0.27,11776,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905329,,33.742616,-118.10428,0.259,11287,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903417,,33.740215,-118.105998,0.25,10883,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905228,,33.742209,-118.105808,0.25,10902,MSSP,specific plan,CF,Government Offices,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04317107,,33.742968,-118.113202,0.247,10779,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,09567123,,33.769791,-118.08533,0.246,10719, ,unknown,,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19906261,,33.739339,-118.097187,0.242,10548,LC/RMD,mixed res/commercial,CG,Military Installations,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19902233,,33.744895,-118.107486,0.241,10490,SC,commercial,HDR - PA1,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19920181,,33.750429,-118.091095,0.238,10374, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04317105,,33.743129,-118.113198,0.235,10226,,unknown,,,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04313320,,33.742346,-118.099084,0.23,9998,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906529,,33.741638,-118.097694,0.23,10003,GC,commercial,HDR - PA1,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04313101,,33.741812,-118.097999,0.229,9991,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04313123,,33.742015,-118.098464,0.229,9992,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906117,,33.740938,-118.096345,0.229,9996,LC/RMD,mixed res/commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,,,33.740739,-118.095897,0.229,9977,LC/RMD,mixed res/commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,09569102,,33.7682,-118.08678,0.218,9514, ,unknown,,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,08601155,,33.777987,-118.072589,0.217,9468,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04311346,,33.743323,-118.103001,0.203,8857,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04312223,,33.743631,-118.101525,0.203,8822,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19904423,,33.740248,-118.105206,0.202,8808,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904434,,33.741177,-118.104732,0.201,8765,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311314,,33.742969,-118.103535,0.192,8352,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04330204,,33.746084,-118.10632,0.177,7730,GC,commercial,CO,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19904319,,33.742065,-118.103834,0.169,7340,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921107,,33.745119,-118.113048,0.164,7139,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19906260,,33.739065,-118.097052,0.159,6926,LC/RMD,mixed res/commercial,CG,Mixed Residential and Commercial,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19904320,,33.742305,-118.104025,0.158,6901,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,17850243,,33.724561,-118.078626,0.153,6682,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906105,,33.739867,-118.096516,0.143,6209,LC/RMD,mixed res/commercial,CG,"Low-Rise Apartments, Condominiums, and Townhouses",not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906502,,33.741398,-118.097409,0.143,6250,GC,commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04316045,,33.750506,-118.104471,0.14,6103,SPR,specific plan,,Open Space and Recreation,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04317101,,33.743333,-118.114118,0.139,6037, ,unknown,OS,Beach Parks,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04311304,,33.743781,-118.102741,0.135,5877,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903401,,33.741461,-118.105173,0.135,5872,MSSP,specific plan,CS,Public Parking Facilities,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903415,,33.74052,-118.105855,0.135,5873,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904310,,33.741389,-118.104261,0.135,5870,MSSP,specific plan,CS,Public Parking Facilities,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904311,,33.741507,-118.104176,0.135,5871,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904428,,33.74065,-118.105002,0.135,5871,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904429,,33.740767,-118.104916,0.135,5870,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905318,,33.741733,-118.105032,0.135,5872,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311235,,33.743983,-118.103268,0.134,5853,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311236,,33.743887,-118.103427,0.134,5849,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311353,,33.743968,-118.102216,0.134,5823,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19905317,,33.741886,-118.10528,0.134,5853,MSSP,specific plan,HDR - PA1,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311337,,33.743188,-118.103147,0.133,5796,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921501,,33.745195,-118.112677,0.129,5598,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311342,,33.74272,-118.103109,0.126,5496,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904421,,33.739984,-118.105526,0.126,5503,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904436,,33.739858,-118.105302,0.126,5499,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921106,,33.74536,-118.113269,0.124,5404,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19906208,,33.738543,-118.097556,0.123,5340,LC/RMD,mixed res/commercial,CG,Mixed Residential and Commercial,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19921401,,33.745646,-118.112017,0.122,5315,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311002,,33.744582,-118.105473,0.117,5094,GC,commercial,CG,"Manufacturing, Assembly, and Industrial Services",not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04313501,,33.742588,-118.09937,0.115,5022,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04313502,,33.74255,-118.099736,0.115,4996,GC,commercial,HDR - PA1,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906501,,33.741534,-118.097328,0.115,4996,GC,commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,17850246,,33.724355,-118.078424,0.107,4661,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19903408,,33.740965,-118.105488,0.102,4427,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903407,,33.741057,-118.105435,0.101,4404,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905322,,33.742029,-118.104888,0.101,4404,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905323,,33.742079,-118.104693,0.101,4404,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905328,,33.742436,-118.104328,0.101,4403,MSSP,specific plan,CS,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921103,,33.745562,-118.112667,0.096,4181,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,09564147,,33.762792,-118.077946,0.094,4103, ,unknown,,Vacant Undifferentiated,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19906104,,33.74016,-118.097045,0.094,4108,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19921104,,33.745542,-118.11302,0.093,4052,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04332104,,33.743768,-118.113989,0.092,4027, ,unknown,,Vacant,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,19921102,,33.745851,-118.113279,0.092,4000,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921105,,33.74539,-118.112896,0.092,4024,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921101,,33.745796,-118.112678,0.091,3962,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311336,,33.742975,-118.102841,0.087,3795,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921301,,33.745559,-118.112654,0.087,3778,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921508,,33.745002,-118.112542,0.085,3701,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921201,,33.745867,-118.112324,0.084,3655,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921306,,33.745233,-118.111877,0.079,3427,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921202,,33.745685,-118.111793,0.078,3419,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921302,,33.745549,-118.112735,0.074,3234,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921303,,33.745567,-118.112864,0.074,3234,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921304,,33.745296,-118.111981,0.074,3234,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921305,,33.745509,-118.112789,0.074,3234,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921203,,33.745669,-118.111835,0.073,3183,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921402,,33.745422,-118.111647,0.073,3160,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921403,,33.745439,-118.112006,0.073,3160,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921404,,33.74528,-118.111745,0.073,3160,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921405,,33.745205,-118.111781,0.073,3161,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921406,,33.745208,-118.11209,0.073,3161,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921407,,33.745077,-118.111917,0.072,3139,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904433,,33.740935,-118.10438,0.069,2995,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19906118,,33.740652,-118.096234,0.069,3016,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19921502,,33.74516,-118.112696,0.069,3002,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921503,,33.744937,-118.111984,0.069,3002,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921504,,33.745084,-118.112559,0.069,3001,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921505,,33.745032,-118.112443,0.069,3001,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921506,,33.744946,-118.112207,0.069,3000,SPR,specific plan,SP,Single Family Residential,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921507,,33.744757,-118.111613,0.069,3000,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311308,,33.743431,-118.102883,0.068,2950,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19906121,,33.74035,-118.096013,0.068,2944,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906123,,33.740275,-118.0963,0.068,2956,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906124,,33.740204,-118.096336,0.068,2961,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04311221,,33.743652,-118.103474,0.067,2921,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311222,,33.743684,-118.103338,0.067,2922,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311223,,33.743773,-118.103402,0.067,2924,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311228,,33.744019,-118.103022,0.067,2929,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04311229,,33.744174,-118.103317,0.067,2930,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903402,,33.741416,-118.105387,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903403,,33.741379,-118.105507,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903404,,33.741195,-118.105111,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903405,,33.74124,-118.105515,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903406,,33.741084,-118.105218,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903409,,33.740849,-118.10539,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903410,,33.740868,-118.105707,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903411,,33.740828,-118.105814,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903412,,33.740791,-118.105934,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903413,,33.740681,-118.105795,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903414,,33.74049,-118.105375,0.067,2935,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19903416,,33.740476,-118.10607,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904312,,33.741708,-118.104508,0.067,2935,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904313,,33.741648,-118.104049,0.067,2935,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904314,,33.741785,-118.104281,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904315,,33.741766,-118.103964,0.067,2935,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904316,,33.741752,-118.103666,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904317,,33.74195,-118.104113,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904318,,33.742039,-118.104174,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904422,,33.74029,-118.105852,0.067,2935,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904424,,33.740429,-118.105344,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904425,,33.740469,-118.105237,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904426,,33.74045,-118.10492,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904427,,33.740508,-118.104877,0.067,2935,MSSP,specific plan,CS,Public Facilities,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904430,,33.740833,-118.104772,0.067,2935,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904431,,33.740958,-118.10496,0.067,2935,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904432,,33.741105,-118.105227,0.067,2934,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905319,,33.741917,-118.105305,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905320,,33.741739,-118.104434,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905321,,33.741968,-118.104986,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905324,,33.74198,-118.104035,0.067,2935,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905325,,33.742262,-118.104772,0.067,2936,MSSP,specific plan,CS,Mixed Residential and Commercial,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905326,,33.742343,-118.104808,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905330,,33.742253,-118.104245,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19905331,,33.742372,-118.104414,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19906119,,33.74054,-118.096134,0.067,2935,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906125,,33.739972,-118.095805,0.064,2791,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04311315,,33.742795,-118.103183,0.063,2748,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19902301,,33.744984,-118.106944,0.063,2764,GC,commercial,P,Religious Facilities,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19904419,,33.739969,-118.105612,0.063,2750,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19904420,,33.739863,-118.105183,0.063,2749,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19906247,,33.738579,-118.097057,0.063,2737,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906210,,33.738399,-118.097671,0.062,2681,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906211,,33.73837,-118.09782,0.062,2685,LC/RMD,mixed res/commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906212,,33.738147,-118.097289,0.062,2689,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906213,,33.73821,-118.097756,0.062,2693,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906251,,33.738919,-118.097006,0.062,2695,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906120,,33.740433,-118.096033,0.061,2636,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906122,,33.740427,-118.096558,0.061,2644,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906209,,33.738532,-118.097888,0.061,2676,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906245,,33.73854,-118.097172,0.061,2664,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906252,,33.738881,-118.097122,0.061,2643,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906263,,33.738888,-118.097884,0.061,2655,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906264,,33.738773,-118.097234,0.061,2651,LC/RMD,mixed res/commercial,CG,Multi-Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906214,,33.738166,-118.097923,0.059,2592,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906249,,33.738984,-118.09773,0.059,2571,LC/RMD,mixed res/commercial,CG,Single Family Residential,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19906103,,33.740177,-118.096784,0.058,2533,LC/RMD,mixed res/commercial,CG,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,04330211,,33.745349,-118.106342,0.039,1717,GC,commercial,CO,Retail Stores and Commercial Services,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,13087172,,33.784904,-118.073584,0.039,1677, ,unknown,LDR,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,04331123,,33.747586,-118.108099,0.035,1533, ,unknown,MDR,Local Parks and Recreation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,17850245,,33.724892,-118.080352,0.03,1328,GC,commercial,CG,Retail Strip Development,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19921408,,33.745494,-118.111246,0.027,1169,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,19921509,,33.744306,-118.110145,0.023,988,SPR,specific plan,SP,Specific Plan,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,04329201,,33.746372,-118.109344,0.022,979, ,unknown,MDR,High Density Single Family Residential (9 or more DUs/ac),not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
-Seal Beach,09564131,,33.760034,-118.080783,0.015,671,SC,commercial,CS,Government Offices,not checked,not checked,not checked,,Possible,fire and flood zones not checked (county server down)
-Seal Beach,19904321,,33.741176,-118.100179,0.011,491,MSSP,specific plan,CS,Retail Strip Development,not checked,not checked,not checked,,Unknown,zone specific plan; fire and flood zones not checked (county server down)
-Seal Beach,13087170,,33.784577,-118.073674,0.007,314, ,unknown,LDR,Transportation,not checked,not checked,not checked,,Unknown,zone unknown; fire and flood zones not checked (county server down)
+Seal Beach,09503034,,33.734622,-118.050147,92.495,4029071, ,unknown,MLY,Military Installations,,,not checked,,Unknown,zone unknown
+Seal Beach,04332103,,33.740974,-118.116185,33.118,1442617,,unknown,OS,Water,,AE,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,08649251,,33.782732,-118.073906,27.488,1197376,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,08649256,,33.782734,-118.073906,27.488,1197376,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,08649290,,33.782734,-118.073906,27.488,1197377,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,09564101,,33.763582,-118.081178,14.389,626775, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,08601157,,33.775536,-118.076023,11.65,507470,GC,commercial,CS,Low- and Medium-Rise Major Office Use,,,not checked,,Possible,
+Seal Beach,09565118,,33.761685,-118.087162,9.497,413686, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09566114,,33.765914,-118.084424,7.679,334491,PO,commercial,MDR,Vacant Undifferentiated,,,not checked,,Possible,
+Seal Beach,,,33.779526,-118.094859,6.068,264343, ,unknown,P,Freeways and Major Roads,,,not checked,,Unknown,zone unknown
+Seal Beach,21737107,,33.77534,-118.070799,5.777,251645,GC,commercial,CS,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,13086118,,33.780961,-118.070165,5.271,229608,GC,commercial,CG,Retail Stores and Commercial Services,,AE,not checked,,Unknown,in fire or flood zone: check environmental criteria
+Seal Beach,,,33.778188,-118.042396,4.37,190376, ,unknown,,,,A,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,09578116,,33.769335,-118.082826,4.24,184690, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,13086117,,33.781662,-118.070618,4.08,177708,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,08601156,,33.776991,-118.073672,3.937,171478,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,09564155,,33.761452,-118.078719,3.431,149448,SC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,08649288,,33.78081,-118.073973,3.375,146993,GC,commercial,CG,Low- and Medium-Rise Major Office Use,,,not checked,,Possible,
+Seal Beach,20002106,,33.773159,-118.07818,3.19,138959,SC,commercial,CG,Special Care Facilities,,,not checked,,Possible,
+Seal Beach,04317221,,33.744373,-118.112986,3.141,136803,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,21737105,,33.775962,-118.072446,2.906,126575,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,19910301,,33.73954,-118.10616,2.807,122286,MSSP,specific plan,P,Beach Parks,,VE,not checked,,Unknown,zone specific plan; in fire or flood zone: check environmental criteria
+Seal Beach,21737101,,33.776884,-118.071644,2.785,121301,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04316036,,33.750563,-118.10518,2.773,120771,SPR,specific plan,CS,Open Space and Recreation,,,not checked,,Unknown,zone specific plan
+Seal Beach,09566103,,33.762914,-118.090924,2.765,120456, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09564157,,33.760491,-118.078537,2.537,110501,SC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,09579208,,33.759174,-118.080454,2.363,102912,GC,commercial,CG,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,,,33.746376,-118.113352,2.27,98895,,unknown,OS,Water,,AE,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,09568123,,33.769774,-118.093181,2.086,90871, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09567125,,33.772699,-118.083738,2.07,90176, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09566107,,33.767294,-118.086442,1.924,83823, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09569116,,33.768934,-118.089049,1.884,82064, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09564142,,33.760337,-118.079551,1.789,77921,SC,commercial,CS,Government Offices,,,not checked,,Possible,
+Seal Beach,09569115,,33.766567,-118.091379,1.772,77210, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,08649227,,33.78155,-118.072656,1.769,77041,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,04312236,,33.74312,-118.100884,1.767,76951,GC,commercial,CG,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,13086123,,33.782533,-118.071526,1.663,72449,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,21737103,,33.776409,-118.071966,1.589,69217,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,20001106,,33.77245,-118.081376,1.489,64846, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,20002107,,33.772129,-118.078147,1.489,64869,SC,commercial,CO,Special Care Facilities,,,not checked,,Possible,
+Seal Beach,09566104,,33.763752,-118.088896,1.411,61461, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04326002,,33.744651,-118.101751,1.345,58578,SC,commercial,CS,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,09566106,,33.766093,-118.083672,1.28,55753, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,19910502,,33.739448,-118.106847,1.261,54947, ,unknown,,Beach Parks,,VE,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,19911601,,33.741728,-118.111301,1.209,52685, ,unknown,,Beach Parks,,VE,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,20003104,,33.770112,-118.079499,1.2,52258, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04317220,,33.745027,-118.113507,1.173,51078,SPR,specific plan,SP,Water,,AE,not checked,,Unknown,zone specific plan; in fire or flood zone: check environmental criteria
+Seal Beach,09567124,,33.772852,-118.087305,1.096,47729, ,unknown,,Vacant Undifferentiated,,,not checked,,Unknown,zone unknown
+Seal Beach,04330210,,33.745469,-118.105967,1.051,45775,GC,commercial,CO,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,09568132,,33.772052,-118.094502,1.025,44670, ,unknown,,Vacant Undifferentiated,,,not checked,,Unknown,zone unknown
+Seal Beach,09568133,,33.773197,-118.092213,1.009,43945, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09568121,,33.771932,-118.091527,0.964,41981, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09564133,,33.761279,-118.079545,0.93,40491,SC,commercial,CG,Religious Facilities,,,not checked,,Possible,
+Seal Beach,19918521,,33.744963,-118.102832,0.918,40006,GC,commercial,CG,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,09564146,,33.762641,-118.078266,0.889,38721,SC,commercial,CF,Commercial and Services,,,not checked,,Possible,
+Seal Beach,04317106,,33.743387,-118.113515,0.873,38011,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,04330101,,33.747141,-118.106082,0.857,37314,GC,commercial,MDR,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,09568131,,33.773743,-118.094273,0.841,36632, ,unknown,,Vacant Undifferentiated,,,not checked,,Unknown,zone unknown
+Seal Beach,09564149,,33.762056,-118.078304,0.826,35972,SC,commercial,CS,Low- and Medium-Rise Major Office Use,,,not checked,,Possible,
+Seal Beach,09564144,,33.759907,-118.078786,0.806,35105,SC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,09566105,,33.764646,-118.086106,0.771,33603, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09564129,,33.761799,-118.079498,0.752,32735,SC,commercial,CS,Commercial and Services,,,not checked,,Possible,
+Seal Beach,04311001,,33.744798,-118.105231,0.751,32707,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,,,33.743749,-118.1134,0.748,32596, ,unknown,SP,Specific Plan,,,not checked,,Unknown,zone unknown
+Seal Beach,09568102,,33.76942,-118.090215,0.684,29782, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,19920177,,33.75107,-118.089494,0.679,29563, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09567122,,33.771764,-118.086827,0.676,29462, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,13087161,,33.784389,-118.06824,0.675,29407, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,19903302,,33.741667,-118.106214,0.675,29381,MSSP,specific plan,CF,Fire Stations,,,not checked,,Unknown,zone specific plan
+Seal Beach,09579209,,33.759293,-118.078963,0.672,29264,GC,commercial,CG,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,20004102,,33.766177,-118.078454,0.619,26952, ,unknown,MDR,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04317214,,33.746201,-118.112696,0.601,26195,SC,commercial,OS,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,13086125,,33.783272,-118.071438,0.601,26185,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04330212,,33.745696,-118.105349,0.597,26017,GC,commercial,CO,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04330102,,33.74674,-118.105942,0.594,25878,GC,commercial,MDR,Vacant Undifferentiated,,,not checked,,Possible,
+Seal Beach,19920183,,33.749773,-118.09043,0.566,24654, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,08601148,,33.784471,-118.092981,0.544,23680, ,unknown,,High Density Single Family Residential (9 or more DUs/ac),,A,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,19903429,,33.741458,-118.105617,0.539,23490,MSSP,specific plan,HDR - PA1,Religious Facilities,,,not checked,,Unknown,zone specific plan
+Seal Beach,04330213,,33.74547,-118.105125,0.536,23356,GC,commercial,CO,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04311234,,33.743416,-118.10377,0.535,23297,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,09564152,,33.759979,-118.078135,0.533,23227,GC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,09564156,,33.761276,-118.078181,0.533,23225,SC,commercial,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,08649106,,33.787259,-118.072474,0.515,22444,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,21723101,,33.776337,-118.062932,0.508,22121,GC,commercial,CS,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04316053,,33.750046,-118.10516,0.505,21987,SPR,specific plan,,Open Space and Recreation,,,not checked,,Unknown,zone specific plan
+Seal Beach,19907401,,33.737911,-118.103853,0.49,21333, ,unknown,,Beach Parks,,VE,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,08649180,,33.786852,-118.072443,0.482,20977,GC,commercial,CG,Commercial and Services,,,not checked,,Possible,
+Seal Beach,13087164,,33.783052,-118.067897,0.455,19807, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04330205,,33.746047,-118.105627,0.454,19755,GC,commercial,CO,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,04330214,,33.745308,-118.104712,0.448,19535,GC,commercial,CO,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04330206,,33.745982,-118.105616,0.443,19295,GC,commercial,CO,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,13087156,,33.784253,-118.071286,0.44,19182, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,19920176,,33.752032,-118.088864,0.439,19114, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04331104,,33.748714,-118.106307,0.405,17647, ,unknown,,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone unknown
+Seal Beach,04311201,,33.744474,-118.103474,0.403,17560,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04311348,,33.744009,-118.102563,0.403,17571,MSSP,specific plan,CS,Commercial and Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905229,,33.742464,-118.105525,0.39,16970,MSSP,specific plan,CF,Government Offices,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921204,,33.745901,-118.112205,0.383,16689,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,09569103,,33.768812,-118.085923,0.381,16595, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,09578115,,33.766934,-118.083349,0.371,16175, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,19920178,,33.752483,-118.089972,0.365,15900, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04313301,,33.742144,-118.098859,0.345,15012,GC,commercial,CG,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,04313522,,33.742694,-118.099844,0.338,14715,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,04311241,,33.744324,-118.103102,0.336,14625,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,13087158,,33.78397,-118.070559,0.328,14297, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04311101,,33.74483,-118.104416,0.327,14240,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,19920179,,33.751917,-118.090313,0.323,14085, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,19906262,,33.739573,-118.096863,0.319,13900,LC/RMD,mixed res/commercial,CG,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,
+Seal Beach,19909501,,33.737154,-118.102332,0.317,13818, ,unknown,,Beach Parks,,VE,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,19902302,,33.744766,-118.106823,0.296,12878,GC,commercial,P,Religious Facilities,,,not checked,,Possible,
+Seal Beach,04311129,,33.744755,-118.104021,0.292,12710,GC,commercial,CG,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,17850242,,33.72469,-118.078899,0.292,12718,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,19920182,,33.750016,-118.09118,0.284,12390, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04311351,,33.743582,-118.102791,0.27,11776,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905329,,33.742616,-118.10428,0.259,11287,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19903417,,33.740215,-118.105998,0.25,10883,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19905228,,33.742209,-118.105808,0.25,10902,MSSP,specific plan,CF,Government Offices,,,not checked,,Unknown,zone specific plan
+Seal Beach,04317107,,33.742968,-118.113202,0.247,10779,SPR,specific plan,SP,Specific Plan,,VE,not checked,,Unknown,zone specific plan; in fire or flood zone: check environmental criteria
+Seal Beach,09567123,,33.769791,-118.08533,0.246,10719, ,unknown,,Vacant Undifferentiated,,,not checked,,Unknown,zone unknown
+Seal Beach,19906261,,33.739339,-118.097187,0.242,10548,LC/RMD,mixed res/commercial,CG,Military Installations,,,not checked,,Possible,
+Seal Beach,19902233,,33.744895,-118.107486,0.241,10490,SC,commercial,HDR - PA1,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,19920181,,33.750429,-118.091095,0.238,10374, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04317105,,33.743129,-118.113198,0.235,10226,,unknown,,,,,not checked,,Unknown,zone unknown
+Seal Beach,04313320,,33.742346,-118.099084,0.23,9998,GC,commercial,CG,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,19906529,,33.741638,-118.097694,0.23,10003,GC,commercial,HDR - PA1,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04313101,,33.741812,-118.097999,0.229,9991,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04313123,,33.742015,-118.098464,0.229,9992,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,19906117,,33.740938,-118.096345,0.229,9996,LC/RMD,mixed res/commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,,,33.740739,-118.095897,0.229,9977,LC/RMD,mixed res/commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,09569102,,33.7682,-118.08678,0.218,9514, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,08601155,,33.777987,-118.072589,0.217,9468,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04311346,,33.743323,-118.103001,0.203,8857,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,04312223,,33.743631,-118.101525,0.203,8822,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,19904423,,33.740248,-118.105206,0.202,8808,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904434,,33.741177,-118.104732,0.201,8765,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,04311314,,33.742969,-118.103535,0.192,8352,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,04330204,,33.746084,-118.10632,0.177,7730,GC,commercial,CO,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,19904319,,33.742065,-118.103834,0.169,7340,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921107,,33.745119,-118.113048,0.164,7139,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19906260,,33.739065,-118.097052,0.159,6926,LC/RMD,mixed res/commercial,CG,Mixed Residential and Commercial,,,not checked,,Possible,
+Seal Beach,19904320,,33.742305,-118.104025,0.158,6901,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,17850243,,33.724561,-118.078626,0.153,6682,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,19906105,,33.739867,-118.096516,0.143,6209,LC/RMD,mixed res/commercial,CG,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Possible,
+Seal Beach,19906502,,33.741398,-118.097409,0.143,6250,GC,commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,04316045,,33.750506,-118.104471,0.14,6103,SPR,specific plan,,Open Space and Recreation,,,not checked,,Unknown,zone specific plan
+Seal Beach,04317101,,33.743333,-118.114118,0.139,6037, ,unknown,OS,Beach Parks,,VE,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,04311304,,33.743781,-118.102741,0.135,5877,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19903401,,33.741461,-118.105173,0.135,5872,MSSP,specific plan,CS,Public Parking Facilities,,,not checked,,Unknown,zone specific plan
+Seal Beach,19903415,,33.74052,-118.105855,0.135,5873,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904310,,33.741389,-118.104261,0.135,5870,MSSP,specific plan,CS,Public Parking Facilities,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904311,,33.741507,-118.104176,0.135,5871,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904428,,33.74065,-118.105002,0.135,5871,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904429,,33.740767,-118.104916,0.135,5870,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905318,,33.741733,-118.105032,0.135,5872,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311235,,33.743983,-118.103268,0.134,5853,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,04311236,,33.743887,-118.103427,0.134,5849,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311353,,33.743968,-118.102216,0.134,5823,GC,commercial,CG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Seal Beach,19905317,,33.741886,-118.10528,0.134,5853,MSSP,specific plan,HDR - PA1,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311337,,33.743188,-118.103147,0.133,5796,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921501,,33.745195,-118.112677,0.129,5598,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311342,,33.74272,-118.103109,0.126,5496,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904421,,33.739984,-118.105526,0.126,5503,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904436,,33.739858,-118.105302,0.126,5499,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921106,,33.74536,-118.113269,0.124,5404,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19906208,,33.738543,-118.097556,0.123,5340,LC/RMD,mixed res/commercial,CG,Mixed Residential and Commercial,,,not checked,,Possible,
+Seal Beach,19921401,,33.745646,-118.112017,0.122,5315,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311002,,33.744582,-118.105473,0.117,5094,GC,commercial,CG,"Manufacturing, Assembly, and Industrial Services",,,not checked,,Possible,
+Seal Beach,04313501,,33.742588,-118.09937,0.115,5022,GC,commercial,CG,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,04313502,,33.74255,-118.099736,0.115,4996,GC,commercial,HDR - PA1,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,19906501,,33.741534,-118.097328,0.115,4996,GC,commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,17850246,,33.724355,-118.078424,0.107,4661,GC,commercial,CG,Retail Strip Development,,,not checked,,Possible,
+Seal Beach,19903408,,33.740965,-118.105488,0.102,4427,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19903407,,33.741057,-118.105435,0.101,4404,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19905322,,33.742029,-118.104888,0.101,4404,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905323,,33.742079,-118.104693,0.101,4404,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905328,,33.742436,-118.104328,0.101,4403,MSSP,specific plan,CS,Vacant Undifferentiated,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921103,,33.745562,-118.112667,0.096,4181,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,09564147,,33.762792,-118.077946,0.094,4103, ,unknown,,Vacant Undifferentiated,,,not checked,,Unknown,zone unknown
+Seal Beach,19906104,,33.74016,-118.097045,0.094,4108,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,
+Seal Beach,19921104,,33.745542,-118.11302,0.093,4052,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,04332104,,33.743768,-118.113989,0.092,4027, ,unknown,,Vacant,,AE,not checked,,Unknown,zone unknown; in fire or flood zone: check environmental criteria
+Seal Beach,19921102,,33.745851,-118.113279,0.092,4000,SPR,specific plan,SP,Specific Plan,,AE,not checked,,Unknown,zone specific plan; in fire or flood zone: check environmental criteria
+Seal Beach,19921105,,33.74539,-118.112896,0.092,4024,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921101,,33.745796,-118.112678,0.091,3962,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311336,,33.742975,-118.102841,0.087,3795,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19921301,,33.745559,-118.112654,0.087,3778,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921508,,33.745002,-118.112542,0.085,3701,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921201,,33.745867,-118.112324,0.084,3655,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921306,,33.745233,-118.111877,0.079,3427,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921202,,33.745685,-118.111793,0.078,3419,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921302,,33.745549,-118.112735,0.074,3234,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921303,,33.745567,-118.112864,0.074,3234,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921304,,33.745296,-118.111981,0.074,3234,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921305,,33.745509,-118.112789,0.074,3234,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921203,,33.745669,-118.111835,0.073,3183,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921402,,33.745422,-118.111647,0.073,3160,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921403,,33.745439,-118.112006,0.073,3160,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921404,,33.74528,-118.111745,0.073,3160,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921405,,33.745205,-118.111781,0.073,3161,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921406,,33.745208,-118.11209,0.073,3161,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921407,,33.745077,-118.111917,0.072,3139,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904433,,33.740935,-118.10438,0.069,2995,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19906118,,33.740652,-118.096234,0.069,3016,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19921502,,33.74516,-118.112696,0.069,3002,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921503,,33.744937,-118.111984,0.069,3002,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921504,,33.745084,-118.112559,0.069,3001,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921505,,33.745032,-118.112443,0.069,3001,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921506,,33.744946,-118.112207,0.069,3000,SPR,specific plan,SP,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921507,,33.744757,-118.111613,0.069,3000,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311308,,33.743431,-118.102883,0.068,2950,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19906121,,33.74035,-118.096013,0.068,2944,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906123,,33.740275,-118.0963,0.068,2956,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906124,,33.740204,-118.096336,0.068,2961,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,04311221,,33.743652,-118.103474,0.067,2921,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311222,,33.743684,-118.103338,0.067,2922,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311223,,33.743773,-118.103402,0.067,2924,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,04311228,,33.744019,-118.103022,0.067,2929,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,04311229,,33.744174,-118.103317,0.067,2930,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19903402,,33.741416,-118.105387,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19903403,,33.741379,-118.105507,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19903404,,33.741195,-118.105111,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19903405,,33.74124,-118.105515,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19903406,,33.741084,-118.105218,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19903409,,33.740849,-118.10539,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19903410,,33.740868,-118.105707,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19903411,,33.740828,-118.105814,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19903412,,33.740791,-118.105934,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19903413,,33.740681,-118.105795,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19903414,,33.74049,-118.105375,0.067,2935,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19903416,,33.740476,-118.10607,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904312,,33.741708,-118.104508,0.067,2935,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904313,,33.741648,-118.104049,0.067,2935,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904314,,33.741785,-118.104281,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904315,,33.741766,-118.103964,0.067,2935,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904316,,33.741752,-118.103666,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904317,,33.74195,-118.104113,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904318,,33.742039,-118.104174,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904422,,33.74029,-118.105852,0.067,2935,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904424,,33.740429,-118.105344,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904425,,33.740469,-118.105237,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904426,,33.74045,-118.10492,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904427,,33.740508,-118.104877,0.067,2935,MSSP,specific plan,CS,Public Facilities,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904430,,33.740833,-118.104772,0.067,2935,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904431,,33.740958,-118.10496,0.067,2935,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19904432,,33.741105,-118.105227,0.067,2934,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19905319,,33.741917,-118.105305,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905320,,33.741739,-118.104434,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905321,,33.741968,-118.104986,0.067,2936,MSSP,specific plan,CS,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905324,,33.74198,-118.104035,0.067,2935,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905325,,33.742262,-118.104772,0.067,2936,MSSP,specific plan,CS,Mixed Residential and Commercial,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905326,,33.742343,-118.104808,0.067,2936,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19905330,,33.742253,-118.104245,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19905331,,33.742372,-118.104414,0.067,2936,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19906119,,33.74054,-118.096134,0.067,2935,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906125,,33.739972,-118.095805,0.064,2791,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,04311315,,33.742795,-118.103183,0.063,2748,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,19902301,,33.744984,-118.106944,0.063,2764,GC,commercial,P,Religious Facilities,,,not checked,,Possible,
+Seal Beach,19904419,,33.739969,-118.105612,0.063,2750,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19904420,,33.739863,-118.105183,0.063,2749,MSSP,specific plan,CS,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Seal Beach,19906247,,33.738579,-118.097057,0.063,2737,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906210,,33.738399,-118.097671,0.062,2681,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,
+Seal Beach,19906211,,33.73837,-118.09782,0.062,2685,LC/RMD,mixed res/commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,19906212,,33.738147,-118.097289,0.062,2689,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,
+Seal Beach,19906213,,33.73821,-118.097756,0.062,2693,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,
+Seal Beach,19906251,,33.738919,-118.097006,0.062,2695,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906120,,33.740433,-118.096033,0.061,2636,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906122,,33.740427,-118.096558,0.061,2644,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906209,,33.738532,-118.097888,0.061,2676,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,
+Seal Beach,19906245,,33.73854,-118.097172,0.061,2664,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906252,,33.738881,-118.097122,0.061,2643,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906263,,33.738888,-118.097884,0.061,2655,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906264,,33.738773,-118.097234,0.061,2651,LC/RMD,mixed res/commercial,CG,Multi-Family Residential,,,not checked,,Possible,
+Seal Beach,19906214,,33.738166,-118.097923,0.059,2592,LC/RMD,mixed res/commercial,CG,"Duplexes, Triplexes and 2- or 3-Unit Condominiums and Townhouses",,,not checked,,Possible,
+Seal Beach,19906249,,33.738984,-118.09773,0.059,2571,LC/RMD,mixed res/commercial,CG,Single Family Residential,,,not checked,,Possible,
+Seal Beach,19906103,,33.740177,-118.096784,0.058,2533,LC/RMD,mixed res/commercial,CG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,04330211,,33.745349,-118.106342,0.039,1717,GC,commercial,CO,Retail Stores and Commercial Services,,,not checked,,Possible,
+Seal Beach,13087172,,33.784904,-118.073584,0.039,1677, ,unknown,LDR,Transportation,,,not checked,,Unknown,zone unknown
+Seal Beach,04331123,,33.747586,-118.108099,0.035,1533, ,unknown,MDR,Local Parks and Recreation,,,not checked,,Unknown,zone unknown
+Seal Beach,17850245,,33.724892,-118.080352,0.03,1328,GC,commercial,CG,Retail Strip Development,,VE,not checked,,Unknown,in fire or flood zone: check environmental criteria
+Seal Beach,19921408,,33.745494,-118.111246,0.027,1169,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,19921509,,33.744306,-118.110145,0.023,988,SPR,specific plan,SP,Specific Plan,,,not checked,,Unknown,zone specific plan
+Seal Beach,04329201,,33.746372,-118.109344,0.022,979, ,unknown,MDR,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone unknown
+Seal Beach,09564131,,33.760034,-118.080783,0.015,671,SC,commercial,CS,Government Offices,,,not checked,,Possible,
+Seal Beach,19904321,,33.741176,-118.100179,0.011,491,MSSP,specific plan,CS,Retail Strip Development,,,not checked,,Unknown,zone specific plan
+Seal Beach,13087170,,33.784577,-118.073674,0.007,314, ,unknown,LDR,Transportation,,,not checked,,Unknown,zone unknown

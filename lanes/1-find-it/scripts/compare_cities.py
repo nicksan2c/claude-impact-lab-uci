@@ -77,8 +77,6 @@ def main():
                      f"{fmt(r['zone_unknown'])} | {fmt(r['flood_zone'])} | {fmt(r['fire_zone'])} | {r['historic']} |")
     lines += ['', 'Historic districts are mapped for Anaheim only; elsewhere that SB 9 test is not checked.',
               'The fire column covers local responsibility areas (LRA) only.',
-              'Fire and flood show "not checked" where the county map server (ocgis.com) was down on '
-              '2026-11-07; rerun fetch_city.py without --no-hazards when it is back.',
               'Irvine SB 4: about 1,150 of its sites are college land in city zone 6.1, likely public '
               'university land. Public colleges do not qualify for SB 4.',
               'Newport Beach and Tustin: city zone "PC" (planned community) with a generic SCAG code is '

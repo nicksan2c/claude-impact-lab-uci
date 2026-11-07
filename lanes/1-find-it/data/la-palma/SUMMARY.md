@@ -13,6 +13,6 @@ SB 9 'Possible' lots big enough for two 1,200 sq ft lots: 3,650 of 3,659.
 SB 684 path (multifamily zone): 285 'Possible'; SB 1123 vacant single-family lots: 3.
 SB 4 proxy sites (religious or college land use): 2; not ruled out by flood or fire: 2.
 Zone unknown (specific plan or no code): 27.
-Fire and flood zones: not checked (county server down). In a historic district: not checked (no city layer).
+In a FEMA flood zone: 0. In a very high fire zone (LRA): 0. In a historic district: not checked (no city layer).
 
 "Possible" means it passed the tests free data can run. Many tests are not checked. Prototype only; not legal advice.

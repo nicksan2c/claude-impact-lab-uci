@@ -147,3 +147,7 @@ cities? it should be updated to the same exact cities as the sites to call page.
 **Prompts in between:** "how big are the CVS per city?", "would I be able to use git-lfs on a free
 github account" (yes: 10 GiB storage and 10 GiB bandwidth per month; not used today), "understood",
 "how are we doing so far?"
+- Update: the county server came back. Fetched fire and flood for the 26 cities one city at a time
+  (2 small requests each), re-screened and re-ranked. No site is "not checked" for hazards now;
+  the call list has 2,482 leads (flood-zone parcels drop out). Addresses for new cities are still
+  unknown (the bulk address search is heavy; skipped). Committed and pushed to main.
