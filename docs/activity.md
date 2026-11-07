@@ -108,3 +108,10 @@ attached by constrained to these cities and thresholds" (Laguna Woods, Santa Ana
 - Fixed the SCAG legend parser (codes like 1122 had blank labels). Added a `parent_parcel` column;
   parent outlines and duplicate locations are left out of the call list.
 - Committed and pushed.
+
+**Prompt:** "Yes, add to app" (call list in the web app)
+- Added `html/call-list.html` and `html/call-list.js`: city and law dropdowns, ranked table, numbered
+  map, "check before calling" box, method and sources. Reads `html/data/call-list.json`, which
+  `rank_sites.py` now writes. Linked from the main page header. Every div has an id.
+- Tested in the browser preview: switching city and law, row click to map popup, no console errors.
+- Updated the README ("What we built" item 8). Committed and pushed.

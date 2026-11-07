@@ -212,3 +212,15 @@ written as `unknown`, never left blank.
 
 - 375 ranked leads. About 40% have no county site address; the map link is the way in.
 - Not done: landslide and transit checks, specific-plan zoning, owner data for SB 4.
+
+# Plan 7: Call list in the web app
+
+- [x] `rank_sites.py` writes `html/data/call-list.json`
+- [x] `html/call-list.html` + `call-list.js` (filters, table, map, check box, sources)
+- [x] Link from `index.html`; README item 8
+- [x] Tested in browser preview
+
+## Review (Plan 7)
+
+- New page works offline from one JSON file (190 KB); no live service calls.
+- Goes live on GitHub Pages once this branch is merged to main.

@@ -7,7 +7,9 @@ ASSUMPTION: the ranking is the team's judgment, not from a law or program. It fa
 nobody lives today (no tenants to displace) and bigger lots. Change the rules below.
 """
 import csv
+import json
 import os
+import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, '..', 'data')
@@ -89,6 +91,7 @@ def main():
                                        if f),
                     'check_before_calling': check,
                     'map': f"https://www.google.com/maps?q={r['lat']},{r['lon']}",
+                    'lat': float(r['lat']), 'lon': float(r['lon']),
                 })
     cols = list(out[0].keys())
     with open(os.path.join(DATA, 'call-list.csv'), 'w', newline='') as fh:
@@ -118,6 +121,11 @@ def main():
                           f"{r['existing_use']} | [map]({r['map']}) |" for r in sel]
             lines.append('')
     open(os.path.join(DATA, 'CALL-LIST.md'), 'w').write('\n'.join(lines))
+
+    # Copy for the web app (html/ is the deployed folder).
+    web = {'generated': time.strftime('%Y-%m-%d'), 'cities': CITIES,
+           'laws': {law: check for law, (_, _, check) in LAWS.items()}, 'rows': out}
+    json.dump(web, open(os.path.join(HERE, '..', '..', '..', 'html', 'data', 'call-list.json'), 'w'))
     print('wrote', len(out), 'rows')
 
 

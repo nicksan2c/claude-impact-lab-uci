@@ -45,6 +45,13 @@ A single web page (`html/`) that, for the chosen city:
    written as `unknown`. Built in the browser; nothing is sent anywhere.
 7. Shows a warning when sources **disagree**, for example when SCAG puts a parcel in one city and
    the county address says another.
+8. **Call List by Law** (`html/call-list.html`): the top 20 parcels per law (AB 2011, SB 684,
+   SB 1123, SB 4, SB 9) in Santa Ana, Anaheim, Garden Grove and Stanton, with a table, a map
+   and a "check before calling" line. It comes from a screen of **every parcel** in each city
+   (137,035 in all), built by `lanes/1-find-it/scripts/` (`fetch_city.py`, `screen_city.py`,
+   `compare_cities.py`, `rank_sites.py`). The ranking is an ASSUMPTION: vacant land and parking
+   come first. Data, tests and limits are in `lanes/1-find-it/data/` (see `CITY-COMPARISON.md`
+   and `CALL-LIST.md`).
 
 **Demo video:** [TO FILL]
 **Live demo:** https://nicksan2c.github.io/claude-impact-lab-uci/ (GitHub Pages, deployed from `html/` on every push to main)
