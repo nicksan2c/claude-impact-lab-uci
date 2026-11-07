@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "ten-sites", "runtimeExecutable": "python3", "runtimeArgs": ["-u", "-m", "http.server", "8123", "--directory", "html"], "port": 8123 }
+  ]
+}
