@@ -38,3 +38,13 @@
 - Found a SCAG vs city zone-name difference (Laguna Beach R3 = SCAG 1111); now shown on cards.
 - Fixed the map zooming out when drawn while hidden.
 - Updated README (sources, limits, next steps), todo review and this log. Committed and pushed.
+
+**Prompt:** "Add CSV export"
+- Wrote Plan 3 (CSV export: columns, header caveats, file name) in `tasks/todo.md`. Waiting for
+  approval before building.
+
+**Prompt:** "Approve, build it" (CSV export)
+- Added the "Download CSV" button and `downloadCsv()` (30 columns, caveat lines at the top,
+  `unknown` for missing values, file named by city and date).
+- Tested the generated file in Laguna Niguel (every row 30 columns, escaping correct).
+- Fixed county year built "0" showing as a year. Updated README and todo review. Committed and pushed.

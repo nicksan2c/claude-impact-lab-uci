@@ -39,7 +39,11 @@ A single web page (`html/`) that, for the chosen city:
    Possible, Not likely or Unknown. "Show tests" lists what passed, what failed and what was not
    checked. The tests come only from HCD's fact sheets (April 2026), and zone types come from
    SCAG's code legend. This is a first screen, not a legal determination.
-6. Shows a warning when sources **disagree**, for example when SCAG puts a parcel in one city and
+6. **Download CSV**: saves the ten sites (30 columns: units, zoning, hazards, law results, why,
+   who to call, lat/lon) as `ten-sites-<city>-<date>.csv`. The file starts with the prototype
+   disclaimer, the date checked, the ASSUMPTION note and every source URL. Missing values are
+   written as `unknown`. Built in the browser; nothing is sent anywhere.
+7. Shows a warning when sources **disagree**, for example when SCAG puts a parcel in one city and
    the county address says another.
 
 **Demo video:** [TO FILL]
@@ -94,6 +98,7 @@ To refresh the surplus-land data: download the CSV from the HCD link below, then
 | Surplus-land notices | working, cached copy of the HCD CSV (dated in the UI) |
 | Ranking | working; weights are ASSUMPTION |
 | Which-law screen | working for the tests listed; all other tests shown as "not checked" |
+| CSV export | working (tested: 30 columns per row, commas and quotes escaped) |
 | Owner and willingness to sell | **not available**: shown as unknown |
 
 ## Where it gets things wrong
@@ -129,7 +134,6 @@ To refresh the surplus-land data: download the CSV from the HCD link below, then
   on SCAG's regional category.
 - Add the CAL FIRE state-responsibility layer and the HCD statewide sites inventory to fill the
   missing cities.
-- Export to CSV so the list drops into a nonprofit's pipeline tracker.
 - **Path to the next 100 projects:** nothing here is Orange County specific except the county
   parcel layer. SCAG covers six counties, and HCD, FEMA, CGS and Caltrans are statewide, so the
   same page can rank sites anywhere in Southern California.

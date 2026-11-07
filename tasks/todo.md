@@ -133,3 +133,39 @@ Condo conversion is left out: no source is loaded for it.
   Laguna Beach "R3" is SCAG single-family, so the card now shows both codes and a note.
 - Fixed: the map could zoom out to the world map if drawn while hidden (`invalidateSize`).
 - Ranking is unchanged; the law screen does not affect scores.
+
+---
+
+# Plan 3: CSV export
+
+A **Download CSV** button appears after a search. It saves the 10 sites shown, one row per site,
+so the list drops into a spreadsheet or pipeline tracker. Built in the browser; nothing is sent
+anywhere.
+
+**File name:** `ten-sites-<city>-<date>.csv`
+
+**Columns:** rank, score, address, APN, city, source type (housing element / surplus notice / both),
+lower / moderate / above-moderate units planned, housing element data year, surplus agency, notice
+date, notice status, city zoning, SCAG category, acres, year built, flood, fire, landslide, transit,
+SB 9, SB 684/1123, AB 2011, SB 4, why it ranks, who to call, sources disagree (yes/no), and
+lat/lon.
+
+**Header rows (so the file carries its own caveats):** the first lines say "Prototype, not legal or
+financial advice", the date checked, that scores are ASSUMPTION, and the source URLs. Unknowns are
+written as `unknown`, never left blank.
+
+## Todo
+
+- [x] 1. Add a hidden "Download CSV" button next to "Find 10 sites"; show it after results load
+- [x] 2. Build rows from the same data the cards use (no new requests)
+- [x] 3. Test: download for Anaheim, open the file, check columns, commas and quotes in addresses
+- [x] 4. Update README, review section, activity log; commit and push
+
+## Review (Plan 3)
+
+- `index.html`: a "Download CSV" button under "Find 10 sites", hidden until results load.
+- `app.js`: `downloadCsv()` builds the file from the same data the cards use (no new requests).
+  The law results are saved on each site when its card is drawn, so the CSV and cards always match.
+- Tested in Laguna Niguel: 4 note lines, then a header and 10 rows, every row 30 columns; commas
+  and quotes are escaped; "sources disagree" rows carry the county address.
+- Fixed: the county "year built" value "0" now shows as blank (card and CSV).

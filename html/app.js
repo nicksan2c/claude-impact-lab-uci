@@ -219,6 +219,7 @@ async function addParcelInfo(sites) {
     sites.forEach((s) => {
       s.parcel = p[digits(s.apn)] || null;
       if (/NOT AVAILABLE/i.test(s.parcel?.SITE_ADDRESS || '')) s.parcel.SITE_ADDRESS = '';
+      if (s.parcel && /^0*$/.test(s.parcel.YEAR_BUILT || '')) s.parcel.YEAR_BUILT = ''; // "0" means blank
     });
   } catch (e) {
     sites.forEach((s) => { s.parcel = null; });
@@ -245,6 +246,7 @@ function lawRow(s, id, z, acres) {
     sfha: flood === 'error' ? null : !!(flood && /^[AV]/.test(flood.FLD_ZONE || '')),
     publicOwner: !!s.surplus,
   });
+  s.lawResult = result; // kept for the CSV export
   const color = { Possible: 'text-bg-success', 'Not likely': 'text-bg-secondary', Unknown: 'text-bg-warning' };
   const mark = { pass: '✓', fail: '✗', unknown: '?', 'not checked': '–' };
   const badges = result.laws.map((l) =>
@@ -331,6 +333,7 @@ function renderMap(top) {
 async function run() {
   const city = $('city').value;
   $('go').disabled = true;
+  $('csv').classList.add('d-none');
   $('list').innerHTML = '';
   $('summary').textContent = '';
   try {
@@ -356,6 +359,8 @@ async function run() {
     $('summary').textContent = `${all.length} candidate sites in ${titleCase(city)}; top ${HAZARD_CHECK_COUNT} checked for hazards; showing the best ${top.length}.`;
     $('list').innerHTML = top.map((s, i) => card(s, i + 1)).join('');
     renderMap(top);
+    lastResult = { city, top, checked: new Date() };
+    $('csv').classList.remove('d-none');
     $('status').textContent = `Done. Data checked live ${new Date().toLocaleString()}.`;
   } catch (e) {
     $('status').textContent = '';
@@ -363,6 +368,67 @@ async function run() {
   } finally {
     $('go').disabled = false;
   }
+}
+
+// ---------- CSV export (built in the browser; nothing is sent anywhere) ----------
+
+let lastResult = null;
+
+function downloadCsv() {
+  if (!lastResult) return;
+  const { city, top, checked } = lastResult;
+  const U = 'unknown';
+  const val = (v) => (v === null || v === undefined || v === '' ? U : v);
+  const cell = (v) => { const t = String(v); return /[",\n\r]/.test(t) ? `"${t.replace(/"/g, '""')}"` : t; };
+  const hazard = (h, hitText) => (h === 'error' ? U : h ? hitText(h) : 'no');
+  const law = (s, name) => s.lawResult?.laws.find((l) => l.law === name)?.v ?? U;
+
+  const header = [
+    'rank', 'score (ASSUMPTION)', 'address', 'apn', 'city', 'source type',
+    'lower-income units planned', 'moderate units planned', 'above-moderate units planned', 'housing element data year',
+    'surplus notice agency', 'surplus notice date', 'surplus notice status',
+    'city zoning', 'SCAG zoning category', 'acres', 'year built (county record)',
+    'flood (FEMA A/V zone)', 'fire (LRA zone)', 'landslide (CGS zone)', 'transit (HQTA)',
+    'SB 9', 'SB 684/1123', 'AB 2011', 'SB 4',
+    'why it ranks here', 'who to call', 'sources disagree on city', 'lat', 'lon',
+  ];
+  const rows = top.map((s, i) => {
+    const z = s.zoning && s.zoning !== 'error' ? s.zoning : null;
+    const acres = z?.ACRES ?? s.surplus?.acres;
+    const addr = s.surplus?.address || (s.parcel?.SITE_ADDRESS ? titleCase(s.parcel.SITE_ADDRESS) : '');
+    const flood = s.checks.flood;
+    const sfha = flood === 'error' ? 'error' : flood && /^[AV]/.test(flood.FLD_ZONE || '') ? flood : null;
+    const mismatch = s.parcel?.SITE_ADDRESS ? (s.parcel.SITE_ADDRESS.toUpperCase().includes(city) ? 'no' : `yes: county address is ${titleCase(s.parcel.SITE_ADDRESS)}`) : U;
+    return [
+      i + 1, s.score, val(addr), val(s.apn), titleCase(city),
+      s.he && s.surplus ? 'housing element + surplus notice' : s.he ? 'housing element' : 'surplus notice',
+      s.he ? s.he.low : 'n/a', s.he ? s.he.moderate : 'n/a', s.he ? s.he.above : 'n/a', s.he ? val(s.he.year) : 'n/a',
+      s.surplus ? val(s.surplus.agency) : 'n/a', s.surplus ? val(s.surplus.date_issued) : 'n/a', s.surplus ? val(s.surplus.status) : 'n/a',
+      val(z?.ZN24_CITY), z ? `${val(z.ZN24_SCAG)} ${zoneType(z.ZN24_SCAG).label}` : U,
+      acres != null ? Number(acres).toFixed(2) : U, s.parcel ? val(s.parcel.YEAR_BUILT) : U,
+      hazard(sfha, (h) => `yes: zone ${h.FLD_ZONE}`), hazard(s.checks.fire, (h) => `yes: ${h.HAZ_CLASS}`),
+      hazard(s.checks.slide, () => 'yes'), hazard(s.checks.transit, (h) => `yes: ${h.hqta_type}`),
+      law(s, 'SB 9'), law(s, 'SB 684/1123'), law(s, 'AB 2011'), law(s, 'SB 4'),
+      s.why.join('; ') || 'no points',
+      s.surplus ? `${s.surplus.agency} (agency that issued the surplus notice)` : `City of ${titleCase(city)} planning or housing division`,
+      mismatch, s.lat.toFixed(6), s.lon.toFixed(6),
+    ];
+  });
+
+  const notes = [
+    ['Ten Sites to Call: prototype from the Claude Impact Lab. Not legal, financial or lending advice. Every site is a lead to check, not a confirmed opportunity.'],
+    [`City: ${titleCase(city)}. Data checked live ${checked.toISOString()}. Surplus notices from a copy downloaded ${surplusData.downloaded}.`],
+    ['Scores are ASSUMPTION (team-chosen points). Law columns are a first screen from HCD fact sheets (April 2026), not a legal determination. "unknown" means the source does not say.'],
+    [`Sources: ${Object.values(SRC).map((s) => `${s.name} ${s.url}`).join(' | ')} | ${LAW_SOURCES.facts} | ${LAW_SOURCES.sb9}`],
+    [],
+  ];
+  const csv = [...notes, header, ...rows].map((r) => r.map(cell).join(',')).join('\r\n');
+  const blob = new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `ten-sites-${city.toLowerCase().replace(/\s+/g, '-')}-${checked.toISOString().slice(0, 10)}.csv`;
+  a.click();
+  URL.revokeObjectURL(a.href);
 }
 
 function renderMethod() {
@@ -396,4 +462,5 @@ markerLayer = L.layerGroup().addTo(map);
 
 renderMethod();
 $('go').addEventListener('click', run);
+$('csv').addEventListener('click', downloadCsv);
 loadCities().catch((e) => { $('status').textContent = `Could not load city list: ${e.message}`; });
