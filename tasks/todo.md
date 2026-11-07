@@ -169,3 +169,20 @@ written as `unknown`, never left blank.
 - Tested in Laguna Niguel: 4 note lines, then a header and 10 rows, every row 30 columns; commas
   and quotes are escaped; "sources disagree" rows carry the county address.
 - Fixed: the county "year built" value "0" now shows as blank (card and CSV).
+
+# Plan 4: Anaheim data pull and four-law screen
+
+- [x] Find Anaheim sources in the Lane 1 catalog
+- [x] Check service fields, counts and the SCAG land-use legend
+- [x] Download parcels, zoning, land use, general plan, historic districts, fire and flood
+- [x] Screen every parcel for SB 9, SB 684/1123, AB 2011, SB 4
+- [x] Write data README with sources and limits
+
+## Review (Plan 4)
+
+- New: `lanes/1-find-it/scripts/fetch_anaheim.py`, `screen_anaheim.py`, and
+  `lanes/1-find-it/data/anaheim/` (README, SUMMARY, full CSV, four candidate CSVs).
+- Results (56,478 parcels): SB 9 Possible 33,382; SB 684 Possible 6,311 (+84 SB 1123 vacant
+  lots, Unknown); AB 2011 Possible 1,513; SB 4 proxy sites 142 (owner unconfirmed).
+- Biggest gaps: 5,941 parcels in specific plans or with no SCAG zone code; owner data for SB 4;
+  state-responsibility fire areas; tenant and historic contributing status.

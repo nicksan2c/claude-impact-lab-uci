@@ -61,3 +61,23 @@
 - Confirmed all map services accept requests from https://nicksan2c.github.io.
 - Added `.github/workflows/pages.yml` (deploys `html/` on push to main) and the live link in the
   README. Committed and pushed. Pages must be switched on once in repo Settings.
+
+**Prompt:** "verify github connector"
+- `gh` CLI signed in as nicksan2c with push/admin on the public repo; SSH push works. The GitHub
+  MCP connector needs authorizing via `/mcp`. No changes.
+
+**Prompt:** "summarize the data available in the repo"
+- Summarized: one real dataset (113 OC surplus-land notices, all "Archive"), three source
+  catalogs, starter lists, synthetic deal and scenarios. No changes.
+
+**Prompt:** "go so get the data so we analyze in anaheim for these scenarios: SB 9 single-family
+lot splits, SB 684 / 1123 up to 10 homes no hearing, AB 2011 commercial corridors, SB 4 faith and
+college land"
+- Added `lanes/1-find-it/scripts/fetch_anaheim.py`: downloads SCAG zoning, land use and general
+  plan for Anaheim (57,176 parcels), City of Anaheim parcels and historic districts, OC fire (LRA)
+  and FEMA flood zones. Raw files git-ignored.
+- Added `screen_anaheim.py`: runs the `laws.js` tests on every parcel; writes a full screened CSV,
+  one candidate CSV per law and `SUMMARY.md` in `lanes/1-find-it/data/anaheim/`.
+- Checked the HCD SB 9 sheet (April 2026): two 1,200 sq ft lots; historic exclusion is for
+  contributing structures (AB 1061). SB 4 uses SCAG land use 1245/1265 as a labeled PROXY.
+- Wrote the data README (sources, tests, limits). Committed and pushed.
