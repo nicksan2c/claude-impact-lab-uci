@@ -47,7 +47,7 @@ A single web page (`html/`) that, for the chosen city:
    the county address says another.
 
 **Demo video:** [TO FILL]
-**Live demo:** [TO FILL]
+**Live demo:** https://nicksan2c.github.io/claude-impact-lab-uci/ (GitHub Pages, deployed from `html/` on every push to main)
 
 ## How Claude is used
 

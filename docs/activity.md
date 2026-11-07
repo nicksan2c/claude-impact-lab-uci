@@ -54,3 +54,10 @@
 - Wrote `docs/demo-script.md`: 30-second video shot list with voiceover, a ~3-minute live demo,
   judge Q&A, a pre-demo checklist and ready-to-paste submission form text. Uses numbers from the
   2026-11-07 test runs (Anaheim, Laguna Niguel). Committed and pushed.
+
+**Prompt:** "Yes, set it up" (GitHub Pages live demo)
+- Repo is public; Pages was off. Local `gh` CLI does not run on this Mac (wrong CPU type), so
+  Pages could not be switched on from here.
+- Confirmed all map services accept requests from https://nicksan2c.github.io.
+- Added `.github/workflows/pages.yml` (deploys `html/` on push to main) and the live link in the
+  README. Committed and pushed. Pages must be switched on once in repo Settings.
