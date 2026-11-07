@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Call List by Law</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <style>
+    #cl-map { height: 520px; border-radius: .5rem; }
+    #cl-table td, #cl-table th { font-size: .85rem; vertical-align: middle; }
+    #cl-table tr.active-row td { background: #fff3cd; }
+  </style>
+</head>
+<body class="bg-light">
+<div id="cl-page" class="container py-4">
+
+  <div id="cl-header" class="mb-3">
+    <div id="cl-nav" class="small mb-2"><a href="index.html">← Ten Sites to Call</a></div>
+    <h1 id="cl-title" class="h3 mb-1">Call List by Law</h1>
+    <p id="cl-subtitle" class="text-muted mb-0">
+      The top 20 parcels per state law in four lower-priced Orange County cities, from a screen of
+      every parcel in each city.
+    </p>
+  </div>
+
+  <div id="cl-disclaimer" class="alert alert-warning py-2 small">
+    <strong>Prototype.</strong> Not legal, financial or lending advice. These are leads to research,
+    not approved sites. Owner, tenants and willingness to sell are unknown for every site. Open the
+    map link first: about 4 in 10 sites have no street address, and some large lots may be slopes,
+    common areas or utility land.
+  </div>
+
+  <div id="cl-controls" class="card card-body mb-3">
+    <div id="cl-controls-row" class="row g-2 align-items-end">
+      <div id="cl-city-col" class="col-md-4">
+        <label for="cl-city" class="form-label mb-1">City</label>
+        <select id="cl-city" class="form-select"></select>
+      </div>
+      <div id="cl-law-col" class="col-md-4">
+        <label for="cl-law" class="form-label mb-1">Law</label>
+        <select id="cl-law" class="form-select"></select>
+      </div>
+      <div id="cl-count-col" class="col-md-4">
+        <div id="cl-count" class="small text-muted"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="cl-check" class="alert alert-info py-2 small"></div>
+
+  <div id="cl-results-row" class="row g-3">
+    <div id="cl-list-col" class="col-lg-7">
+      <div id="cl-table-wrap" class="table-responsive bg-white rounded border">
+        <table id="cl-table" class="table table-sm table-hover mb-0">
+          <thead id="cl-thead"><tr>
+            <th>#</th><th>Address</th><th>APN</th><th>Acres</th><th>Zone</th><th>Existing use</th><th>Flags</th><th>Map</th>
+          </tr></thead>
+          <tbody id="cl-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+    <div id="cl-map-col" class="col-lg-5">
+      <div id="cl-map-sticky" class="sticky-top" style="top: 1rem;">
+        <div id="cl-map"></div>
+        <div id="cl-legend" class="small text-muted mt-2">Number = rank. Click a row or marker to highlight it.</div>
+      </div>
+    </div>
+  </div>
+
+  <div id="cl-method" class="card card-body mt-4 small">
+    <h2 id="cl-method-title" class="h6">How sites are ranked (ASSUMPTION)</h2>
+    <div id="cl-method-body">
+      The ranking is the team's judgment, not from a law or program. Only parcels the screen marked
+      "Possible" are listed (SB 1123: vacant single-family lots; SB 4: church or college land use, a
+      <strong>proxy</strong> for ownership). Flood-zone parcels and SCAG "parent" outlines are left
+      out. AB 2011 and SB 684 rank vacant land and parking first, then retail and office, then other
+      non-housing uses, then existing housing (tenants may live there); bigger lots first within each
+      group. SB 9, SB 1123 and SB 4 rank by lot size. Rules are in
+      <code>lanes/1-find-it/scripts/rank_sites.py</code>.
+    </div>
+    <h2 id="cl-sources-title" class="h6 mt-2">Sources (downloaded 2026-11-07)</h2>
+    <ul id="cl-sources" class="mb-0">
+      <li>Zoning, existing land use, general plan: SCAG
+        <a href="https://maps.scag.ca.gov/scaggis/rest/services/LDX" target="_blank" rel="noopener">LDX map services</a> (2024 data)</li>
+      <li>Site addresses: <a href="https://www.ocgis.com/arcpub/rest/services/Map_Layers/Parcels/FeatureServer/0" target="_blank" rel="noopener">OC Parcels</a></li>
+      <li>Fire: <a href="https://www.ocgis.com/arcpub/rest/services/Map_Layers/Fire_Hazard_Severity_Zones_LRA/MapServer/0" target="_blank" rel="noopener">OC Fire Hazard Severity Zones (LRA only)</a>;
+        flood: <a href="https://www.ocgis.com/arcpub/rest/services/Map_Layers/Floodplains/MapServer/0" target="_blank" rel="noopener">OC Floodplains</a>;
+        historic districts (Anaheim only): <a href="https://gis.anaheim.net/map/rest/services/PropertyInfo/MapServer/14" target="_blank" rel="noopener">City of Anaheim</a></li>
+      <li>Law tests: HCD <a href="https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-law-fact-sheets.pdf" target="_blank" rel="noopener">Housing Law Fact Sheets</a>
+        and <a href="https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/lot-splits-and-duplexes-sb-9.pdf" target="_blank" rel="noopener">SB 9 fact sheet</a> (April 2026, read 2026-11-07)</li>
+    </ul>
+  </div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="call-list.js"></script>
+</body>
+</html>

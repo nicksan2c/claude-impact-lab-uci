@@ -1,0 +1,398 @@
+city,apn,address,lat,lon,acres,lot_sqft,zone_city,zone_type,general_plan_city,existing_use,fire_zone,flood_zone,historic_district,surplus_notice,ab2011,ab2011_why
+Stanton,13140113,12131 BEACH BLVD,33.786866,-117.99405,6.237,271701,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13149108,12540 BEACH BLVD,33.779863,-117.99074,5.822,253605,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13109167,11091 BEACH BLVD,33.801863,-117.994791,5.731,249656,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13156223,12820 BEACH BLVD,33.774725,-117.991275,5.407,235533,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13170112,,33.775344,-117.994121,3.946,171878,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13150104,12736 BEACH BLVD,33.778423,-117.992208,3.767,164090,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13136103,12331 BEACH BLVD,33.782615,-117.993492,3.738,162812,CG,commercial,MU-SG,Vacant Undifferentiated,,,not checked,,Possible,
+Stanton,13142226,,33.785369,-117.99195,3.535,154004,CG,commercial,MU-G,Commercial and Services,,,not checked,,Possible,
+Stanton,13164113,7450 KATELLA AVE,33.802153,-118.002885,3.49,152022,CN,commercial,MU-G,Hotels and Motels,,,not checked,,Possible,
+Stanton,12746102,10500 S MAGNOLIA AVE,33.809817,-117.974651,3.16,137664,CG,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07934108,,33.805873,-117.994265,3.156,137488,CG,commercial,MU-TC,Under Construction,,,not checked,,Possible,
+Stanton,13110120,8210 KATELLA AVE,33.802315,-117.989159,3.023,131699,BP,commercial,MU-G,General Office Use,,,not checked,,Possible,
+Stanton,07976222,7271 KATELLA AVE,33.803554,-118.006872,2.904,126489,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,89041023,,33.803555,-118.006876,2.904,126489,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13161107,7050 KATELLA AVE,33.802223,-118.009881,2.597,113127,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07924111,,33.811024,-117.993854,2.426,105686,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07976264,7003 KATELLA AVE,33.803382,-118.009743,2.083,90738,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12746103,10560 S MAGNOLIA AVE,33.809185,-117.974605,2.041,88916,CG,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12654132,8381 KATELLA AVE A,33.803516,-117.986142,1.993,86833,BP,commercial,I,General Office Use,,,not checked,,Possible,
+Stanton,13148234,,33.783007,-117.99222,1.802,78479,CG,commercial,MU-SG,General Office Use,,,not checked,,Possible,
+Stanton,12628123,8041 STARR ST,33.815215,-117.992477,1.708,74418,CG,commercial,MU-NG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13125416,11951 BEACH BLVD,33.789083,-117.993759,1.706,74328,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07975101,10792 KNOTT AVE,33.805914,-118.010059,1.693,73761,CN,commercial,MU-G,Commercial Storage,,,not checked,,Possible,
+Stanton,07932027,7502 CERRITOS AVE,33.809713,-118.001216,1.686,73431,CN,commercial,GC,Retail Strip Development,,,not checked,,Possible,
+Stanton,13113106,11200 BEACH BLVD,33.799513,-117.992516,1.643,71555,SP,specific plan,MU-G,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan
+Stanton,13141115,8040 CHAPMAN AVE,33.787442,-117.992061,1.548,67438,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12642126,10450 BEACH BLVD,33.811009,-117.992498,1.546,67364,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13124112,11850 BEACH BLVD,33.79034,-117.991721,1.451,63204,CG,commercial,MU-G,Multi-Family Residential,,,not checked,,Possible,
+Stanton,13140107,12051 BEACH BLVD,33.78766,-117.994749,1.434,62473,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13148236,12392 BEACH BLVD,33.782352,-117.992166,1.434,62445,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13148224,8001 LAMPSON AVE,33.781507,-117.992118,1.38,60109,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13159222,12505 BEACH BLVD,33.780695,-117.993513,1.288,56110,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12641011,10332 BEACH BLVD,33.812475,-117.992396,1.282,55824,CG,commercial,GC,Retail Strip Development,,,not checked,,Possible,
+Stanton,07955137,7431 CERRITOS AVE,33.810672,-118.002532,1.271,55353,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13124156,,33.789022,-117.992502,1.231,53636,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13122129,11672 BEACH BLVD,33.793167,-117.992298,1.191,51867,CG,commercial,MU-G,Hotels and Motels,,,not checked,,Possible,
+Stanton,13169165,11462 BEACH BLVD,33.796013,-117.992352,1.188,51762,SP,specific plan,MU-G,Commercial and Services,,,not checked,,Unknown,zone specific plan
+Stanton,12647239,10511 MAGNOLIA AVE,33.809777,-117.976303,1.184,51567,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13109142,11051 BEACH BLVD,33.80213,-117.993846,1.174,51132,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13122119,11740 BEACH BLVD,33.792248,-117.992273,1.157,50408,CG,commercial,MU-G,Hotels and Motels,,,not checked,,Possible,
+Stanton,13168249,,33.778526,-117.996936,1.15,50086, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Stanton,13159221,12605 BEACH BLVD,33.780107,-117.993487,1.148,49992,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13121121,11626 BEACH BLVD,33.794077,-117.992345,1.139,49637,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13103201,7520 KATELLA AVE,33.802472,-118.000767,1.127,49095,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13142223,12128 BEACH BLVD,33.786002,-117.992223,1.1,47894,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13122145,11632 BEACH BLVD,33.793619,-117.992295,1.093,47599,CG,commercial,MU-G,Hotels and Motels,,,not checked,,Possible,
+Stanton,12642124,10440 BEACH BLVD,33.811529,-117.992521,1.031,44897,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13170102,,33.775124,-117.993261,1.002,43654,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13142222,12094 BEACH BLVD,33.786599,-117.992169,0.982,42794,CG,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13168250,,33.778885,-117.994752,0.965,42020, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Stanton,07976263,7145 KATELLA AVE,33.8034,-118.008561,0.961,41879,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13113107,11182 BEACH BLVD,33.80027,-117.992543,0.957,41694,SP,specific plan,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Stanton,13124145,11810 BEACH BLVD,33.790761,-117.992454,0.956,41635,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,,,33.793387,-118.000713,0.949,41320, ,unknown,,,,,not checked,,Unknown,zone unknown
+Stanton,13161111,7022 KATELLA AVE,33.801895,-118.01041,0.931,40556,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13124212,,33.791872,-117.992174,0.923,40202,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13170114,,33.776055,-117.993337,0.895,38984,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12628216,10200 BEACH BLVD,33.814209,-117.992778,0.889,38745,CG,commercial,MU-NG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12650335,8971 KATELLA AVE,33.803516,-117.976166,0.852,37106,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07976262,7129 KATELLA AVE,33.8034,-118.009002,0.849,36996,CG,commercial,GC,Retail Strip Development,,,not checked,,Possible,
+Stanton,07960127,10424 KNOTT AVE,33.810681,-118.010158,0.833,36295,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13141122,12050 BEACH BLVD,33.787545,-117.992494,0.826,35961,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13109152,11001 BEACH BLVD,33.802478,-117.993633,0.82,35711,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12641012,10360 BEACH BLVD,33.812029,-117.992582,0.813,35403,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12651130,8555 KATELLA AVE,33.803444,-117.983561,0.808,35206,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07922112,10231 BEACH BLVD,33.814157,-117.993748,0.791,34449,CG,commercial,MU-NG,Commercial and Services,,,not checked,,Possible,
+Stanton,13124205,11792 BEACH BLVD,33.791457,-117.992437,0.777,33827,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13149112,12500 BEACH BLVD,33.780719,-117.992352,0.777,33864,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13149111,8050 LAMPSON AVE,33.780856,-117.991679,0.751,32724,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13140108,12021 BEACH BLVD,33.788066,-117.994175,0.731,31843,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13109153,11221 BEACH BLVD,33.799791,-117.993653,0.73,31816,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13121120,11572 BEACH BLVD,33.79452,-117.99251,0.711,30976,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13148237,12456 BEACH BLVD,33.781931,-117.992246,0.691,30118,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,21504105,8510 CHAPMAN AVE,33.787785,-117.983676,0.69,30037,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13109165,,33.801401,-117.993741,0.689,29998,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13168301,7690 LAMPSON AVE,33.780767,-117.998503,0.688,29956,CN,commercial,GC,Wholesaling and Warehousing,,,not checked,,Possible,
+Stanton,13155407,8151 GARDEN GROVE BLVD,33.774121,-117.990003,0.674,29376,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13169167,11430 BEACH BLVD,33.796434,-117.9925,0.673,29320,SP,specific plan,MU-G,Commercial and Services,,,not checked,,Unknown,zone specific plan
+Stanton,13148219,12302 BEACH BLVD,33.783581,-117.992302,0.669,29152,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765137,,33.776097,-117.994575,0.658,28668,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,13137319,,33.783928,-117.993729,0.654,28508,CG,commercial,MU-SG,General Office Use,,,not checked,,Possible,
+Stanton,13137338,12235 BEACH BLVD,33.784432,-117.993556,0.654,28478,CG,commercial,MU-SG,General Office Use,,,not checked,,Possible,
+Stanton,07933133,10511 BEACH BLVD,33.809746,-117.993644,0.642,27958,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13121102,11550 BEACH BLVD,33.79501,-117.992482,0.639,27848,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07992308,7527 CERRITOS AVE,33.810503,-118.001354,0.63,27459,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13109125,11151 BEACH BLVD,33.800365,-117.993621,0.624,27169,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13136112,7931 LAMPSON AVE,33.781477,-117.993704,0.612,26659,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13149113,12530 BEACH BLVD,33.780214,-117.992361,0.611,26606,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12637103,10420 DALE ST,33.810922,-117.984266,0.609,26519,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13156216,12924 BEACH BLVD,33.774525,-117.992243,0.605,26352,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13103118,7600 KATELLA AVE,33.802479,-117.999754,0.6,26119,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,93765115,,33.77617,-117.993898,0.599,26091,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13122116,8022 LA MONTE RD,33.792717,-117.99209,0.589,25668,CG,commercial,MU-G,Single Family Residential,,,not checked,,Possible,
+Stanton,93765183,,33.779073,-117.99408,0.588,25604,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,93765186,,33.77908,-117.994107,0.588,25604,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,13161110,7076 KATELLA AVE,33.802158,-118.009202,0.583,25385,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12650328,,33.803506,-117.977599,0.58,25284,CN,commercial,MU-G,General Office Use,,,not checked,,Possible,
+Stanton,07931401,10506 KNOTT AVE,33.809648,-118.010261,0.573,24962,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13125418,,33.788757,-117.993433,0.573,24966,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12628107,8111 STARR ST,33.815244,-117.991173,0.572,24898,CG,commercial,MU-NG,Commercial Storage,,,not checked,,Possible,
+Stanton,12628105,8091 STARR ST,33.815216,-117.991639,0.57,24814,CG,commercial,MU-NG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12628106,8101 STARR ST,33.8152,-117.991301,0.57,24810,CG,commercial,MU-NG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12628122,8081 STARR ST,33.8152,-117.991864,0.57,24808,CG,commercial,MU-NG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07976236,7001 KATELLA AVE,33.803247,-118.010518,0.567,24678,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765101,,33.776788,-117.993998,0.565,24625,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,93765102,,33.776788,-117.993995,0.565,24625,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765105,,33.776791,-117.994011,0.565,24625,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765129,,33.777906,-117.994105,0.564,24553,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13159251,,33.779578,-117.9941,0.562,24501, ,unknown,,,,,not checked,,Unknown,zone unknown
+Stanton,07923222,10321 BEACH BLVD,33.812436,-117.993691,0.552,24029,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,93765167,,33.778682,-117.994099,0.549,23921,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13156214,12850 BEACH BLVD,33.775155,-117.992276,0.545,23748,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13109166,11091 BEACH BLVD,33.801702,-117.993792,0.544,23683,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765151,,33.778316,-117.994168,0.542,23618,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765152,,33.778328,-117.994211,0.542,23618,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,13156215,12900 BEACH BLVD,33.77483,-117.992204,0.536,23346,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13149114,12550 BEACH BLVD,33.779807,-117.992356,0.531,23112,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13161108,7000 KATELLA AVE,33.802475,-118.010615,0.52,22639,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13121132,8024 ORANGEWOOD AVE,33.795378,-117.992135,0.518,22563,CG,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13156209,12950 BEACH BLVD,33.774156,-117.992366,0.516,22475,CG,commercial,MU-SG,Commercial and Services,,,not checked,,Possible,
+Stanton,13103202,7500 KATELLA AVE,33.802455,-118.001521,0.515,22418,CN,commercial,GC,Retail Strip Development,,,not checked,,Possible,
+Stanton,12641010,10330 BEACH BLVD,33.812694,-117.992793,0.514,22384,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12642114,10460 BEACH BLVD,33.810486,-117.992707,0.513,22334,CG,commercial,GC,Retail Strip Development,,,not checked,,Possible,
+Stanton,13164101,7482 KATELLA AVE,33.802447,-118.002297,0.513,22345,CN,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07990133,7501 KATELLA AVE,33.803204,-118.001555,0.512,22306,CN,commercial,GC,Retail Strip Development,,,not checked,,Possible,
+Stanton,12636310,10471 MAGNOLIA AVE,33.810655,-117.97619,0.512,22286,CN,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12642118,8041 CERRITOS AVE,33.810495,-117.992245,0.511,22270,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13140115,,33.788059,-117.993447,0.511,22251,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171129,,33.778877,-117.993717,0.506,22027,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13438127,6959 CERRITOS AVE,33.810316,-118.011136,0.506,22051,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13156213,12800 BEACH BLVD,33.7754,-117.992147,0.502,21852,CG,commercial,MU-SG,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07933105,10565 BEACH BLVD,33.809184,-117.993611,0.492,21425,CN,commercial,MU-TC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12746206,10600 MAGNOLIA AVE,33.808521,-117.975324,0.489,21305,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13109122,11231 BEACH BLVD,33.799427,-117.993647,0.482,20980,CG,commercial,MU-G,Hotels and Motels,,,not checked,,Possible,
+Stanton,13169170,11382 BEACH BLVD,33.797009,-117.992635,0.477,20773,SP,specific plan,MU-G,Commercial and Services,,,not checked,,Unknown,zone specific plan
+Stanton,07923114,10241 BEACH BLVD A,33.813606,-117.993696,0.473,20605,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07923221,10301 BEACH BLVD,33.812843,-117.99369,0.473,20605,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07923237,10371 BEACH BLVD,33.812035,-117.993716,0.469,20415,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07976235,,33.803634,-118.010614,0.469,20430,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13149115,12552 BEACH BLVD,33.779462,-117.992383,0.466,20289,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12651111,8585 KATELLA AVE,33.803462,-117.983161,0.462,20142,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12651109,8615 KATELLA AVE A,33.803458,-117.982471,0.461,20067,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13140114,12007 BEACH BLVD,33.787743,-117.993475,0.461,20086,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171104,,33.777542,-117.994082,0.461,20075,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07992309,,33.810392,-118.001716,0.452,19675,CN,commercial,GC,Commercial and Services,,,not checked,,Possible,
+Stanton,13161109,7100 KATELLA AVE,33.802499,-118.009116,0.446,19433,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12637104,8501 CERRITOS AVE,33.810468,-117.98416,0.438,19093,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13124107,11892 BEACH BLVD,33.789705,-117.992575,0.436,18988,CG,commercial,MU-G,Hotels and Motels,,,not checked,,Possible,
+Stanton,13141120,12080 BEACH BLVD,33.786988,-117.992447,0.435,18946,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07960129,10498 KNOTT AVE,33.810306,-118.010357,0.428,18658,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12651128,8511 KATELLA AVE,33.803349,-117.984142,0.426,18572,CG,commercial,GC,Retail Strip Development,,,not checked,,Possible,
+Stanton,07975206,10832 KNOTT AVE,33.804842,-118.009969,0.413,17984,CN,commercial,MDR,Single Family Residential,,,not checked,,Possible,
+Stanton,13136113,12493 BEACH BLVD,33.781448,-117.993154,0.413,17982,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,21504104,8504 CHAPMAN AVE,33.788111,-117.983751,0.413,17987,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13170113,,33.774796,-117.994474,0.404,17597,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13109123,11241 BEACH BLVD,33.799159,-117.993612,0.403,17576,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07937132,7481 KATELLA AVE,33.803172,-118.002345,0.402,17512,CN,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13114142,,33.797982,-117.991542,0.4,17434,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,07924118,10499 BEACH BLVD,33.810487,-117.993687,0.399,17378,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12656309,10775 CHESTNUT ST,33.805874,-117.992464,0.398,17348,CN,commercial,I,"Manufacturing, Assembly, and Industrial Services",,,not checked,,Possible,
+Stanton,13113105,11296 BEACH BLVD,33.798956,-117.992611,0.396,17243,SP,specific plan,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Unknown,zone specific plan
+Stanton,13124121,11870 BEACH BLVD,33.790006,-117.992463,0.396,17242,CG,commercial,MU-G,Hotels and Motels,,,not checked,,Possible,
+Stanton,12656711,10890 BEACH BLVD,33.804211,-117.992803,0.391,17053,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13141129,,33.788081,-117.99254,0.389,16935,CG,commercial,MU-G,General Office Use,,,not checked,,Possible,
+Stanton,13137339,12235 BEACH BLVD,33.784186,-117.99352,0.387,16853,CG,commercial,MU-SG,General Office Use,,,not checked,,Possible,
+Stanton,13168251,,33.777684,-117.994499,0.385,16755, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Stanton,13169166,,33.796958,-117.9922,0.376,16357,SP,specific plan,MU-G,Mixed Residential and Commercial,,,not checked,,Unknown,zone specific plan
+Stanton,93767703,,33.796958,-117.9922,0.376,16357,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,07923213,7931 1ST ST,33.812142,-117.994091,0.375,16333,CG,commercial,GC,Single Family Residential,,,not checked,,Possible,
+Stanton,13155222,8221 GARDEN GROVE BLVD,33.774089,-117.988601,0.374,16294,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13155223,8201 GARDEN GROVE BLVD,33.774113,-117.98914,0.372,16211,CG,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07934312,10961 BEACH BLVD,33.80326,-117.993571,0.369,16068,CN,commercial,MU-TC,Retail Strip Development,,,not checked,,Possible,
+Stanton,12745142,10460 S MAGNOLIA AVE,33.81062,-117.975402,0.368,16012,CN,commercial,GC,Retail Strip Development,,,not checked,,Possible,
+Stanton,13169157,,33.796178,-117.991859,0.367,15979,SP,specific plan,MU-G,Commercial and Services,,,not checked,,Unknown,zone specific plan
+Stanton,13168247,,33.779172,-117.995867,0.357,15542, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Stanton,07933213,10691 BEACH BLVD,33.807251,-117.993612,0.354,15403,CN,commercial,MU-TC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13126314,11743 BEACH BLVD,33.79186,-117.993491,0.352,15338,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07923214,7921 1ST ST,33.812125,-117.99428,0.35,15230,CG,commercial,GC,Single Family Residential,,,not checked,,Possible,
+Stanton,07976261,7161 KATELLA AVE,33.803195,-118.008147,0.348,15140,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13137337,,33.784672,-117.993608,0.346,15070,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12636316,10425 S MAGNOLIA AVE,33.811222,-117.976212,0.344,14995,CN,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13148218,8048 CATHERINE AVE,33.783487,-117.991803,0.343,14948,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12746104,10578 MAGNOLIA AVE,33.809081,-117.975433,0.342,14892,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12746101,10502 S MAGNOLIA AVE,33.810067,-117.975455,0.34,14830,CG,commercial,MU-G,Retail Strip Development,,,not checked,,Possible,
+Stanton,13121133,11500 BEACH BLVD,33.795391,-117.99269,0.34,14819,CG,commercial,MU-G,Retail Strip Development,,,not checked,,Possible,
+Stanton,13438106,6921 CERRITOS AVE,33.810319,-118.011635,0.34,14801,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13125413,11869 BEACH BLVD,33.790021,-117.993413,0.336,14647,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13126312,11841 BEACH BLVD,33.790344,-117.993392,0.335,14607,CG,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13114147,,33.798005,-117.992129,0.327,14241,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,13114145,,33.797965,-117.992407,0.326,14222,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,07954305,7470 CERRITOS AVE,33.809799,-118.002275,0.323,14049,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07933205,10711 BEACH BLVD,33.806907,-117.993561,0.322,14019,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07934107,,33.80632,-117.993593,0.322,14008,CG,commercial,MU-TC,Under Construction,,,not checked,,Possible,
+Stanton,12628101,,33.815214,-117.992929,0.322,14042,CG,commercial,MU-NG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13149116,8100 LAMPSON AVE,33.780868,-117.991073,0.317,13805,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07955136,7499 CERRITOS AVE,33.810352,-118.002313,0.311,13542,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13140110,12003 BEACH BLVD,33.787504,-117.993474,0.309,13457,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765225,,33.776695,-117.993373,0.307,13364,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07934216,10881 BEACH BLVD,33.804318,-117.993481,0.305,13282,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765252,,33.77793,-117.993437,0.305,13290,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765272,,33.778238,-117.993446,0.305,13284,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765282,,33.778535,-117.993418,0.305,13277,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,93765293,,33.778802,-117.993285,0.305,13271,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,12643315,10500 BEACH BLVD,33.809794,-117.992841,0.304,13240,CN,commercial,MU-TC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12642127,,33.811811,-117.992577,0.3,13085,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765215,,33.777017,-117.993431,0.299,13041,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,13109151,11161 BEACH BLVD,33.800094,-117.993636,0.298,12998,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765262,,33.775992,-117.994897,0.291,12692,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12647235,,33.81001,-117.976007,0.29,12617,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07922111,10191 BEACH BLVD,33.814563,-117.99359,0.285,12424,CG,commercial,MU-NG,Commercial and Services,,,not checked,,Possible,
+Stanton,12746208,10654 MAGNOLIA AVE,33.808011,-117.975319,0.283,12332,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765240,,33.776692,-117.994437,0.282,12283,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,07933202,10645 BEACH BLVD,33.80793,-117.993706,0.281,12243,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171205,,33.777099,-117.993915,0.279,12139,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13122117,11702 BEACH BLVD,33.792768,-117.992574,0.277,12045,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12636311,10441 S MAGNOLIA AVE,33.810954,-117.976134,0.275,11997,CN,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12636313,10401 S MAGNOLIA AVE,33.811605,-117.976145,0.275,11998,CN,commercial,MU-G,Single Family Residential,,,not checked,,Possible,
+Stanton,12636314,10381 S MAGNOLIA AVE,33.811834,-117.976178,0.275,11998,CN,commercial,MU-G,Single Family Residential,,,not checked,,Possible,
+Stanton,12636315,10361 S MAGNOLIA AVE,33.812007,-117.976017,0.275,11998,CN,commercial,MU-G,Single Family Residential,,,not checked,,Possible,
+Stanton,13141125,8040 CHAPMAN AVE,33.788082,-117.99193,0.275,11998,CG,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07923115,10281 BEACH BLVD,33.813344,-117.993822,0.273,11873,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12656307,10742 BEACH BLVD,33.806241,-117.992852,0.273,11897,CN,commercial,I,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12651132,10960 DALE ST,33.803615,-117.984107,0.267,11622,CG,commercial,GC,Commercial and Services,,,not checked,,Possible,
+Stanton,12745140,9061 CERRITOS AVE,33.810639,-117.974585,0.264,11480,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12643314,10540 BEACH BLVD,33.809299,-117.992783,0.26,11320,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171221,,33.776967,-117.99366,0.256,11156,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12651123,8591 KATELLA AVE,33.803411,-117.982721,0.255,11125,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12746207,10630 MAGNOLIA AVE,33.808213,-117.97527,0.255,11089,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13148401,12232 BEACH BLVD,33.784678,-117.992566,0.252,10994,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13155232,12921 FERN ST,33.774631,-117.988772,0.25,10877,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13155233,12921 FERN ST,33.774412,-117.988771,0.249,10867,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07954307,7440 CERRITOS AVE,33.809828,-118.002695,0.24,10465,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07960130,7021 W CERRITOS AVE,33.810259,-118.009866,0.24,10462,CN,commercial,GC,Single Family Residential,,,not checked,,Possible,
+Stanton,07934105,10831 BEACH BLVD,33.804945,-117.9937,0.234,10201,CN,commercial,MU-TC,Commercial and Services,,,not checked,,Possible,
+Stanton,13114146,,33.798471,-117.991869,0.234,10180,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,07934215,10901 BEACH BLVD,33.804058,-117.993732,0.226,9856,CN,commercial,MU-TC,Religious Facilities,,,not checked,,Possible,
+Stanton,12650411,,33.80463,-117.976305,0.225,9810, ,unknown,,Transportation,,,not checked,,Unknown,zone unknown
+Stanton,07935513,7777 KATELLA AVE,33.80316,-117.99683,0.224,9739,CN,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07935514,7757 KATELLA AVE,33.803115,-117.997148,0.224,9745,CN,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07976224,7165 KATELLA AVE,33.80309,-118.007545,0.221,9620,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07934305,7931 KATELLA AVE,33.803218,-117.994143,0.218,9499,CN,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12656806,10922 BEACH BLVD,33.803515,-117.992679,0.214,9312,CN,commercial,MU-TC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07933106,10591 BEACH BLVD,33.808818,-117.993527,0.211,9182,CN,commercial,MU-TC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07933201,10631 BEACH BLVD,33.808117,-117.99352,0.211,9182,CN,commercial,MU-TC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07933214,10671 BEACH BLVD,33.807529,-117.993622,0.211,9183,CN,commercial,MU-TC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07992284,,33.810366,-117.999303,0.211,9196, ,unknown,,,,,not checked,,Unknown,zone unknown
+Stanton,12643316,10580 BEACH BLVD,33.808983,-117.993071,0.21,9167,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13114154,,33.797446,-117.991785,0.21,9145, ,unknown,,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone unknown
+Stanton,93765248,,33.776618,-117.994293,0.208,9078,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12651124,8595 KATELLA AVE,33.803465,-117.982743,0.206,8979,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13114122,,33.798003,-117.991863,0.203,8827,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,07936231,7731 KATELLA AVE,33.803112,-117.997817,0.199,8688,CN,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93767588,,33.797899,-117.991488,0.199,8690,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,93767589,,33.797891,-117.991468,0.199,8690,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,93767595,,33.797882,-117.991433,0.199,8690,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,12635503,10351 S MAGNOLIA AVE,33.81235,-117.976323,0.198,8628,CN,commercial,MU-G,Single Family Residential,,,not checked,,Possible,
+Stanton,13122118,11730 BEACH BLVD,33.792569,-117.992567,0.196,8558,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13169154,,33.797058,-117.992323,0.19,8276,SP,specific plan,MU-G,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone specific plan
+Stanton,13171111,,33.777781,-117.993625,0.187,8166,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13125404,11901 BEACH BLVD,33.789585,-117.993351,0.183,7963,CG,commercial,MU-G,Commercial and Services,,,not checked,,Possible,
+Stanton,12746209,10660 S MAGNOLIA AVE,33.807853,-117.975376,0.18,7825,CN,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13169150,,33.796969,-117.992325,0.173,7526,SP,specific plan,MU-G,Vacant Undifferentiated,,,not checked,,Unknown,zone specific plan
+Stanton,12636317,10425 MAGNOLIA AVE,33.811423,-117.976197,0.172,7497,CN,commercial,MU-G,Commercial and Services,,,not checked,,Possible,
+Stanton,13125403,11891 BEACH BLVD,33.789755,-117.993347,0.169,7340,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765302,,33.779113,-117.993491,0.169,7375,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13126306,11801 BEACH BLVD,33.791107,-117.993475,0.167,7256,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13126309,,33.790572,-117.993327,0.167,7287,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13126303,11763 BEACH BLVD,33.79152,-117.993192,0.166,7225,CG,commercial,MU-G,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13126304,11793 BEACH BLVD,33.791442,-117.993496,0.166,7235,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13126305,11793 BEACH BLVD,33.791294,-117.993555,0.166,7246,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07975202,10822 KNOTT AVE,33.805092,-118.010433,0.165,7190,CN,commercial,MDR,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12656805,10972 BEACH BLVD,33.803246,-117.992862,0.165,7175,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765235,,33.776421,-117.993288,0.163,7103,CG,commercial,MU-SG,Single Family Residential,,,not checked,,Possible,
+Stanton,07975201,10802 KNOTT AVE,33.805247,-118.010275,0.16,6981,CN,commercial,MDR,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12643317,10600 BEACH BLVD,33.808581,-117.99275,0.157,6826,CN,commercial,MU-TC,Commercial and Services,,,not checked,,Possible,
+Stanton,12643415,10632 BEACH BLVD,33.808092,-117.992793,0.157,6822,CN,commercial,MU-TC,Vacant Undifferentiated,,,not checked,,Possible,
+Stanton,13171223,,33.776428,-117.993747,0.154,6701,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765307,,33.777658,-117.993337,0.153,6663,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07934201,10861 BEACH BLVD,33.80452,-117.993409,0.152,6641,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07934315,10921 BEACH BLVD,33.803605,-117.993372,0.152,6641,CN,commercial,MU-TC,Single Family Residential,,,not checked,,Possible,
+Stanton,07934316,10931 BEACH BLVD,33.803519,-117.993589,0.152,6617,CN,commercial,MU-TC,Single Family Residential,,,not checked,,Possible,
+Stanton,07936228,7701 KATELLA AVE,33.803183,-117.99846,0.146,6372,CN,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,93765210,,33.777239,-117.993332,0.146,6354,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12643413,,33.807603,-117.992809,0.142,6176,CN,commercial,MU-TC,Commercial and Services,,,not checked,,Possible,
+Stanton,12643414,10650 BEACH BLVD,33.807844,-117.992811,0.142,6169,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171219,,33.776187,-117.994262,0.142,6199,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07933107,10605 BEACH BLVD,33.808615,-117.99342,0.141,6122,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07933108,10615 BEACH BLVD,33.808542,-117.993642,0.141,6122,CN,commercial,MU-TC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07933203,10645 BEACH BLVD,33.807655,-117.993461,0.141,6122,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13169142,,33.797082,-117.99207,0.126,5471,SP,specific plan,MU-G,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone specific plan
+Stanton,13171224,,33.776553,-117.99474,0.12,5231,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12745138,9041 CERRITOS AVE,33.810582,-117.974771,0.119,5177,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13169152,,33.797123,-117.991513,0.116,5037,SP,specific plan,MU-G,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone specific plan
+Stanton,07934106,,33.805131,-117.993786,0.115,5016,CN,commercial,MU-TC,Commercial and Services,,,not checked,,Possible,
+Stanton,13169153,,33.796767,-117.991553,0.114,4979,SP,specific plan,MU-G,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone specific plan
+Stanton,13169171,11382 BEACH BLVD,33.796865,-117.992617,0.114,4948,SP,specific plan,MU-G,Commercial and Services,,,not checked,,Unknown,zone specific plan
+Stanton,13171108,,33.777964,-117.992961,0.112,4874,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171123,,33.778308,-117.993104,0.112,4860,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171121,,33.778989,-117.993353,0.111,4844,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171122,,33.778672,-117.993307,0.111,4852,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171213,,33.777039,-117.993187,0.11,4773,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171109,,33.777695,-117.993085,0.109,4751,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12745139,9051 CERRITOS AVE,33.810509,-117.974371,0.106,4603,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13125405,,33.789321,-117.993267,0.105,4557,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171110,,33.777855,-117.993866,0.103,4497,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171126,,33.778224,-117.993818,0.103,4497,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171127,,33.778707,-117.994166,0.103,4497,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171128,,33.779093,-117.994171,0.103,4497,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171215,,33.776804,-117.993187,0.101,4393,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12643408,10712 BEACH BLVD,33.8069,-117.992979,0.1,4350,CN,commercial,MU-TC,Commercial and Services,,,not checked,,Possible,
+Stanton,13171214,,33.777209,-117.993535,0.1,4363,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,07976232,7003 W KATELLA AVE,33.803739,-118.009337,0.099,4300,CG,commercial,GC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171218,,33.776184,-117.994412,0.094,4109,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171217,,33.77669,-117.993855,0.091,3962,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171220,,33.776167,-117.993802,0.091,3962,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13169146,,33.79616,-117.991514,0.089,3893,SP,specific plan,MU-G,,,,not checked,,Unknown,zone specific plan
+Stanton,13171124,,33.778983,-117.993411,0.086,3742,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171216,,33.776578,-117.993495,0.086,3740,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171107,,33.77751,-117.992653,0.083,3628,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12643409,10712 BEACH BLVD,33.806987,-117.992751,0.081,3524,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12643410,10690 BEACH BLVD,33.807124,-117.992752,0.081,3524,CN,commercial,MU-TC,Commercial and Services,,,not checked,,Possible,
+Stanton,12643411,10692 BEACH BLVD,33.807312,-117.992931,0.081,3524,CN,commercial,MU-TC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,12643412,10692 BEACH BLVD,33.807397,-117.992749,0.081,3524,CN,commercial,MU-TC,Commercial and Services,,,not checked,,Possible,
+Stanton,12745137,9033 CERRITOS AVE,33.810851,-117.975835,0.08,3499,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,07934204,10891 BEACH BLVD,33.804162,-117.993582,0.076,3321,CN,commercial,MU-TC,Religious Facilities,,,not checked,,Possible,
+Stanton,,,33.802609,-117.988233,0.072,3115,BP,commercial,OS,Light Industrial,,,not checked,,Possible,
+Stanton,12745143,9029 CERRITOS AVE,33.810598,-117.975049,0.066,2876,CN,commercial,GC,Retail Centers (Non-Strip With Contiguous Interconnected Off-Street Parking),,,not checked,,Possible,
+Stanton,13169156,,33.795997,-117.991596,0.064,2777,SP,specific plan,MU-G,,,,not checked,,Unknown,zone specific plan
+Stanton,13169155,,33.796529,-117.992126,0.063,2765,SP,specific plan,MU-G,,,,not checked,,Unknown,zone specific plan
+Stanton,13169106,8071 SORRENTO LN,33.797184,-117.991175,0.057,2495,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,07936209,7701 KATELLA AVE,33.803204,-117.998847,0.054,2349,CN,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13169107,8074 SORRENTO LN,33.797179,-117.991825,0.052,2267,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169118,8073 RAVENNA LN,33.796771,-117.991022,0.052,2267,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169128,11409 TOSCANA CIR,33.796525,-117.991713,0.052,2267,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169129,11410 TOSCANA CIR,33.796362,-117.991815,0.052,2267,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,07975207,,33.804939,-118.010355,0.046,1995,CN,commercial,MDR,,,,not checked,,Possible,
+Stanton,13169147,,33.795959,-117.992112,0.046,2012,SP,specific plan,MU-G,,,,not checked,,Unknown,zone specific plan
+Stanton,13169149,,33.796974,-117.992733,0.046,2000,SP,specific plan,MU-G,Vacant Undifferentiated,,,not checked,,Unknown,zone specific plan
+Stanton,12656707,10866 BEACH BLVD,33.804535,-117.992768,0.042,1819,CN,commercial,MU-TC,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13169148,,33.797178,-117.99238,0.042,1844,SP,specific plan,MU-G,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone specific plan
+Stanton,13171120,,33.778931,-117.992347,0.04,1758,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,,,33.78433,-117.992111,0.036,1583,CG,commercial,MU-G,,,,not checked,,Possible,
+Stanton,13169101,8041 SORRENTO LN,33.797106,-117.991449,0.034,1494,SP,specific plan,MU-G,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone specific plan
+Stanton,13169125,8042 RAVENNA LN,33.796618,-117.991711,0.034,1489,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169131,11440 TOSCANA CIR,33.79625,-117.991654,0.034,1493,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169136,11497 TOSCANA CIR,33.796089,-117.992147,0.034,1491,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169102,8045 SORRENTO LN,33.7972,-117.99167,0.032,1402,SP,specific plan,MU-G,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone specific plan
+Stanton,13169103,8053 SORRENTO LN,33.797261,-117.991781,0.032,1402,SP,specific plan,MU-G,High Density Single Family Residential (9 or more DUs/ac),,,not checked,,Unknown,zone specific plan
+Stanton,13169105,8065 SORRENTO LN,33.797287,-117.991676,0.032,1402,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169112,8044 SORRENTO LN,33.797011,-117.991737,0.032,1402,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169115,8055 RAVENNA LN,33.796687,-117.991047,0.032,1402,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169119,8076 RAVENNA LN,33.796781,-117.991699,0.032,1402,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169122,8058 RAVENNA LN,33.796698,-117.991692,0.032,1402,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169135,11498 TOSCANA CIR,33.796117,-117.991573,0.032,1401,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169124,8046 RAVENNA LN,33.79659,-117.991507,0.03,1287,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169139,11461 TOSCANA CIR,33.795433,-117.990144,0.03,1328,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13170111,,33.775217,-117.992097,0.03,1295,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13139112,7841 LAURELTON AVE,33.786541,-117.995385,0.028,1240,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13139113,,33.78597,-117.994186,0.028,1208,CG,commercial,MU-G,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13169104,8057 SORRENTO LN,33.797204,-117.991486,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169108,8068 SORRENTO LN,33.796877,-117.990899,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169109,8060 SORRENTO LN,33.797306,-117.992488,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169110,8056 SORRENTO LN,33.797194,-117.992188,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169111,8048 SORRENTO LN,33.796966,-117.991483,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169113,8043 RAVENNA LN,33.796786,-117.991581,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169114,8047 RAVENNA LN,33.796696,-117.991175,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169116,8059 RAVENNA LN,33.797244,-117.992891,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169117,8067 RAVENNA LN,33.796789,-117.991214,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169120,8070 RAVENNA LN,33.796787,-117.991817,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169121,8064 RAVENNA LN,33.796369,-117.990447,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169123,8054 RAVENNA LN,33.796413,-117.990795,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169126,11439 TOSCANA CIR,33.796453,-117.991684,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169127,11421 TOSCANA CIR,33.796344,-117.991209,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169130,11422 TOSCANA CIR,33.796362,-117.991942,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169132,11462 TOSCANA CIR,33.796014,-117.991488,0.028,1237,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169133,11470 TOSCANA CIR,33.795938,-117.991138,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169134,11484 TOSCANA CIR,33.796238,-117.992095,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169137,11483 TOSCANA CIR,33.796046,-117.992093,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,13169138,11473 TOSCANA CIR,33.795734,-117.991097,0.028,1241,SP,specific plan,MU-G,Single Family Residential,,,not checked,,Unknown,zone specific plan
+Stanton,12656308,,33.806157,-117.992038,0.017,737,CN,commercial,I,Open Space and Recreation,,,not checked,,Possible,
+Stanton,13114162,,33.797009,-117.991573,0.017,759,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,13171125,,33.778236,-117.990777,0.015,643,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,,,33.79917,-117.994138,0.015,651, ,unknown,LDR,,,,not checked,,Unknown,zone unknown
+Stanton,13114159,,33.797879,-117.994267,0.014,594,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,13148214,,33.782585,-117.993971,0.014,599,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,13171212,,33.778542,-117.999119,0.009,380,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,,,33.799692,-117.995768,0.008,341, ,unknown,LDR,Educational Institutions,,,not checked,,Unknown,zone unknown
+Stanton,,,33.817014,-117.984249,0.007,308, ,unknown,,,,,not checked,,Unknown,zone unknown
+Stanton,13171106,,33.777107,-117.990656,0.006,255,CG,commercial,MU-SG,Retail Stores and Commercial Services,,,not checked,,Possible,
+Stanton,12745130,,33.811175,-117.971258,0.005,225, ,unknown,,,,,not checked,,Unknown,zone unknown
+Stanton,13114157,,33.797954,-117.994099,0.005,226,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,13114155,,33.797952,-117.993445,0.003,114,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,,,33.815149,-117.979513,0.003,146, ,unknown,,,,,not checked,,Unknown,zone unknown
+Stanton,,,33.811559,-117.986298,0.002,100, ,unknown,LDR,,,,not checked,,Unknown,zone unknown
+Stanton,,,33.811582,-117.983905,0.002,100, ,unknown,OS,,,,not checked,,Unknown,zone unknown
+Stanton,13114158,,33.788919,-117.962697,0.001,38,SP,specific plan,MU-G,"Low-Rise Apartments, Condominiums, and Townhouses",,,not checked,,Unknown,zone specific plan
+Stanton,13114161,,33.796033,-117.987913,0.001,28,SP,specific plan,MU-G,Retail Stores and Commercial Services,,,not checked,,Unknown,zone specific plan

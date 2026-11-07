@@ -169,3 +169,58 @@ written as `unknown`, never left blank.
 - Tested in Laguna Niguel: 4 note lines, then a header and 10 rows, every row 30 columns; commas
   and quotes are escaped; "sources disagree" rows carry the county address.
 - Fixed: the county "year built" value "0" now shows as blank (card and CSV).
+
+# Plan 4: Anaheim data pull and four-law screen
+
+- [x] Find Anaheim sources in the Lane 1 catalog
+- [x] Check service fields, counts and the SCAG land-use legend
+- [x] Download parcels, zoning, land use, general plan, historic districts, fire and flood
+- [x] Screen every parcel for SB 9, SB 684/1123, AB 2011, SB 4
+- [x] Write data README with sources and limits
+
+## Review (Plan 4)
+
+- New: `lanes/1-find-it/scripts/fetch_anaheim.py`, `screen_anaheim.py`, and
+  `lanes/1-find-it/data/anaheim/` (README, SUMMARY, full CSV, four candidate CSVs).
+- Results (56,478 parcels): SB 9 Possible 33,382; SB 684 Possible 6,311 (+84 SB 1123 vacant
+  lots, Unknown); AB 2011 Possible 1,513; SB 4 proxy sites 142 (owner unconfirmed).
+- Biggest gaps: 5,941 parcels in specific plans or with no SCAG zone code; owner data for SB 4;
+  state-responsibility fire areas; tenant and historic contributing status.
+
+# Plan 5: Four-city screen (Santa Ana, Anaheim, Garden Grove, Stanton)
+
+- [x] Make fetch and screen scripts take a city name
+- [x] Download and screen Santa Ana, Garden Grove, Stanton (Laguna Woods skipped: retirement community)
+- [x] Add team market CSVs (source unknown) and `compare_cities.py`
+- [x] Build `CITY-COMPARISON.md`
+
+## Review (Plan 5)
+
+- SB 9 / SB 684 / AB 2011 "Possible": Santa Ana 26,135 / 5,564 / 1,838; Anaheim 33,382 / 6,311 /
+  1,513; Garden Grove 22,741 / 4,279 / 1,554; Stanton 2,808 / 1,447 / 307. SB 4 proxy sites:
+  152 / 142 / 69 / 10.
+- Santa Ana and Garden Grove have about 3,500 parcels each in FEMA flood zones.
+- Next suggested: a ranked call list per law per city (vacant, parking, strip retail first).
+
+# Plan 6: Ranked call list
+
+- [x] Ranking script with visible rules (`rank_sites.py`)
+- [x] Fix legend labels; drop parent outlines and duplicates
+- [x] `CALL-LIST.md` (top 10) and `call-list.csv` (top 20) for 4 cities × 5 laws
+
+## Review (Plan 6)
+
+- 375 ranked leads. About 40% have no county site address; the map link is the way in.
+- Not done: landslide and transit checks, specific-plan zoning, owner data for SB 4.
+
+# Plan 7: Call list in the web app
+
+- [x] `rank_sites.py` writes `html/data/call-list.json`
+- [x] `html/call-list.html` + `call-list.js` (filters, table, map, check box, sources)
+- [x] Link from `index.html`; README item 8
+- [x] Tested in browser preview
+
+## Review (Plan 7)
+
+- New page works offline from one JSON file (190 KB); no live service calls.
+- Goes live on GitHub Pages once this branch is merged to main.
