@@ -127,3 +127,7 @@ attached by constrained to these cities and thresholds" (Laguna Woods, Santa Ana
   (`html/call-list.html`), `app.js` header comment and CSV caveat line, README and demo script
   titles. Kept the scenario quote ("ten sites…"), the "Find 10 sites" button and the CSV line (the
   main page still returns 10). Checked in the preview. Committed and pushed to main.
+
+**Prompt:** "so that changed the title of the web page itself but not the button"
+- Changed the main button from "Find 10 sites" to "Find sites" (`html/index.html`). The results
+  summary still says how many are shown. Committed and pushed to main.
