@@ -68,9 +68,11 @@ A single web page (`html/`) that, for the chosen city:
 ```bash
 git clone https://github.com/nicksan2c/claude-impact-lab-uci.git
 cd claude-impact-lab-uci
-python3 -m http.server 8123 --directory html
-# open http://localhost:8123
+./serve.sh            # start or restart on http://localhost:8123 and open the browser
 ```
+
+Other options: `./serve.sh 9000` (another port), `./serve.sh stop` (stop it), `NO_OPEN=1 ./serve.sh`
+(don't open the browser). Without the script: `python3 -m http.server 8123 --directory html`.
 
 Needs only Python 3 (or any web server: the `html/` folder deploys as-is to a LAMP host) and an
 internet connection. No keys.

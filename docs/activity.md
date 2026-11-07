@@ -164,3 +164,8 @@ github account" (yes: 10 GiB storage and 10 GiB bandwidth per month; not used to
   `docs/demo-video.mp4` (1 MB).
 - Added shareable links to the Call List page: `?city=…&law=…&row=…` opens that view.
 - Committed and pushed to main.
+
+**Prompt:** "please restart the local server" / "or give me the commands for future reference and write me a wrapper script for it as well?"
+- Restarted the preview server on port 8123. Added `serve.sh` (start or restart, another port,
+  stop, NO_OPEN=1) and put it in the README "Try it" section. Tested start, restart and stop on a
+  spare port. Committed and pushed to main.
