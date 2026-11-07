@@ -48,3 +48,9 @@
   `unknown` for missing values, file named by city and date).
 - Tested the generated file in Laguna Niguel (every row 30 columns, escaping correct).
 - Fixed county year built "0" showing as a year. Updated README and todo review. Committed and pushed.
+
+**Prompt:** "Help with demo script"
+- Read `docs/judging.md` and `docs/submission.md` (30-second video ideal, live demo for finalists).
+- Wrote `docs/demo-script.md`: 30-second video shot list with voiceover, a ~3-minute live demo,
+  judge Q&A, a pre-demo checklist and ready-to-paste submission form text. Uses numbers from the
+  2026-11-07 test runs (Anaheim, Laguna Niguel). Committed and pushed.
