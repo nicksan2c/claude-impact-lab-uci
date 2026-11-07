@@ -194,7 +194,7 @@ async function addZoning(sites) {
   try {
     const j = await arcgis(SRC.zoning.url, {
       where: `APN24 IN (${apns.map((a) => `'${a}'`).join(',')})`,
-      outFields: 'APN24,ZN24_CITY,ACRES,SLOPE', returnGeometry: false,
+      outFields: 'APN24,ZN24_CITY,ZN24_SCAG,ACRES,SLOPE', returnGeometry: false,
     });
     const z = {};
     j.features.forEach((f) => { z[f.attributes.APN24] = f.attributes; });
@@ -234,6 +234,36 @@ function flag(label, hit, okText, hitText, src) {
   return `<span class="badge flag ${cls} me-1 mb-1" title="${esc(SRC[src].name)}">${label}: ${esc(text)}</span>`;
 }
 
+// "Which law" row: one badge per law, plus a list of the tests behind it.
+function lawRow(s, id, z, acres) {
+  const hit = (h) => (h === 'error' ? null : !!h);
+  const flood = s.checks.flood;
+  const result = checkLaws({
+    zoneCode: z?.ZN24_SCAG,
+    acres: acres != null ? Number(acres) : null,
+    fire: hit(s.checks.fire),
+    sfha: flood === 'error' ? null : !!(flood && /^[AV]/.test(flood.FLD_ZONE || '')),
+    publicOwner: !!s.surplus,
+  });
+  const color = { Possible: 'text-bg-success', 'Not likely': 'text-bg-secondary', Unknown: 'text-bg-warning' };
+  const mark = { pass: '✓', fail: '✗', unknown: '?', 'not checked': '–' };
+  const badges = result.laws.map((l) =>
+    `<span class="badge ${color[l.v]} me-1 mb-1" title="${esc(l.cite)}">${esc(l.law)}: ${esc(l.v)}</span>`).join('');
+  const details = result.laws.map((l, i) => `
+    <div id="${id}-law${i + 1}" class="mt-1">
+      <strong>${esc(l.law)}</strong> (${esc(l.cite)}): ${esc(l.v)}.
+      <a href="${esc(l.src)}" target="_blank" rel="noopener">HCD fact sheet, Apr 2026</a>
+      <ul class="mb-1 ps-3">${l.tests.map((t) => `<li>${mark[t.r]} ${esc(t.t)}${t.r === 'not checked' ? ' <span class="text-muted">(not checked)</span>' : ''}</li>`).join('')}</ul>
+    </div>`).join('');
+  return `
+      <div id="${id}-laws" class="small mt-2">
+        <strong>Which law might apply:</strong><br>${badges}
+        <details id="${id}-law-details"><summary>Show tests</summary>${details}
+          <div id="${id}-law-note" class="text-muted">First screen only, from HCD fact sheets. Zone type is SCAG's regional category; the city's own zoning code decides, and the two can differ (for example, Laguna Beach "R3" is SCAG single-family 1111). ✓ passed, ✗ failed, ? unknown, – not checked. Not a legal determination: confirm with the city and a land-use attorney.</div>
+        </details>
+      </div>`;
+}
+
 function card(s, rank) {
   const id = `site-${rank}`;
   const z = s.zoning && s.zoning !== 'error' ? s.zoning : null;
@@ -257,7 +287,7 @@ function card(s, rank) {
       <div id="${id}-facts" class="small mt-2">
         ${s.he ? `<div id="${id}-line3">Housing element (data year ${esc(s.he.year)}): ${s.he.low} lower, ${s.he.moderate} moderate, ${s.he.above} above-moderate homes planned. <span class="text-muted">[${esc(SRC.he.name)}]</span></div>` : ''}
         ${s.surplus ? `<div id="${id}-line4">Surplus notice: ${esc(s.surplus.existing_use || 'use not given')}; ${esc(s.surplus.zoning || 'zoning not given')}. Status <strong>${esc(s.surplus.status)}</strong> in the HCD file (meaning not confirmed: ask the agency if the land is still available). <span class="text-muted">[HCD, downloaded ${esc(surplusData.downloaded)}]</span></div>` : ''}
-        <div id="${id}-line5">Zoning: ${z ? esc(z.ZN24_CITY) : 'unknown'}; size: ${acres != null ? Number(acres).toFixed(2) + ' acres' : 'unknown'}. <span class="text-muted">[${z ? esc(SRC.zoning.name) : s.surplus?.acres != null ? 'HCD notice' : 'no source'}]</span></div>
+        <div id="${id}-line5">Zoning: ${z ? `${esc(z.ZN24_CITY)} (SCAG category ${esc(z.ZN24_SCAG || '?')}: ${esc(zoneType(z.ZN24_SCAG).label)})` : 'unknown'}; size: ${acres != null ? Number(acres).toFixed(2) + ' acres' : 'unknown'}. <span class="text-muted">[${z ? esc(SRC.zoning.name) : s.surplus?.acres != null ? 'HCD notice' : 'no source'}]</span></div>
         ${s.parcel?.SITE_ADDRESS && !s.parcel.SITE_ADDRESS.toUpperCase().includes($('city').value)
           ? `<div id="${id}-mismatch" class="text-warning-emphasis"><strong>Sources disagree:</strong> SCAG lists this site under ${esc(titleCase($('city').value))}, but the county address is "${esc(titleCase(s.parcel.SITE_ADDRESS))}". Check which city has jurisdiction.</div>` : ''}
         <div id="${id}-line6">Year built on county record: ${s.parcel ? esc(s.parcel.YEAR_BUILT || 'blank (may be vacant, or not recorded)') : 'unknown'}. <span class="text-muted">[${esc(SRC.parcels.name)}]</span></div>
@@ -271,6 +301,8 @@ function card(s, rank) {
           ? `<span class="badge flag bg-info-subtle text-info-emphasis me-1 mb-1" title="${esc(SRC.transit.name)}">Transit: ${esc(s.checks.transit.hqta_type)}</span>`
           : flag('Transit', s.checks.transit === 'error' ? 'error' : null, 'not in HQTA', () => '', 'transit').replace('bg-success-subtle text-success-emphasis', 'bg-light text-muted')}
       </div>
+
+      ${lawRow(s, id, z, acres)}
 
       <div id="${id}-why" class="small mt-2"><strong>Why it ranks here:</strong> ${s.why.map(esc).join('; ') || 'no points'}</div>
       <div id="${id}-unknown" class="small mt-1 text-danger-emphasis"><strong>Unknown:</strong> owner and willingness to sell; whether it has sold or been built since listing; water, sewer, contamination; local objective standards.</div>
@@ -292,6 +324,7 @@ function renderMap(top) {
     }).bindTooltip(`${i + 1}. APN ${s.apn}`).on('click', () => $(`site-${i + 1}`).scrollIntoView({ behavior: 'smooth' }))
       .addTo(markerLayer);
   });
+  map.invalidateSize();
   if (top.length) map.fitBounds(L.latLngBounds(top.map((s) => [s.lat, s.lon])).pad(0.2));
 }
 
@@ -340,6 +373,14 @@ function renderMethod() {
     `${WEIGHTS.floodPenalty} if in a FEMA flood zone starting with A or V (Special Flood Hazard Area)`,
     `${WEIGHTS.firePenalty} if in a mapped local fire hazard severity zone (LRA layer only; state-responsibility areas not checked)`,
     `${WEIGHTS.landslidePenalty} if in a CGS landslide zone`,
+  ].map((t) => `<li>${esc(t)}</li>`).join('');
+  $('laws-list').innerHTML = [
+    'SB 9: single-family zone (SCAG codes 111x).',
+    'SB 684: multifamily zone (112x; mixed-use 16x counts only if the zone allows multifamily), lot under 5 acres, not in a fire hazard zone. SB 1123: single-family zone and a vacant lot; its size limit is not in the HCD fact sheet, so it stays unknown.',
+    'AB 2011: zone allows office, retail or parking (SCAG 1200–1233, 1500, 16x).',
+    'SB 4: allowed in any zone, but the owner must be a religious institution or independent college; free data does not show the owner. Very high fire zones and FEMA A/V flood zones rule it out; so does a public owner (surplus notice).',
+    'Specific-plan (7777) or blank zoning: unknown. Read the specific plan.',
+    'Zone types come from SCAG\'s ZN24_SCAG code legend (in the layer description). Ranking does not use these results.',
   ].map((t) => `<li>${esc(t)}</li>`).join('');
   $('sources-list').innerHTML = Object.values(SRC).map((s) =>
     `<li><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.name)}</a></li>`).join('');

@@ -23,3 +23,18 @@
   "sources disagree" warning, unique div ids; reworded the "Archive" note (meaning unconfirmed).
 - Wrote the team README; moved the event README to `docs/event-readme.md`; filled the review in
   `tasks/todo.md`. Committed and pushed.
+
+**Prompt:** "Add which-law column"
+- Downloaded and read the HCD Housing Law Fact Sheets (April 2026) for AB 2011, SB 4, SB 9 and the
+  Starter Home Revitalization Act (SB 684 / SB 1123).
+- Found the SCAG `ZN24_SCAG` zoning code legend in the layer's own description.
+- Noted a source disagreement: "under five acres" vs "5 acres or less" for SB 684.
+- Wrote Plan 2 in `tasks/todo.md`. Waiting for approval before building.
+
+**Prompt:** "Approve, build it"
+- Added `html/laws.js` (which-law rules from HCD fact sheets + SCAG code legend) and the
+  "Which law might apply" row with "Show tests" on each card; rules listed in the method box.
+- Tested rules on 7 sample cases and live in Anaheim, Laguna Beach and Laguna Niguel.
+- Found a SCAG vs city zone-name difference (Laguna Beach R3 = SCAG 1111); now shown on cards.
+- Fixed the map zooming out when drawn while hidden.
+- Updated README (sources, limits, next steps), todo review and this log. Committed and pushed.

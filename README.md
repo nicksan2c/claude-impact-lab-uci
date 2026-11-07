@@ -35,7 +35,11 @@ A single web page (`html/`) that, for the chosen city:
 4. Shows ten cards and a map. Each card has a "why it ranks here" line, an "unknown" line, a
    source next to every fact, and "who to call" (the agency that filed the notice, or the city's
    planning department).
-5. Shows a warning when sources **disagree**, for example when SCAG puts a parcel in one city and
+5. Adds a **"Which law might apply"** row: SB 9, SB 684/1123, AB 2011 and SB 4, each marked
+   Possible, Not likely or Unknown. "Show tests" lists what passed, what failed and what was not
+   checked. The tests come only from HCD's fact sheets (April 2026), and zone types come from
+   SCAG's code legend. This is a first screen, not a legal determination.
+6. Shows a warning when sources **disagree**, for example when SCAG puts a parcel in one city and
    the county address says another.
 
 **Demo video:** [TO FILL]
@@ -78,6 +82,8 @@ To refresh the surplus-land data: download the CSV from the HCD link below, then
 | Transit | Caltrans High Quality Transit Areas, https://caltrans-gis.dot.ca.gov/arcgis/rest/services/CHrailroad/CA_HQ_Transit_Areas/FeatureServer/0 | 2026-11-07, live |
 | Ranking points (+40 lower-income units, +25 surplus notice, +15 transit, −20 per hazard) | **ASSUMPTION**: the team's judgment of what makes a site worth a call first. Not from any law or program. Set in `WEIGHTS` in `html/app.js` | 2026-11-07 |
 | Hazard checks on the top 25 only | **ASSUMPTION**: a limit to keep requests to public servers low | 2026-11-07 |
+| Law site tests (SB 9, SB 684/1123, AB 2011, SB 4) | HCD Housing Law Fact Sheets, April 2026, https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-law-fact-sheets.pdf and SB 9 fact sheet https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/lot-splits-and-duplexes-sb-9.pdf. Rules are in `html/laws.js` | 2026-11-07 |
+| Zone type (single-family, multifamily, commercial) | SCAG `ZN24_SCAG` code legend in the Zoning_poly_OR layer description | 2026-11-07 |
 | A and V flood zones are high-risk | FEMA flood zone codes: zones starting with A or V are Special Flood Hazard Areas | 2026-11-07 |
 
 ## What is real and what is mocked
@@ -87,6 +93,7 @@ To refresh the surplus-land data: download the CSV from the HCD link below, then
 | Housing-element sites, zoning, parcels, hazards, transit | working, live public data |
 | Surplus-land notices | working, cached copy of the HCD CSV (dated in the UI) |
 | Ranking | working; weights are ASSUMPTION |
+| Which-law screen | working for the tests listed; all other tests shown as "not checked" |
 | Owner and willingness to sell | **not available**: shown as unknown |
 
 ## Where it gets things wrong
@@ -104,13 +111,22 @@ To refresh the surplus-land data: download the CSV from the HCD link below, then
   "Year built" from the county is a hint only: blank can mean vacant or just not recorded.
 - **Sources disagree on city** for some parcels (for example, Laguna Niguel sites with Mission
   Viejo addresses). The card flags it; we do not pick one.
+- **The which-law screen uses SCAG's regional zone category, not the city's code.** They can
+  differ: Laguna Beach "R3" is SCAG single-family (1111), so SB 9 shows Possible there. The card
+  shows both so a person can check.
+- **HCD's SB 684 sheet gives two lot-size wordings** ("under five acres" and "5 acres or less"). A
+  lot of exactly 5.00 acres is marked Unknown. SB 1123's lot-size limit is not in the fact sheet, so
+  it stays Unknown.
+- **SB 4 is almost always Unknown**: ownership by a religious institution or college is not in
+  free data. Condo conversion is not screened (no source loaded).
 - **Not checked:** ownership, contamination, water and sewer capacity, slope, local objective
-  standards, and which state law (SB 9, SB 684, AB 2011, SB 4) applies.
+  standards, historic status, tenant history.
 
 ## Next steps
 
-- **Next month:** add a "which law opens this site" column for AB 2011 (commercial zones) and
-  SB 4 (worship-site proxy), each with yes / no / unknown and the test that decided it.
+- **Next month:** add an SB 4 lead finder (worship-site and college proxy, clearly labeled as a
+  proxy), and read the city's own zoning code for one city so the which-law screen does not rely
+  on SCAG's regional category.
 - Add the CAL FIRE state-responsibility layer and the HCD statewide sites inventory to fill the
   missing cities.
 - Export to CSV so the list drops into a nonprofit's pipeline tracker.

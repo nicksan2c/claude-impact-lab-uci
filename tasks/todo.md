@@ -75,3 +75,61 @@ list to CSV.
   `docs/event-readme.md`.
 - Open items: team name, members, demo video and live link in README; SRA fire layer;
   law-by-law eligibility; CSV export.
+
+---
+
+# Plan 2: "Which law" column
+
+Add a row to each site card: **SB 9 · SB 684/1123 · AB 2011 · SB 4**, each marked **Possible**,
+**Not likely** or **Unknown**, with the reason, and a "show tests" list of what passed, what failed
+and what was not checked.
+
+## Sources (read 2026-11-07)
+
+- HCD Housing Law Fact Sheets, April 2026:
+  https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/housing-law-fact-sheets.pdf
+- HCD SB 9 fact sheet, April 2026:
+  https://www.hcd.ca.gov/sites/default/files/docs/planning-and-community/lot-splits-and-duplexes-sb-9.pdf
+- SCAG Zoning_poly_OR layer description: the `ZN24_SCAG` code legend (1110s single-family, 1120s
+  multifamily, 1200s office, retail and commercial, 1600s mixed residential and commercial, 7777
+  specific plan, 9999 unknown).
+
+## Rules the tool will apply (only what those sources say)
+
+| Law | Test the tool can check | Result |
+|---|---|---|
+| SB 9 (Gov Code 65852.21, 66411.7) | Single-family zone (SCAG 111x) | Possible if yes, Not likely if no |
+| SB 684 (Gov Code 65852.28, 66499.41) | Multifamily zone (112x; 16xx counts as Possible only if the zone allows multifamily); lot under 5 acres; not in a fire hazard zone | Possible / Not likely |
+| SB 1123 | Single-family zone **and vacant** lot | Unknown: vacancy not confirmed; lot-size limit is not in the HCD fact sheet |
+| AB 2011 (Gov Code 65912.100–.140) | Zone allows office, retail or parking (SCAG 12xx commercial codes, 16xx mixed) | Possible / Not likely |
+| SB 4 (Gov Code 65913.16) | Not in a Very High fire zone or FEMA special flood hazard area; owner type | Not likely if a hazard hits or a public agency filed a surplus notice; otherwise **Unknown** (owner not in free data) |
+| Any law | Specific plan (7777) or blank zoning | Unknown: read the specific plan |
+
+**Source disagreement to show:** HCD's SB 684 sheet says lots "under five acres" in one paragraph
+and "5 acres or less" in another. A lot of exactly 5.00 acres is marked Unknown with both quotes.
+
+**Always listed as "not checked":** urbanized area, historic status, tenants or rent control in the
+last few years, wetlands and farmland, industrial neighbors (SB 4), labor and affordability terms,
+local exemptions, objective standards.
+
+Condo conversion is left out: no source is loaded for it.
+
+## Todo
+
+- [x] 1. Add `LAWS` rules in `app.js`, each with its source URL and date
+- [x] 2. Add the "Which law" row with badges and a "show tests" list to each card
+- [x] 3. Add the rules and sources to the "How it works" box
+- [x] 4. Test Anaheim, Laguna Beach and Laguna Niguel; check each verdict against its zoning code
+- [x] 5. Update README, review section and activity log; commit and push
+
+## Review (Plan 2)
+
+- New file `html/laws.js`: `zoneType()` maps SCAG codes to zone types; `checkLaws()` returns
+  Possible / Not likely / Unknown per law, with every test marked passed, failed, unknown or not
+  checked. Each law links to its HCD fact sheet and Gov Code sections.
+- `app.js`: zoning lookup now also gets `ZN24_SCAG`; each card has a "Which law might apply" row
+  and a "Show tests" list; the zoning line shows the SCAG category; the method box lists the rules.
+- Tested 7 sample cases in Node and live in Anaheim, Laguna Beach and Laguna Niguel. Found that
+  Laguna Beach "R3" is SCAG single-family, so the card now shows both codes and a note.
+- Fixed: the map could zoom out to the world map if drawn while hidden (`invalidateSize`).
+- Ranking is unchanged; the law screen does not affect scores.
