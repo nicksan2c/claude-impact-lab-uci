@@ -99,3 +99,12 @@ attached by constrained to these cities and thresholds" (Laguna Woods, Santa Ana
 **Prompt:** "what's the current status and what should be next on this list to analyze?"
 - Reported status; recommended a ranked call list per law per city next.
 - Screened Garden Grove and Stanton, built `lanes/1-find-it/data/CITY-COMPARISON.md`. Committed and pushed.
+
+**Prompt:** "Yes, build it" (ranked call list per law per city)
+- Added `lanes/1-find-it/scripts/rank_sites.py`: top 20 per law (AB 2011, SB 684, SB 1123, SB 4,
+  SB 9) per city in `call-list.csv`, top 10 in `CALL-LIST.md`, with a "check before calling"
+  line per law and a map link. Ranking (ASSUMPTION): vacant/parking first, then retail/office,
+  then other non-housing, then existing housing; bigger lots first. Flood-zone parcels left out.
+- Fixed the SCAG legend parser (codes like 1122 had blank labels). Added a `parent_parcel` column;
+  parent outlines and duplicate locations are left out of the call list.
+- Committed and pushed.

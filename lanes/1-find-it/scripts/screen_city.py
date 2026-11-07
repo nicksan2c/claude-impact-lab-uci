@@ -38,7 +38,7 @@ def load(name):
 def legend():
     text = open(os.path.join(RAW, 'scag_legend.txt')).read()
     text = text[text.find('Legend'):]
-    pairs = re.findall(r'(\d{4})\s+([A-Za-z][^0-9]*?)(?=\s*\d{4}\s|\s*$)', text)
+    pairs = re.findall(r'(\d{4})\s+([A-Za-z].*?)(?=\s*\d{4}\s|\s*$)', text)
     # Category headings run into the description ("Urban VacantWater"); cut at the join.
     return {code: re.split(r'(?<=[a-z\)])(?=[A-Z])', desc)[0].strip() for code, desc in pairs}
 
@@ -227,6 +227,7 @@ def main():
             'acres': round(z['ACRES'], 3) if z['ACRES'] is not None else None,
             'lot_sqft': round(z['ACRES'] * SQFT_PER_ACRE) if z['ACRES'] else None,
             'slope': z['SLOPE'],
+            'parent_parcel': 'yes' if z['PARENT_INDEX'] else '',  # outline of other parcels
             'zone_city': z['ZN24_CITY'], 'zone_scag': z['ZN24_SCAG'],
             'zone_type': zone_type(z['ZN24_SCAG']),
             'general_plan_city': g.get('GP24_CITY', ''), 'gp_max_density': g.get('DEN_MAX'),

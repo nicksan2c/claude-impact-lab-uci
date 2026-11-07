@@ -201,3 +201,14 @@ written as `unknown`, never left blank.
   152 / 142 / 69 / 10.
 - Santa Ana and Garden Grove have about 3,500 parcels each in FEMA flood zones.
 - Next suggested: a ranked call list per law per city (vacant, parking, strip retail first).
+
+# Plan 6: Ranked call list
+
+- [x] Ranking script with visible rules (`rank_sites.py`)
+- [x] Fix legend labels; drop parent outlines and duplicates
+- [x] `CALL-LIST.md` (top 10) and `call-list.csv` (top 20) for 4 cities × 5 laws
+
+## Review (Plan 6)
+
+- 375 ranked leads. About 40% have no county site address; the map link is the way in.
+- Not done: landslide and transit checks, specific-plan zoning, owner data for SB 4.
